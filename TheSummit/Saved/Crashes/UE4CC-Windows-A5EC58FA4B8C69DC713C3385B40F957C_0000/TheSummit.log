@@ -1,0 +1,773 @@
+﻿Log file open, 09/12/18 22:31:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.542589
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.108s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.13-02.31.29:346][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.13-02.31.29:346][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.13-02.31.29:358][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.13-02.31.29:359][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.13-02.31.29:359][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.13-02.31.29:359][  0]LogInit: Computer: ALI-PC
+[2018.09.13-02.31.29:359][  0]LogInit: User: aliha
+[2018.09.13-02.31.29:359][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.09.13-02.31.29:359][  0]LogInit: High frequency timer resolution =2.929945 MHz
+[2018.09.13-02.31.29:359][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.13-02.31.29:359][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.13-02.31.29:359][  0]LogMemory: Process Physical Memory: 106.34 MB used, 106.34 MB peak
+[2018.09.13-02.31.29:359][  0]LogMemory: Process Virtual Memory: 100.77 MB used, 100.77 MB peak
+[2018.09.13-02.31.29:359][  0]LogMemory: Physical Memory: 7389.34 MB used,  8927.35 MB free, 16316.69 MB total
+[2018.09.13-02.31.29:359][  0]LogMemory: Virtual Memory: 4696.93 MB used,  8927.35 MB free, 134217728.00 MB total
+[2018.09.13-02.31.29:378][  0]LogInit: Using OS detected language (en-US).
+[2018.09.13-02.31.29:378][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.13-02.31.29:379][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.13-02.31.29:745][  0]LogStreaming: Display: Took  0.367s to InitEngineTextLocalization.
+[2018.09.13-02.31.29:745][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.13-02.31.29:794][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.13-02.31.29:794][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.13-02.31.30:101][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.13-02.31.30:164][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.13-02.31.30:164][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.13-02.31.30:167][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.13-02.31.30:167][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.13-02.31.30:167][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.13-02.31.30:179][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.13-02.31.30:179][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.13-02.31.30:179][  0]LogWindows: EnumDisplayDevices:
+[2018.09.13-02.31.30:179][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.13-02.31.30:179][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.13-02.31.30:179][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.13-02.31.30:179][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.13-02.31.30:179][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.13-02.31.30:179][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.13-02.31.30:179][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.09.13-02.31.30:179][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.09.13-02.31.30:179][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.13-02.31.30:225][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.13-02.31.30:257][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.13-02.31.30:302][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/24824/).
+[2018.09.13-02.31.30:302][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/EF82DA014BACC9329B90C2995D8E1B01/'.
+[2018.09.13-02.31.30:543][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.13-02.31.30:557][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.13-02.31.30:571][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.13-02.31.30:585][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.13-02.31.30:599][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.13-02.31.30:612][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.13-02.31.30:626][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.13-02.31.30:640][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.13-02.31.30:646][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:730][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-02.31.30:732][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.13-02.31.30:793][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.13-02.31.30:793][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.13-02.31.30:818][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.13-02.31.30:818][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.13-02.31.30:832][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.13-02.31.30:845][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.13-02.31.30:858][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.13-02.31.30:872][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.13-02.31.30:881][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.13-02.31.30:881][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.13-02.31.30:928][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.13-02.31.30:928][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.13-02.31.30:928][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.13-02.31.31:808][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.13-02.31.31:858][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.13-02.31.31:858][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.13-02.31.31:858][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.13-02.31.31:858][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.13-02.31.31:858][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.13-02.31.31:858][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.13-02.31.31:871][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.13-02.31.31:883][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.13-02.31.31:883][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.13-02.31.31:883][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.13-02.31.31:900][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.13-02.31.31:902][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.13-02.31.31:903][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.13-02.31.31:987][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.09.13-02.31.32:326][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.13-02.31.32:465][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.13-02.31.32:468][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.13-02.31.32:468][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.13-02.31.32:468][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.13-02.31.32:468][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.13-02.31.32:489][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.09.13-02.31.33:096][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.121749 seconds
+[2018.09.13-02.31.33:104][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.13-02.31.33:104][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.13-02.31.33:104][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.13-02.31.34:057][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.13-02.31.34:085][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.13-02.31.34:238][  0]SourceControl: Source control is disabled
+[2018.09.13-02.31.34:238][  0]SourceControl: Source control is disabled
+[2018.09.13-02.31.34:239][  0]SourceControl: Source control is disabled
+[2018.09.13-02.31.34:240][  0]SourceControl: Source control is disabled
+[2018.09.13-02.31.34:408][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.13-02.31.34:478][  0]LogOcInput: OculusInput pre-init called
+[2018.09.13-02.31.34:544][  0]LogEngine: Initializing Engine...
+[2018.09.13-02.31.34:545][  0]LogHMD: Oculus plugin initialized. Version: 4.20.1-4233996+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.09.13-02.31.34:546][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.13-02.31.34:546][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-02.31.34:547][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.13-02.31.34:547][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-02.31.34:773][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.13-02.31.34:782][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.13-02.31.34:799][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.13-02.31.34:815][  0]LogInit: FAudioDevice initialized.
+[2018.09.13-02.31.34:815][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.13-02.31.34:898][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.13-02.31.34:915][  0]LogInit: Texture streaming: Enabled
+[2018.09.13-02.31.34:930][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.13-02.31.34:945][  0]LogInit: Transaction tracking system initialized
+[2018.09.13-02.31.34:961][  0]BlueprintLog: New page: Editor Load
+[2018.09.13-02.31.35:076][  0]LocalizationService: Localization service is disabled
+[2018.09.13-02.31.35:355][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.01s
+[2018.09.13-02.31.35:355][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.13-02.31.35:355][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.13-02.31.35:355][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.13-02.31.35:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.13-02.31.35:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-02.31.35:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.13-02.31.35:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-02.31.35:489][  0]SourceControl: Source control is disabled
+[2018.09.13-02.31.35:540][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Unreal Engine/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.09.13-02.31.35:597][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.09.13-02.31.35:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.09.13-02.31.35:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.09.13-02.31.35:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.09.13-02.31.35:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.09.13-02.31.35:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.09.13-02.31.35:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.09.13-02.31.35:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.09.13-02.31.35:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.09.13-02.31.35:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.09.13-02.31.35:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.09.13-02.31.35:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.09.13-02.31.35:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.09.13-02.31.35:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.09.13-02.31.35:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.09.13-02.31.35:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.09.13-02.31.35:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.09.13-02.31.35:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.09.13-02.31.36:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Fire01.uasset"
+[2018.09.13-02.31.36:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.09.13-02.31.36:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.09.13-02.31.36:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.09.13-02.31.36:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Light01.uasset"
+[2018.09.13-02.31.36:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.09.13-02.31.36:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Light02.uasset"
+[2018.09.13-02.31.36:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.09.13-02.31.36:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.09.13-02.31.36:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.09.13-02.31.36:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.09.13-02.31.36:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.09.13-02.31.36:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.09.13-02.31.36:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.09.13-02.31.36:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.09.13-02.31.36:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.09.13-02.31.36:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Steam01.uasset"
+[2018.09.13-02.31.36:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.09.13-02.31.36:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.09.13-02.31.36:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.09.13-02.31.36:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.09.13-02.31.36:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.09.13-02.31.36:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.09.13-02.31.36:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.09.13-02.31.36:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.09.13-02.31.36:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.09.13-02.31.36:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.09.13-02.31.36:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.09.13-02.31.36:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.09.13-02.31.36:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.09.13-02.31.36:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.09.13-02.31.36:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.09.13-02.31.36:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.09.13-02.31.36:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.09.13-02.31.37:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.09.13-02.31.37:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.09.13-02.31.37:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.09.13-02.31.37:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.09.13-02.31.37:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.09.13-02.31.37:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Maps/StarterMap.umap"
+[2018.09.13-02.31.37:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.09.13-02.31.37:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.09.13-02.31.37:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.09.13-02.31.37:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.09.13-02.31.37:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.09.13-02.31.37:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.09.13-02.31.37:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.09.13-02.31.37:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.09.13-02.31.37:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.09.13-02.31.37:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.09.13-02.31.37:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.09.13-02.31.37:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.09.13-02.31.37:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.09.13-02.31.37:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.09.13-02.31.37:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.09.13-02.31.37:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.09.13-02.31.37:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.09.13-02.31.37:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.09.13-02.31.37:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.09.13-02.31.37:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.09.13-02.31.37:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.09.13-02.31.37:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.09.13-02.31.37:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.09.13-02.31.37:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.09.13-02.31.38:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.09.13-02.31.38:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.09.13-02.31.38:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.09.13-02.31.38:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.09.13-02.31.38:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.09.13-02.31.38:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.09.13-02.31.38:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.09.13-02.31.38:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.09.13-02.31.38:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.09.13-02.31.38:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.09.13-02.31.38:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.09.13-02.31.38:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.09.13-02.31.38:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.09.13-02.31.38:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.09.13-02.31.38:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.09.13-02.31.38:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.09.13-02.31.38:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.09.13-02.31.38:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.09.13-02.31.38:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.09.13-02.31.38:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.09.13-02.31.38:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.09.13-02.31.38:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.09.13-02.31.38:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.09.13-02.31.38:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.09.13-02.31.38:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.09.13-02.31.38:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.09.13-02.31.38:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.09.13-02.31.38:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.09.13-02.31.38:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.09.13-02.31.38:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.09.13-02.31.38:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.09.13-02.31.38:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.09.13-02.31.38:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.09.13-02.31.38:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.09.13-02.31.38:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.09.13-02.31.38:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.09.13-02.31.38:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.09.13-02.31.38:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.09.13-02.31.38:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.09.13-02.31.38:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.09.13-02.31.38:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.09.13-02.31.38:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Door.uasset"
+[2018.09.13-02.31.38:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.09.13-02.31.38:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.09.13-02.31.38:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.09.13-02.31.38:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.09.13-02.31.38:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.09.13-02.31.38:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.09.13-02.31.38:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.09.13-02.31.38:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.09.13-02.31.38:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.09.13-02.31.38:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.09.13-02.31.39:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.09.13-02.31.39:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.09.13-02.31.39:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.09.13-02.31.39:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.09.13-02.31.39:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.09.13-02.31.39:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.09.13-02.31.39:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.09.13-02.31.39:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.09.13-02.31.39:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.09.13-02.31.39:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.09.13-02.31.39:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.09.13-02.31.39:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.09.13-02.31.39:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.09.13-02.31.39:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.09.13-02.31.39:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.09.13-02.31.39:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.09.13-02.31.39:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.09.13-02.31.39:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.09.13-02.31.39:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.09.13-02.31.39:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.09.13-02.31.39:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.09.13-02.31.39:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.09.13-02.31.39:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.09.13-02.31.39:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.09.13-02.31.39:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.09.13-02.31.39:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.09.13-02.31.39:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.09.13-02.31.39:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.09.13-02.31.39:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.09.13-02.31.39:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.09.13-02.31.39:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.09.13-02.31.39:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.09.13-02.31.39:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.09.13-02.31.39:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.09.13-02.31.39:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.09.13-02.31.39:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.09.13-02.31.39:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.09.13-02.31.39:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.09.13-02.31.40:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.09.13-02.31.40:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.09.13-02.31.40:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.09.13-02.31.40:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.09.13-02.31.40:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.09.13-02.31.40:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.09.13-02.31.40:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.09.13-02.31.40:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.09.13-02.31.40:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.09.13-02.31.40:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.09.13-02.31.40:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.09.13-02.31.40:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.09.13-02.31.40:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.09.13-02.31.40:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.09.13-02.31.40:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.09.13-02.31.40:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.09.13-02.31.40:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.09.13-02.31.41:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.09.13-02.31.41:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.09.13-02.31.41:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.09.13-02.31.41:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.09.13-02.31.41:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.09.13-02.31.41:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.09.13-02.31.41:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.09.13-02.31.41:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.09.13-02.31.41:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.09.13-02.31.41:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.09.13-02.31.42:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.09.13-02.31.42:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.09.13-02.31.42:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.09.13-02.31.42:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.09.13-02.31.42:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.09.13-02.31.42:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.09.13-02.31.42:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.09.13-02.31.42:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.09.13-02.31.42:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.09.13-02.31.42:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.09.13-02.31.42:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.09.13-02.31.43:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.09.13-02.31.43:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.09.13-02.31.43:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.09.13-02.31.43:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.09.13-02.31.43:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.09.13-02.31.43:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.09.13-02.31.43:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.09.13-02.31.43:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.09.13-02.31.43:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.09.13-02.31.43:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.09.13-02.31.43:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.09.13-02.31.43:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.09.13-02.31.43:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.09.13-02.31.43:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.09.13-02.31.43:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.09.13-02.31.44:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.09.13-02.31.44:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.09.13-02.31.44:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.09.13-02.31.44:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.09.13-02.31.44:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.09.13-02.31.45:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.09.13-02.31.45:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.09.13-02.31.45:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.09.13-02.31.45:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.09.13-02.31.45:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.09.13-02.31.45:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.09.13-02.31.45:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.09.13-02.31.46:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.09.13-02.31.46:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.09.13-02.31.46:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.09.13-02.31.46:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.09.13-02.31.46:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.09.13-02.31.47:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.09.13-02.31.47:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.09.13-02.31.47:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.09.13-02.31.47:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.09.13-02.31.47:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.09.13-02.31.47:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.09.13-02.31.47:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.09.13-02.31.47:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.09.13-02.31.47:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.09.13-02.31.47:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.09.13-02.31.47:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.09.13-02.31.47:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.09.13-02.31.47:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.09.13-02.31.47:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.09.13-02.31.47:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.09.13-02.31.47:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.09.13-02.31.47:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.09.13-02.31.47:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.09.13-02.31.47:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.09.13-02.31.47:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.09.13-02.31.48:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.09.13-02.31.48:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.09.13-02.31.48:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.09.13-02.31.48:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.09.13-02.31.48:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.09.13-02.31.48:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.09.13-02.31.48:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.09.13-02.31.48:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.09.13-02.31.48:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.09.13-02.31.48:896][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.09.13-02.31.49:241][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.09.13-02.31.49:270][  0]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Floor_400x4006BB8D99C47184CDFD41B3EB64A6BC8C0.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.09.13-02.31.49:278][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.09.13-02.31.49:283][  0]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.13-02.31.49:284][  0]LightingResults: New page: Lighting Build
+[2018.09.13-02.31.49:286][  0]MapCheck: New page: Map Check
+[2018.09.13-02.31.49:286][  0]LightingResults: New page: Lighting Build
+[2018.09.13-02.31.49:811][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.13-02.31.49:820][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.13-02.31.49:873][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.13-02.31.49:952][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.573ms to complete.
+[2018.09.13-02.31.49:952][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.669
+[2018.09.13-02.31.50:100][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-02.31.50:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-02.31.50:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-02.31.50:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-02.31.50:129][  0]LogCollectionManager: Loaded 0 collections in 0.000940 seconds
+[2018.09.13-02.31.50:198][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.09.13-02.31.50:198][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.09.13-02.31.50:198][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.09.13-02.31.50:198][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.09.13-02.31.50:212][  0]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2572 classes and 603 folders.
+[2018.09.13-02.31.50:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.13-02.31.50:303][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.13-02.31.50:307][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.13-02.31.50:331][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.13-02.31.50:334][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.13-02.31.50:341][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.13-02.31.50:418][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.13-02.31.50:566][  0]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.13-02.31.50:670][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.13-02.31.50:670][  0]LogLoad: (Engine Initialization) Total time: 23.66 seconds
+[2018.09.13-02.31.50:671][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.13-02.31.50:685][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-02.31.50:687][  0]LogOcInput: OculusInput is initialized
+[2018.09.13-02.31.50:940][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.13-02.31.50:954][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.13-02.31.50:994][  1]LogAssetRegistry: Asset discovery search completed in 19.0302 seconds
+[2018.09.13-02.31.50:996][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.09.13-02.31.50:996][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.09.13-02.32.18:655][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.21:286][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.24:048][600]LogSlate: Window 'New Level' being destroyed
+[2018.09.13-02.32.24:056][600]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.13-02.32.24:060][600]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.13-02.32.24:063][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.24:073][600]LightingResults: New page: Lighting Build
+[2018.09.13-02.32.24:074][600]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.09.13-02.32.24:077][600]MapCheck: New page: Map Check
+[2018.09.13-02.32.24:077][600]LightingResults: New page: Lighting Build
+[2018.09.13-02.32.24:135][600]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.13-02.32.24:144][600]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.13-02.32.24:180][600]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.13-02.32.24:250][600]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.417ms to complete.
+[2018.09.13-02.32.24:250][600]LogFileHelpers: Loading map 'Template_Default' took 0.196
+[2018.09.13-02.32.30:877][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.31:639][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.32:346][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.33:191][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.40:638][545]LogSlate: Window 'Open Level' being destroyed
+[2018.09.13-02.32.42:676][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.44:786][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.45:827][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.32.46:685][156]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.13-02.32.46:742][157]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheSummit
+[2018.09.13-02.32.46:742][157]LogTemp: CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.13-02.32.46:742][157]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.20
+[2018.09.13-02.32.46:742][157]LogTemp: Env CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.13-02.32.46:742][157]LogTemp: BranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries --- GameBranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries
+[2018.09.13-02.32.46:742][157]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\aliha\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.13-02.33.14:067][391]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.13-02.33.14:073][391]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.13-02.33.18:576][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.33.19:975][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.33.32:468][ 92]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.13-02.33.32:552][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.33.32:562][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.13-02.33.32:622][ 92]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapA6B1AE8B47000BA9A516C5B261386804.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTestMap.umap'
+[2018.09.13-02.33.32:647][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.13-02.33.32:681][ 92]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData1D8A8E3D4F9C24310D2E3FA61F59D231.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTestMap_BuiltData.uasset'
+[2018.09.13-02.33.32:691][ 92]LogFileHelpers: Saving map 'TreeCutTestMap' took 0.216
+[2018.09.13-02.33.32:692][ 92]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.13-02.33.32:700][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.33.32:705][ 92]LightingResults: New page: Lighting Build
+[2018.09.13-02.33.32:706][ 92]LoadErrors: New page: Loading map: TreeCutTestMap.umap
+[2018.09.13-02.33.32:707][ 92]MapCheck: New page: Map Check
+[2018.09.13-02.33.32:707][ 92]LightingResults: New page: Lighting Build
+[2018.09.13-02.33.32:757][ 92]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.13-02.33.32:763][ 92]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.13-02.33.32:815][ 92]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.13-02.33.32:883][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.709ms to complete.
+[2018.09.13-02.33.32:883][ 92]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.192
+[2018.09.13-02.33.33:682][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.33.34:472][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.33.35:812][436]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: URL: C:\Users\aliha\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.35:813][436]LogWindows: Warning: URL: C:\Users\aliha\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.09.13-02.33.35:814][436]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.35:814][436]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.09.13-02.33.37:628][653]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.09.13-02.33.37:628][653]LogWindows: Warning: URL: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/ version
+[2018.09.13-02.33.56:980][320]LogSlate: Window 'Source Control Login' being destroyed
+[2018.09.13-02.34.40:181][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-02.34.55:859][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.13-02.34.55:874][ 50]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataE20E13424A15BFCE2D45C2B2486351A3.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.13-02.34.56:258][ 50]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap1A6B1D2940A20D3476D256AD3CCF9449.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.13-02.34.56:529][ 50]LogFileHelpers: Saving map 'TreeCutTestMap' took 0.398
+[2018.09.13-02.42.29:015][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-02.42.45:241][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-02.42.50:414][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-02.42.50:706][380]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap2ABE96D94E62CCC001F3BC96F0E7C2DC.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.13-02.42.50:800][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.13-02.42.50:821][380]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData95C7FA0B4CCBABAA70D66C97E031272D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.13-02.43.17:547][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/oculus_cv1_controller_left/external_controller01.psd)
+[2018.09.13-02.43.17:645][652]LogTexture: Display: Building textures: external_controller01 (AutoDXT, 2048X2048)
+[2018.09.13-02.43.19:560][843]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/external_controller01.external_controller01
+[2018.09.13-02.43.19:600][843]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.13-02.43.33:922][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-02.43.34:014][535]LogSlate: Window 'external_controller01*' being destroyed
+[2018.09.13-02.43.34:021][535]LogSlate: Window 'external_controller01*' being destroyed
+[2018.09.13-02.43.42:946][314]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.13-02.43.49:306][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/external_controller01" FILE="../../../../../Github/climb-summit/TheSummit/Content/external_controller01.uasset" SILENT=true
+[2018.09.13-02.43.49:701][ 46]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/external_controller01C1DA552C4737AC0C752A269C1D04409A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/external_controller01.uasset'
+[2018.09.13-02.43.54:755][455]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.13-02.43.55:139][455]SourceControl: rm 'TheSummit/Content/external_controller01.uasset'
+[2018.09.13-02.44.34:989][995]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/oculus_cv1_controller_left/oculus_cv1_controller_left.obj)
+[2018.09.13-02.44.35:124][995]LogFbx: Loading FBX Scene from C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/oculus_cv1_controller_left/oculus_cv1_controller_left.obj
+[2018.09.13-02.44.35:273][995]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-02.44.42:086][995]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.13-02.44.42:416][995]LogLinker: Can't find file '/Game/external_controller01_col'
+[2018.09.13-02.44.42:417][995]LogLinker: Can't find file '/Game/external_controller01_col'
+[2018.09.13-02.44.42:471][995]LogTexture: Display: Building textures: external_controller01_col (AutoDXT, 2048X2048)
+[2018.09.13-02.44.42:597][995]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2018.09.13-02.44.42:652][995]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.13-02.44.42:652][995]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.13-02.44.42:652][995]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.13-02.44.42:652][995]LogFbx: Warning: Triangulating static mesh default
+[2018.09.13-02.44.43:186][995]LogStaticMesh: Building static mesh oculus_cv1_controller_left...
+[2018.09.13-02.44.43:310][995]LogStaticMesh: Built static mesh [0.12s] /Game/oculus_cv1_controller_left.oculus_cv1_controller_left
+[2018.09.13-02.44.43:311][995]LogPhysics: Warning: Failed to cook TriMesh: /Game/oculus_cv1_controller_left.oculus_cv1_controller_left.
+[2018.09.13-02.44.43:314][995]LogPhysics: Warning: Attempt to build physics data for /Game/oculus_cv1_controller_left.oculus_cv1_controller_left:BodySetup_0 when we are unable to.
+[2018.09.13-02.44.43:324][995]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.13-02.44.43:345][995]LogPhysics: Warning: Failed to cook TriMesh: /Game/oculus_cv1_controller_left.oculus_cv1_controller_left.
+[2018.09.13-02.44.43:345][995]LogPhysics: Warning: Attempt to build physics data for /Game/oculus_cv1_controller_left.oculus_cv1_controller_left:BodySetup_0 when we are unable to.
+[2018.09.13-02.44.51:866][ 11]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/oculus_cv1_controller_right/oculus_cv1_controller_right.obj)
+[2018.09.13-02.44.51:877][ 11]LogFbx: Loading FBX Scene from C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/oculus_cv1_controller_right/oculus_cv1_controller_right.obj
+[2018.09.13-02.44.52:022][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-02.44.53:399][ 11]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.13-02.44.53:428][ 11]LogFbx: Warning: Triangulating static mesh default
+[2018.09.13-02.44.53:850][ 11]LogStaticMesh: Building static mesh oculus_cv1_controller_right...
+[2018.09.13-02.44.53:851][ 11]LogStaticMesh: Built static mesh [0.00s] /Game/oculus_cv1_controller_right.oculus_cv1_controller_right
+[2018.09.13-02.44.53:851][ 11]LogPhysics: Warning: Failed to cook TriMesh: /Game/oculus_cv1_controller_right.oculus_cv1_controller_right.
+[2018.09.13-02.44.53:851][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/oculus_cv1_controller_right.oculus_cv1_controller_right:BodySetup_0 when we are unable to.
+[2018.09.13-02.44.53:855][ 11]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.13-02.44.53:861][ 11]LogPhysics: Warning: Failed to cook TriMesh: /Game/oculus_cv1_controller_right.oculus_cv1_controller_right.
+[2018.09.13-02.44.53:861][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/oculus_cv1_controller_right.oculus_cv1_controller_right:BodySetup_0 when we are unable to.
+[2018.09.13-02.44.56:539][328]LogSlate: Window 'Message Log' being destroyed
+[2018.09.13-02.44.56:545][328]LogSlate: Window 'Message Log' being destroyed
+[2018.09.13-02.45.24:504][536]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/oculus_cv1_controller_right24015265442A91986962E682F8233733.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/oculus_cv1_controller_right.uasset'
+[2018.09.13-02.45.24:742][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/oculus_cv1_controller_left" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/oculus_cv1_controller_left.uasset" SILENT=true
+[2018.09.13-02.45.24:758][536]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/oculus_cv1_controller_leftB8252622401876FAA51E9C9335B91BA0.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/oculus_cv1_controller_left.uasset'
+[2018.09.13-02.45.24:976][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/external_controller01_col" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/external_controller01_col.uasset" SILENT=true
+[2018.09.13-02.45.25:172][536]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/external_controller01_colA9F8D5274375732B0EF50FA9CA71226C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/external_controller01_col.uasset'
+[2018.09.13-02.45.25:489][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/blinn1SG" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/blinn1SG.uasset" SILENT=true
+[2018.09.13-02.45.25:505][536]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/blinn1SG263F2A7747AAB057BD7534A823E5E005.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/blinn1SG.uasset'
+[2018.09.13-02.49.51:933][345]AssetReimport: New page: Outstanding source content changes 6:49:51 PM
+[2018.09.13-02.49.51:947][346]LoadErrors: Failed to load /Game/Hands/Models/l_hand_skeletal_lowres_Skeleton.l_hand_skeletal_lowres_Skeleton Referenced by l_hand_cap_touch_anim
+[2018.09.13-02.49.51:977][346]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.fbx]
+[2018.09.13-02.49.52:056][346]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-02.50.06:689][346]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-02.50.06:755][346]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.fbx
+[2018.09.13-02.50.06:778][346]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-02.50.06:788][346]LogFbx: Parsing AnimStack Take 001
+[2018.09.13-02.50.06:837][346]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.l_hand_cap_touch_anim
+[2018.09.13-02.50.06:837][346]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.l_hand_cap_touch_anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.13-02.50.06:845][346]LogEditorFactories: -- imported successfully
+[2018.09.13-02.50.06:860][347]LoadErrors: Failed to load /Game/Hands/Models/l_hand_skeletal_lowres_Skeleton.l_hand_skeletal_lowres_Skeleton Referenced by l_hand_cap_touch_index_mask_anim
+[2018.09.13-02.50.06:861][347]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.fbx]
+[2018.09.13-02.50.06:899][347]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-02.50.17:289][347]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-02.50.17:307][347]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.fbx
+[2018.09.13-02.50.17:323][347]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-02.50.17:341][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.l_hand_cap_touch_index_mask_anim
+[2018.09.13-02.50.17:341][347]LogAnimationCompression: Compression Requested for Empty Animation l_hand_cap_touch_index_mask_anim
+[2018.09.13-02.50.17:367][348]LoadErrors: Failed to load /Game/Hands/Models/l_hand_skeletal_lowres_Skeleton.l_hand_skeletal_lowres_Skeleton Referenced by l_hand_cap_touch_thumb_mask_anim
+[2018.09.13-02.50.17:367][348]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx]
+[2018.09.13-02.50.17:411][348]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-02.50.20:173][348]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-02.50.20:191][348]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
+[2018.09.13-02.50.20:207][348]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-02.50.20:216][348]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.l_hand_cap_touch_thumb_mask_anim
+[2018.09.13-02.50.20:216][348]LogAnimationCompression: Compression Requested for Empty Animation l_hand_cap_touch_thumb_mask_anim
+[2018.09.13-02.50.20:406][348]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.188 s
+[2018.09.13-02.50.20:415][348]LogStats:                SubmitErrorReport -  0.000 s
