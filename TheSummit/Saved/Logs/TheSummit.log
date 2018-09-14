@@ -995,3 +995,714 @@ Make sure 'LeftControllerAnimBP' has been compiled for  Get ThumbX
 [2018.09.13-21.42.26:610][258]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataB6CBCC72422C2E42CB0A0690227BB365.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
 [2018.09.13-21.42.32:406][925]LogUProjectInfo: Found projects:
 [2018.09.13-21.48.39:908][797]LogSlate: Window 'Open Project' being destroyed
+[2018.09.13-22.05.26:861][251]AssetReimport: New page: Detailed File System Changes from 6:05:26 PM
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_hold_generic_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_fist_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_default_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_index_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_thumbs_up_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_mid_fist_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_3qtr_fist_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_point_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_pinch_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_ping_pong_ball_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_l_controller_anim.fbx' has been created.
+[2018.09.13-22.05.26:880][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_generic_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_fist_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_default_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_controlmap.tga' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_albedo.png' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_trigger_pull_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_pull_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_grip_button_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button03_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button02_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button01_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_W_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_S_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SW_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SE_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_N_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NW_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NE_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_E_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_grip_button_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button03_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button02_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button01_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_trigger_pull_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_trigger_pull_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_grip_button_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button03_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button02_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button01_mask_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_W_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_S_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SW_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SE_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_N_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NW_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NE_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_E_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_grip_button_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button03_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button02_anim.fbx' has been created.
+[2018.09.13-22.05.26:881][251]AssetReimport: 'D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button01_anim.fbx' has been created.
+[2018.09.13-22.05.30:844][656]LogSlate: Window 'Message Log' being destroyed
+[2018.09.13-22.05.30:850][656]LogSlate: Window 'Message Log' being destroyed
+[2018.09.13-22.05.32:031][786]AssetReimport: New page: Outstanding source content changes 2:05:32 PM
+[2018.09.13-22.05.32:137][787]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_hold_generic_anim.fbx]
+[2018.09.13-22.05.32:278][787]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.35:110][787]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.35:210][788]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_fist_anim.fbx]
+[2018.09.13-22.05.35:250][788]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.35:869][788]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.35:898][789]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_default_anim.fbx]
+[2018.09.13-22.05.35:935][789]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.36:288][789]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.36:317][790]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx]
+[2018.09.13-22.05.36:353][790]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.36:771][790]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.36:798][791]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_index_mask_anim.fbx]
+[2018.09.13-22.05.36:835][791]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.37:014][791]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.37:041][792]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_anim.fbx]
+[2018.09.13-22.05.37:077][792]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.37:529][792]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.37:555][793]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_thumbs_up_anim.fbx]
+[2018.09.13-22.05.37:592][793]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.37:962][793]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.37:990][794]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_mid_fist_anim.fbx]
+[2018.09.13-22.05.38:026][794]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.38:677][794]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.38:701][795]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_3qtr_fist_anim.fbx]
+[2018.09.13-22.05.38:738][795]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.39:106][795]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.39:132][796]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_point_anim.fbx]
+[2018.09.13-22.05.39:168][796]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.41:804][796]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.41:867][797]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_pinch_anim.fbx]
+[2018.09.13-22.05.41:946][797]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_pinch_anim.fbx
+[2018.09.13-22.05.41:972][797]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.05.42:006][798]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_ping_pong_ball_anim.fbx]
+[2018.09.13-22.05.42:045][798]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.42:800][798]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.42:826][799]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_l_controller_anim.fbx]
+[2018.09.13-22.05.42:864][799]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.43:251][799]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.43:276][800]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_generic_anim.fbx]
+[2018.09.13-22.05.43:316][800]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.43:612][800]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.43:644][801]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_fist_anim.fbx]
+[2018.09.13-22.05.43:654][801]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_fist_anim.fbx
+[2018.09.13-22.05.43:673][801]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.05.43:683][801]LogFbx: Parsing AnimStack Take 001
+[2018.09.13-22.05.43:704][801]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TouchControllers/Hands/Animations/l_hand_fist_anim.l_hand_fist_anim
+[2018.09.13-22.05.43:704][801]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.l_hand_fist_anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.13-22.05.43:739][801]LogEditorFactories: -- imported successfully
+[2018.09.13-22.05.43:765][802]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_default_anim.fbx]
+[2018.09.13-22.05.43:775][802]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_default_anim.fbx
+[2018.09.13-22.05.43:790][802]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.05.43:823][803]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx]
+[2018.09.13-22.05.43:832][803]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
+[2018.09.13-22.05.43:848][803]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.05.43:876][804]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.fbx]
+[2018.09.13-22.05.43:891][804]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.fbx
+[2018.09.13-22.05.43:909][804]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.05.43:985][805]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.fbx]
+[2018.09.13-22.05.43:994][805]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.fbx
+[2018.09.13-22.05.44:010][805]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.05.44:011][805]LogFbx: Parsing AnimStack Take 001
+[2018.09.13-22.05.44:015][805]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.l_hand_cap_touch_anim
+[2018.09.13-22.05.44:015][805]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.l_hand_cap_touch_anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.13-22.05.44:021][805]LogEditorFactories: -- imported successfully
+[2018.09.13-22.05.44:039][806]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_controlmap.tga]
+[2018.09.13-22.05.44:042][806]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_controlmap.tga)
+[2018.09.13-22.05.44:189][806]LogEditorFactories: -- imported successfully
+[2018.09.13-22.05.44:232][807]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_albedo.png]
+[2018.09.13-22.05.44:233][807]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_albedo.png)
+[2018.09.13-22.05.44:517][807]LogEditorFactories: -- imported successfully
+[2018.09.13-22.05.44:534][808]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_trigger_pull_anim.fbx]
+[2018.09.13-22.05.44:572][808]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.45:831][808]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.45:862][809]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_pull_mask_anim.fbx]
+[2018.09.13-22.05.45:896][809]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.46:295][809]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.46:322][810]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_mask_anim.fbx]
+[2018.09.13-22.05.46:359][810]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.46:643][810]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.46:669][811]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_grip_button_mask_anim.fbx]
+[2018.09.13-22.05.46:708][811]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.47:068][811]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.47:096][812]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button03_mask_anim.fbx]
+[2018.09.13-22.05.47:131][812]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.47:646][812]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.47:672][813]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button02_mask_anim.fbx]
+[2018.09.13-22.05.47:711][813]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.48:179][813]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.48:206][814]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button01_mask_anim.fbx]
+[2018.09.13-22.05.48:242][814]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.48:622][814]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.48:646][815]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_anim.fbx]
+[2018.09.13-22.05.48:683][815]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.49:071][815]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.49:098][816]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_W_anim.fbx]
+[2018.09.13-22.05.49:133][816]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.49:475][816]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.49:501][817]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_S_anim.fbx]
+[2018.09.13-22.05.49:538][817]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.49:903][817]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.49:927][818]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SW_anim.fbx]
+[2018.09.13-22.05.49:964][818]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.50:291][818]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.50:319][819]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SE_anim.fbx]
+[2018.09.13-22.05.50:356][819]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.50:756][819]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.50:783][820]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_N_anim.fbx]
+[2018.09.13-22.05.50:820][820]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.51:218][820]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.51:243][821]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NW_anim.fbx]
+[2018.09.13-22.05.51:279][821]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.51:627][821]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.51:652][822]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NE_anim.fbx]
+[2018.09.13-22.05.51:689][822]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.52:403][822]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.52:428][823]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_E_anim.fbx]
+[2018.09.13-22.05.52:464][823]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.53:083][823]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.53:111][824]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_grip_button_anim.fbx]
+[2018.09.13-22.05.53:147][824]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.53:562][824]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.53:586][825]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button03_anim.fbx]
+[2018.09.13-22.05.53:623][825]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.54:033][825]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.54:056][826]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button02_anim.fbx]
+[2018.09.13-22.05.54:094][826]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.54:875][826]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.54:900][827]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button01_anim.fbx]
+[2018.09.13-22.05.54:937][827]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.55:443][827]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.55:468][828]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_trigger_pull_anim.fbx]
+[2018.09.13-22.05.55:507][828]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.55:973][828]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.55:998][829]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_trigger_pull_mask_anim.fbx]
+[2018.09.13-22.05.56:036][829]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.56:490][829]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.56:514][830]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_grip_button_mask_anim.fbx]
+[2018.09.13-22.05.56:553][830]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.56:915][830]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.56:941][831]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button03_mask_anim.fbx]
+[2018.09.13-22.05.56:977][831]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.57:411][831]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.57:437][832]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button02_mask_anim.fbx]
+[2018.09.13-22.05.57:476][832]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.57:873][832]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.57:898][833]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button01_mask_anim.fbx]
+[2018.09.13-22.05.57:934][833]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.58:300][833]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.58:326][834]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_anim.fbx]
+[2018.09.13-22.05.58:364][834]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.58:712][834]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.58:738][835]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_W_anim.fbx]
+[2018.09.13-22.05.58:774][835]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.59:160][835]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.59:186][836]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_S_anim.fbx]
+[2018.09.13-22.05.59:224][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.05.59:515][836]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.05.59:540][837]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SW_anim.fbx]
+[2018.09.13-22.05.59:576][837]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.06.00:008][837]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.06.00:039][838]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SE_anim.fbx]
+[2018.09.13-22.06.00:049][838]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SE_anim.fbx
+[2018.09.13-22.06.00:058][838]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.06.00:086][839]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_N_anim.fbx]
+[2018.09.13-22.06.00:095][839]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_N_anim.fbx
+[2018.09.13-22.06.00:107][839]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.06.00:108][839]LogFbx: Parsing AnimStack Take 001
+[2018.09.13-22.06.00:110][839]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TouchControllers/Controllers/Animations/l_controller_joy_N_anim.l_controller_joy_N_anim
+[2018.09.13-22.06.00:110][839]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.l_controller_joy_N_anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.13-22.06.00:116][839]LogEditorFactories: -- imported successfully
+[2018.09.13-22.06.00:134][840]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NW_anim.fbx]
+[2018.09.13-22.06.00:144][840]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NW_anim.fbx
+[2018.09.13-22.06.00:155][840]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.06.00:187][841]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NE_anim.fbx]
+[2018.09.13-22.06.00:197][841]LogFbx: Loading FBX Scene from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NE_anim.fbx
+[2018.09.13-22.06.00:208][841]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.13-22.06.00:209][841]LogFbx: Parsing AnimStack Take 001
+[2018.09.13-22.06.00:211][841]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TouchControllers/Controllers/Animations/l_controller_joy_NE_anim.l_controller_joy_NE_anim
+[2018.09.13-22.06.00:211][841]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.l_controller_joy_NE_anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.13-22.06.00:216][841]LogEditorFactories: -- imported successfully
+[2018.09.13-22.06.00:230][842]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_E_anim.fbx]
+[2018.09.13-22.06.00:269][842]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.06.00:455][842]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.06.00:490][843]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_grip_button_anim.fbx]
+[2018.09.13-22.06.00:526][843]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.06.00:909][843]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.06.00:934][844]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button03_anim.fbx]
+[2018.09.13-22.06.00:971][844]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.06.01:478][844]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.06.01:505][845]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button02_anim.fbx]
+[2018.09.13-22.06.01:543][845]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.06.01:924][845]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.06.01:950][846]LogEditorFactories: Performing atomic reimport of [D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button01_anim.fbx]
+[2018.09.13-22.06.01:987][846]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.09.13-22.06.02:319][846]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.09.13-22.06.02:584][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_hold_generic_anim8447301843B4DA2148AAA094AF9F35FD.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_hold_generic_anim.uasset'
+[2018.09.13-22.06.02:607][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_fist_anim8788AC6846F9A72877D08D87F9F4AC23.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_fist_anim.uasset'
+[2018.09.13-22.06.02:632][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_default_anim8FF1ED97474B330CA4EC70BF3F90163E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_default_anim.uasset'
+[2018.09.13-22.06.02:658][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_cap_touch_thumb_mask_anim443D674940869C53B2733CB22FD2011D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_thumb_mask_anim.uasset'
+[2018.09.13-22.06.02:681][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_cap_touch_index_mask_anim0C85B2904420B3296639C38B32827CC2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_index_mask_anim.uasset'
+[2018.09.13-22.06.02:703][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_cap_touch_anim55B1D249423C3DB8039F2E8B418A676E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_anim.uasset'
+[2018.09.13-22.06.02:725][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_thumbs_up_animC0FE157847A9062B0AF11AA271EB8B15.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_thumbs_up_anim.uasset'
+[2018.09.13-22.06.02:747][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_relax_mid_fist_animB4CF084241459B7F44E72B9206AE25F1.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_mid_fist_anim.uasset'
+[2018.09.13-22.06.02:771][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_relax_3qtr_fist_animA6C369664238A5DA2A1EE0B142E34C87.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_3qtr_fist_anim.uasset'
+[2018.09.13-22.06.02:796][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_point_anim26C84AC0476E2EB224E5E7913D7CCB18.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_point_anim.uasset'
+[2018.09.13-22.06.02:819][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_pinch_animDBCAA842483A823E4AAEC69037172FE2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_pinch_anim.uasset'
+[2018.09.13-22.06.02:842][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_hold_ping_pong_ball_anim2091E6AA4362B7801FD872BC7535691A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_ping_pong_ball_anim.uasset'
+[2018.09.13-22.06.02:864][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_hold_l_controller_anim74293780422DBF7772EC00979A26814A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_l_controller_anim.uasset'
+[2018.09.13-22.06.02:886][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_hold_generic_anim78F90D5A46B8F9765E80568103422DCE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_generic_anim.uasset'
+[2018.09.13-22.06.02:894][847]LogLinker: Warning: Can't find file '/Game/Hands/Models/l_hand_skeletal_lowres'
+[2018.09.13-22.06.02:895][847]LogLinker: Warning: Can't find file '/Game/Hands/Models/l_hand_skeletal_lowres'
+[2018.09.13-22.06.02:896][847]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Hands/Models/l_hand_skeletal_lowres.l_hand_skeletal_lowres'
+[2018.09.13-22.06.02:911][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_fist_animB1962B0547503AE636C15C8451817D0F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_fist_anim.uasset'
+[2018.09.13-22.06.02:964][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_default_anim542D4E334FF17A33ABDFB2BEEC647D67.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_default_anim.uasset'
+[2018.09.13-22.06.02:987][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_cap_touch_thumb_mask_anim0C13DA454947DB7EF35887B0B7F1DF8A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.uasset'
+[2018.09.13-22.06.03:019][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_cap_touch_index_mask_anim69737F2B43E3A04BD961ABA970DE0079.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.uasset'
+[2018.09.13-22.06.03:042][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_cap_touch_animB7772D7B46D8880819A5D1AD8B896F23.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.uasset'
+[2018.09.13-22.06.03:085][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/touchController_controlmapF0F18BEA40F2BEA8AB38C8877AEE2DD1.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_controlmap.uasset'
+[2018.09.13-22.06.03:377][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/touchController_albedo85F336F344BC089DF3CB38A083CCF793.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_albedo.uasset'
+[2018.09.13-22.06.03:399][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_trigger_pull_animC9539007476D7600596E4BA82735F03F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_trigger_pull_anim.uasset'
+[2018.09.13-22.06.03:423][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_trigger_pulE798D42D4CF7C4552BD4118578E033A8.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_pull_mask_anim.uasset'
+[2018.09.13-22.06.03:445][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_trigger_masB5BDAF9D41C93929AD1B0ABD4D778739.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_mask_anim.uasset'
+[2018.09.13-22.06.03:468][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_grip_buttonC2C7612A41F6C03D001DB7B56F678B5E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_grip_button_mask_anim.uasset'
+[2018.09.13-22.06.03:493][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_button03_maE8C202F441009E23C76A78830BF49FF9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button03_mask_anim.uasset'
+[2018.09.13-22.06.03:520][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_button02_maD925F0724E9E54F002141383A6BA3BB4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button02_mask_anim.uasset'
+[2018.09.13-22.06.03:542][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_button01_ma0596D2854B4C648800C0329FADDC7B65.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button01_mask_anim.uasset'
+[2018.09.13-22.06.03:565][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_anim390843E146766445B2C51AACCABD018B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_anim.uasset'
+[2018.09.13-22.06.03:589][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_W_animFF66C9FE43EE21D0026A5392C18E393C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_W_anim.uasset'
+[2018.09.13-22.06.03:611][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_S_animF0AC1F1840F21B2CE0FB4689E1F39A5E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_S_anim.uasset'
+[2018.09.13-22.06.03:633][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_SW_anim567F62E5466450D8869A68B61BB3C661.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SW_anim.uasset'
+[2018.09.13-22.06.03:657][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_SE_anim07E724294F2AA2D405DEDFBBA4BB07E4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SE_anim.uasset'
+[2018.09.13-22.06.03:681][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_N_anim894A9A9F4882BAF543703F810F8AFA79.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_N_anim.uasset'
+[2018.09.13-22.06.03:703][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_NW_anim36432B4F4A358D42EE08769D3EA684CB.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NW_anim.uasset'
+[2018.09.13-22.06.03:725][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_NE_anim767D749C461C599FDDD1A3B158F23451.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NE_anim.uasset'
+[2018.09.13-22.06.03:750][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_E_animF5F2D46A408B262DDEEC678D168035A6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_E_anim.uasset'
+[2018.09.13-22.06.03:772][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_grip_button_anim6E271DB34738B8D9A6C4328260154289.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_grip_button_anim.uasset'
+[2018.09.13-22.06.03:794][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_button03_anim59BA741042D218F02B05AC8A54DB0F0B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button03_anim.uasset'
+[2018.09.13-22.06.03:816][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_button02_animCB29E11748471A14265365843498E7B8.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button02_anim.uasset'
+[2018.09.13-22.06.03:839][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_button01_anim8C8A4EFA48C8332D23350EBA73E7939C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button01_anim.uasset'
+[2018.09.13-22.06.03:861][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_trigger_pull_anim418D294846AE3C123850C8B5B3D3EDDF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_trigger_pull_anim.uasset'
+[2018.09.13-22.06.03:883][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_trigger_pul9FA39E30411A9B78F2A7C88A2BE56B3D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_trigger_pull_mask_anim.uasset'
+[2018.09.13-22.06.03:905][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_grip_button8672808142D71196A39E368F1C50A423.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_grip_button_mask_anim.uasset'
+[2018.09.13-22.06.03:927][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_button03_ma0DD248504F5B21C19E28F5B910EE9D62.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button03_mask_anim.uasset'
+[2018.09.13-22.06.03:950][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_button02_maC625CBAA4A004323E2FA8EABED06BA71.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button02_mask_anim.uasset'
+[2018.09.13-22.06.03:972][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_button01_maEABD7BC949488354DBB879B522C9B0E0.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button01_mask_anim.uasset'
+[2018.09.13-22.06.03:994][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_anim08B2C6EB4541D81969C1CCAAFFCF44B2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_anim.uasset'
+[2018.09.13-22.06.04:017][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_W_anim88505C4E434A0E5057B867BDB17F03CA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_W_anim.uasset'
+[2018.09.13-22.06.04:038][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_S_animC8A24AD0499BDA671CB27A9A9BB7D59C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_S_anim.uasset'
+[2018.09.13-22.06.04:060][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_SW_animB9616B3942A53AFD0A03628501FDF3F6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SW_anim.uasset'
+[2018.09.13-22.06.04:084][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_SE_anim2BE66D8A4E4E5A9209ADFD8DC7A92B54.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SE_anim.uasset'
+[2018.09.13-22.06.04:118][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_N_animAF161F7A479697EB140816AA61B7E646.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_N_anim.uasset'
+[2018.09.13-22.06.04:151][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_NW_anim0D6DFAB242F03F06D08CC68994DBA7D6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NW_anim.uasset'
+[2018.09.13-22.06.04:185][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_NE_anim6A9C3D7C43E5C4218539AC9B36ACD238.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NE_anim.uasset'
+[2018.09.13-22.06.04:207][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_E_anim75FD5CDA442226D6079EF2B80445E79E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_E_anim.uasset'
+[2018.09.13-22.06.04:230][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_grip_button_animD48C7DB94234D3B64F8AE8AD6B519334.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_grip_button_anim.uasset'
+[2018.09.13-22.06.04:252][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_button03_anim1BD5EBCE4EA487D7D86573AC57B936C3.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button03_anim.uasset'
+[2018.09.13-22.06.04:274][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_button02_anim1F2BA9754AD0C918CA766F8E66BB6DBF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button02_anim.uasset'
+[2018.09.13-22.06.04:296][847]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_button01_anim57F3D7AF44C189DC39A6848090F6A0B4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button01_anim.uasset'
+[2018.09.13-22.06.05:994][ 47]LogSlate: Window 'Message Log' being destroyed
+[2018.09.13-22.06.06:000][ 47]LogSlate: Window 'Message Log' being destroyed
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_hand_hold_generic_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_hold_generic_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_hand_fist_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_fist_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_hand_default_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_default_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_hand_cap_touch_thumb_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_hand_cap_touch_index_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_index_mask_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_hand_cap_touch_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_thumbs_up_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_thumbs_up_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_relax_mid_fist_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_mid_fist_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_relax_3qtr_fist_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_3qtr_fist_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_point_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_point_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_pinch_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_pinch_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_hold_ping_pong_ball_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_ping_pong_ball_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_hold_l_controller_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_l_controller_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_hold_generic_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_generic_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_fist_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_fist_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_default_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_default_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_cap_touch_thumb_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_cap_touch_index_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset l_hand_cap_touch_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset touchController_controlmap from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_controlmap.tga.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset touchController_albedo from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_albedo.png.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_controller_trigger_pull_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_trigger_pull_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_controller_neutral_trigger_pull_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_pull_mask_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_controller_neutral_trigger_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_mask_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_controller_neutral_grip_button_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_grip_button_mask_anim.fbx.
+[2018.09.13-22.06.07:309][201]AssetReimport: Reimported asset r_controller_neutral_button03_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button03_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_neutral_button02_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button02_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_neutral_button01_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button01_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_neutral_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_W_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_W_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_S_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_S_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_SW_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SW_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_SE_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SE_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_N_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_N_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_NW_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NW_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_NE_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NE_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_joy_E_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_E_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_grip_button_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_grip_button_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_button03_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button03_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_button02_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button02_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset r_controller_button01_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button01_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_trigger_pull_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_trigger_pull_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_neutral_trigger_pull_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_trigger_pull_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_neutral_grip_button_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_grip_button_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_neutral_button03_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button03_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_neutral_button02_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button02_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_neutral_button01_mask_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button01_mask_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_neutral_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_W_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_W_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_S_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_S_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_SW_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SW_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_SE_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SE_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_N_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_N_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_NW_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NW_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_NE_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NE_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_joy_E_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_E_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_grip_button_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_grip_button_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_button03_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button03_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_button02_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button02_anim.fbx.
+[2018.09.13-22.06.07:310][201]AssetReimport: Reimported asset l_controller_button01_anim from D:/Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button01_anim.fbx.
+[2018.09.13-22.06.08:540][348]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP
+[2018.09.13-22.06.08:554][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.13-22.06.12:684][620]LogSlate: Window 'LeftControllerAnimBP' being destroyed
+[2018.09.13-22.06.15:379][901]LogSlate: Window 'TheSummit - Unreal Editor' being destroyed
+[2018.09.13-22.06.15:582][902]Cmd: QUIT_EDITOR
+[2018.09.13-22.06.15:599][902]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-22.06.15:615][902]LogExit: Preparing to exit.
+[2018.09.13-22.06.16:324][902]LogExit: Editor shut down
+[2018.09.13-22.06.16:324][902]LogExit: Transaction tracking system shut down
+[2018.09.13-22.06.16:612][902]LogExit: Object subsystem successfully closed.
+[2018.09.13-22.06.16:641][902]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.13-22.06.16:644][902]LogD3D11RHI: Shutdown
+[2018.09.13-22.06.16:644][902]LogD3D11RHI: CleanupD3DDevice
+[2018.09.13-22.06.16:663][902]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.13-22.06.16:705][902]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (620)
+[2018.09.13-22.06.16:705][902]LogModuleManager: Shutting down and abandoning module PinnedCommandList (618)
+[2018.09.13-22.06.16:705][902]LogModuleManager: Shutting down and abandoning module SkeletonEditor (616)
+[2018.09.13-22.06.16:706][902]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (614)
+[2018.09.13-22.06.16:706][902]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.09.13-22.06.16:706][902]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.09.13-22.06.16:706][902]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2018.09.13-22.06.16:706][902]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2018.09.13-22.06.16:706][902]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.13-22.06.16:716][902]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.13-22.06.16:717][902]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.13-22.06.16:731][902]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.13-22.06.17:321][902]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.13-22.06.17:322][902]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.13-22.06.17:388][902]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.13-22.06.17:392][902]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.13-22.06.17:393][902]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.13-22.06.17:524][902]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.13-22.06.17:525][902]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.13-22.06.17:525][902]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.13-22.06.17:525][902]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.13-22.06.17:528][902]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.13-22.06.17:529][902]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.13-22.06.17:630][902]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.13-22.06.17:731][902]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.13-22.06.17:732][902]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.13-22.06.17:732][902]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.13-22.06.17:732][902]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.13-22.06.17:733][902]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.13-22.06.17:733][902]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.13-22.06.17:733][902]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.13-22.06.17:733][902]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.13-22.06.17:733][902]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.13-22.06.17:733][902]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.13-22.06.17:734][902]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.13-22.06.17:740][902]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.13-22.06.17:742][902]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.13-22.06.17:742][902]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.13-22.06.17:742][902]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.13-22.06.17:742][902]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.13-22.06.17:742][902]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.13-22.06.17:742][902]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.13-22.06.17:743][902]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.13-22.06.17:755][902]LogDerivedDataCache: Shutdown
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.13-22.06.17:755][902]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.13-22.06.17:756][902]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.13-22.06.17:757][902]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.13-22.06.17:757][902]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.13-22.06.17:761][902]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.13-22.06.17:762][902]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.13-22.06.17:763][902]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.13-22.06.17:763][902]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.13-22.06.17:797][902]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.13-22.06.17:797][902]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.09.13-22.06.17:797][902]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67D3CFD8-4212-542E-70E9-E29CD77489B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=23b803834a6e21c2335149ab046191d9%7C6a37eeab3d4f4c15b78733ca7c7e556d%7C902a0952-3a11-4de2-b10f-3626945c9d73&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.13-22.06.17:797][902]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67D3CFD8-4212-542E-70E9-E29CD77489B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=23b803834a6e21c2335149ab046191d9%7C6a37eeab3d4f4c15b78733ca7c7e556d%7C902a0952-3a11-4de2-b10f-3626945c9d73&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.13-22.06.17:826][902]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.13-22.06.17:827][902]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.13-22.06.17:827][902]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.13-22.06.17:828][902]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.13-22.06.17:841][902]LogExit: Exiting.
+[2018.09.13-22.06.17:861][902]Log file closed, 09/13/18 18:06:17
