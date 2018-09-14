@@ -1,0 +1,667 @@
+﻿Log file open, 09/14/18 16:31:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.559394
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.154s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.14-20.31.15:103][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-20.31.15:103][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.14-20.31.15:132][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.14-20.31.15:132][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.14-20.31.15:132][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.14-20.31.15:133][  0]LogInit: Computer: ALI-PC
+[2018.09.14-20.31.15:133][  0]LogInit: User: aliha
+[2018.09.14-20.31.15:133][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.09.14-20.31.15:133][  0]LogInit: High frequency timer resolution =2.929935 MHz
+[2018.09.14-20.31.15:133][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.14-20.31.15:133][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.14-20.31.15:133][  0]LogMemory: Process Physical Memory: 106.59 MB used, 106.59 MB peak
+[2018.09.14-20.31.15:133][  0]LogMemory: Process Virtual Memory: 96.79 MB used, 96.79 MB peak
+[2018.09.14-20.31.15:133][  0]LogMemory: Physical Memory: 8005.19 MB used,  8311.50 MB free, 16316.69 MB total
+[2018.09.14-20.31.15:133][  0]LogMemory: Virtual Memory: 4693.30 MB used,  8311.50 MB free, 134217728.00 MB total
+[2018.09.14-20.31.15:153][  0]LogInit: Using OS detected language (en-US).
+[2018.09.14-20.31.15:153][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.14-20.31.15:154][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.14-20.31.15:567][  0]LogStreaming: Display: Took  0.414s to InitEngineTextLocalization.
+[2018.09.14-20.31.15:567][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.14-20.31.15:610][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.14-20.31.15:610][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.14-20.31.15:949][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.14-20.31.16:022][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.14-20.31.16:022][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.14-20.31.16:024][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.14-20.31.16:024][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.14-20.31.16:024][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.14-20.31.16:034][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.14-20.31.16:034][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.14-20.31.16:034][  0]LogWindows: EnumDisplayDevices:
+[2018.09.14-20.31.16:034][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.14-20.31.16:034][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.14-20.31.16:035][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.14-20.31.16:035][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.14-20.31.16:035][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.14-20.31.16:035][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.14-20.31.16:035][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.09.14-20.31.16:035][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.09.14-20.31.16:035][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.14-20.31.16:090][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.14-20.31.16:126][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.14-20.31.16:171][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/11908/).
+[2018.09.14-20.31.16:171][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/0B830FA141B46BD0E887D0861951BABA/'.
+[2018.09.14-20.31.16:446][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.14-20.31.16:461][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.14-20.31.16:477][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.14-20.31.16:493][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.14-20.31.16:509][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.14-20.31.16:525][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.14-20.31.16:541][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.14-20.31.16:556][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.14-20.31.16:563][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.14-20.31.16:655][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:655][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:656][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.31.16:657][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.14-20.31.16:721][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.14-20.31.16:721][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.14-20.31.16:748][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.14-20.31.16:748][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.14-20.31.16:762][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.14-20.31.16:776][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.14-20.31.16:790][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.14-20.31.16:804][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.14-20.31.16:815][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.14-20.31.16:815][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.14-20.31.16:862][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.14-20.31.16:862][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.14-20.31.16:862][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.14-20.31.17:769][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.14-20.31.17:818][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.14-20.31.17:818][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.14-20.31.17:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.14-20.31.17:818][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.14-20.31.17:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.14-20.31.17:818][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.14-20.31.17:831][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.14-20.31.17:843][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.14-20.31.17:843][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.14-20.31.17:843][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.14-20.31.17:862][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.14-20.31.17:863][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.14-20.31.17:864][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.14-20.31.17:950][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.09.14-20.31.18:295][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-20.31.18:430][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.14-20.31.18:434][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.14-20.31.18:434][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.14-20.31.18:434][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.14-20.31.18:434][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.14-20.31.18:455][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.09.14-20.31.19:039][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.115513 seconds
+[2018.09.14-20.31.19:047][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.14-20.31.19:047][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.14-20.31.19:047][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.14-20.31.20:002][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.14-20.31.20:016][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.14-20.31.20:169][  0]SourceControl: Source control is disabled
+[2018.09.14-20.31.20:788][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.14-20.31.20:861][  0]LogOcInput: OculusInput pre-init called
+[2018.09.14-20.31.20:930][  0]LogEngine: Initializing Engine...
+[2018.09.14-20.31.20:974][  0]LogHMD: Oculus plugin initialized. Version: 4.20.1-4233996+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.09.14-20.31.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.14-20.31.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-20.31.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.14-20.31.20:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-20.31.21:192][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.14-20.31.21:202][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.14-20.31.21:272][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.31.21:287][  0]LogInit: FAudioDevice initialized.
+[2018.09.14-20.31.21:287][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.14-20.31.21:366][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.14-20.31.21:380][  0]LogInit: Texture streaming: Enabled
+[2018.09.14-20.31.21:394][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.14-20.31.21:410][  0]LogInit: Transaction tracking system initialized
+[2018.09.14-20.31.21:427][  0]BlueprintLog: New page: Editor Load
+[2018.09.14-20.31.21:488][  0]LocalizationService: Localization service is disabled
+[2018.09.14-20.31.21:760][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.14-20.31.21:760][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.14-20.31.21:760][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.14-20.31.21:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.14-20.31.21:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-20.31.21:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.14-20.31.21:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-20.31.21:882][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.02s
+[2018.09.14-20.31.21:882][  0]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Saved/Untitled_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.14-20.31.21:882][  0]LogEditorServer: Warning: Can't find file '../../../../../Github/climb-summit/TheSummit/Saved/Untitled_1.umap'
+[2018.09.14-20.31.21:882][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.14-20.31.21:946][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.755ms to complete.
+[2018.09.14-20.31.21:946][  0]LogFileHelpers: Loading map 'Untitled_1' took 0.064
+[2018.09.14-20.31.22:067][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.31.22:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.31.22:088][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.31.22:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.31.22:103][  0]LogCollectionManager: Loaded 0 collections in 0.001203 seconds
+[2018.09.14-20.31.22:146][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.09.14-20.31.22:146][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.09.14-20.31.22:146][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.09.14-20.31.22:146][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.09.14-20.31.22:157][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2572 classes and 603 folders.
+[2018.09.14-20.31.22:163][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.14-20.31.22:230][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.14-20.31.22:234][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.14-20.31.22:253][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.14-20.31.22:255][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.14-20.31.22:261][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.14-20.31.22:350][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-20.31.22:451][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.14-20.31.22:451][  0]LogLoad: (Engine Initialization) Total time: 9.81 seconds
+[2018.09.14-20.31.22:451][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.14-20.31.22:462][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.14-20.31.22:478][  0]LogOcInput: OculusInput is initialized
+[2018.09.14-20.31.22:502][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.14-20.31.22:517][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-20.31.22:537][  1]LogAssetRegistry: Asset discovery search completed in 4.6103 seconds
+[2018.09.14-20.31.22:539][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.09.14-20.31.22:539][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.09.14-20.31.57:691][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.31.57:824][226]LogTemp: Repeating last play command: VR Preview
+[2018.09.14-20.31.57:894][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-20.31.57:894][226]LogHMD: Initializing OVRPlugin session
+[2018.09.14-20.31.58:111][226]PIE: New page: PIE session: Untitled_0 (Sep 14, 2018, 12:31:58 PM)
+[2018.09.14-20.31.58:112][226]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2018.09.14-20.31.58:158][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045921s)
+[2018.09.14-20.31.58:159][226]LogAIModule: Creating AISystem for world Untitled
+[2018.09.14-20.31.58:166][226]LogPlayLevel: PIE: World Init took: (0.007635s)
+[2018.09.14-20.31.58:166][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.054283s)
+[2018.09.14-20.31.58:234][226]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.31.58:246][226]LogInit: FAudioDevice initialized.
+[2018.09.14-20.31.58:269][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.31.58:385][226]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.14-20.31.58:440][226]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-20.31.58:442][226]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2018.09.14-16.31.58
+[2018.09.14-20.31.58:456][226]LogWorld: Bringing up level for play took: 0.014549
+[2018.09.14-20.31.58:652][226]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.09.14-20.31.58:717][226]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.607
+[2018.09.14-20.31.58:734][226]LogEngine: Changing dynamic resolution state.
+[2018.09.14-20.31.58:915][226]LogRenderer: Reallocating scene render targets to support 2688x1584 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-20.31.58:915][226]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.14-20.32.15:280][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.32.15:295][563]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.14-20.32.15:364][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-20.32.15:415][564]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.09.14-20.32.26:011][826]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:230][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:235][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:235][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:235][826]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:235][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:235][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:235][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:235][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:236][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:236][826]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:236][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:236][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:236][826]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:240][826]LogBlueprint: Warning: [Compiler LeftHandAnimBP] [0073.60] Compile of LeftHandAnimBP failed. 20 Fatal Issue(s) 4 Warning(s) [in 21 ms] (/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP)
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:300][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:301][826]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.32.26:305][826]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.32.26:310][826]LogBlueprint: Warning: [Compiler RightHandAnimBP] [0073.67] Compile of RightHandAnimBP failed. 20 Fatal Issue(s) 4 Warning(s) [in 20 ms] (/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP)
+[2018.09.14-20.32.26:481][826]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.32.26:500][826]LogAssetEditorManager: Opening Asset editor for World /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap
+[2018.09.14-20.32.26:537][826]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.14-20.32.26:538][826]LightingResults: New page: Lighting Build
+[2018.09.14-20.32.26:540][826]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.09.14-20.32.26:540][826]LoadErrors: New page: Loading map: TreeCutTestMap.umap
+[2018.09.14-20.32.26:541][826]MapCheck: New page: Map Check
+[2018.09.14-20.32.26:541][826]LightingResults: New page: Lighting Build
+[2018.09.14-20.32.26:581][826]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.09.14-20.32.26:646][826]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.14-20.32.26:719][826]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.372ms to complete.
+[2018.09.14-20.32.26:721][826]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.185
+[2018.09.14-20.32.29:070][ 95]LogTemp: Repeating last play command: VR Preview
+[2018.09.14-20.32.29:090][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-20.32.33:532][ 95]LogSlate: Window 'Message' being destroyed
+[2018.09.14-20.32.33:539][ 95]LogHMD: Initializing OVRPlugin session
+[2018.09.14-20.32.33:650][ 95]PIE: New page: PIE session: TreeCutTestMap (Sep 14, 2018, 12:32:33 PM)
+[2018.09.14-20.32.33:651][ 95]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.14-20.32.33:655][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004110s)
+[2018.09.14-20.32.33:655][ 95]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.32.33:656][ 95]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.09.14-20.32.33:656][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.005228s)
+[2018.09.14-20.32.33:703][ 95]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.32.33:716][ 95]LogInit: FAudioDevice initialized.
+[2018.09.14-20.32.33:734][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.32.33:771][ 95]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.14-20.32.33:810][ 95]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-20.32.33:812][ 95]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.14-16.32.33
+[2018.09.14-20.32.33:813][ 95]LogWorld: Bringing up level for play took: 0.001936
+[2018.09.14-20.32.33:831][ 95]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 4.721
+[2018.09.14-20.32.33:956][ 96]LogEngine: Changing dynamic resolution state.
+[2018.09.14-20.32.57:858][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.32.57:872][564]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.14-20.32.57:913][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-20.32.57:964][565]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.09.14-20.32.59:354][731]LogTemp: Repeating last play command: VR Preview
+[2018.09.14-20.32.59:372][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-20.32.59:372][731]LogHMD: Initializing OVRPlugin session
+[2018.09.14-20.32.59:449][731]PIE: New page: PIE session: TreeCutTestMap (Sep 14, 2018, 12:32:59 PM)
+[2018.09.14-20.32.59:449][731]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.14-20.32.59:451][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002433s)
+[2018.09.14-20.32.59:452][731]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.32.59:452][731]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.09.14-20.32.59:452][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003308s)
+[2018.09.14-20.32.59:498][731]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.32.59:508][731]LogInit: FAudioDevice initialized.
+[2018.09.14-20.32.59:520][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.32.59:600][731]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.14-20.32.59:629][731]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-20.32.59:631][731]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.14-16.32.59
+[2018.09.14-20.32.59:631][731]LogWorld: Bringing up level for play took: 0.001503
+[2018.09.14-20.32.59:648][731]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.538
+[2018.09.14-20.32.59:649][731]LogEngine: Changing dynamic resolution state.
+[2018.09.14-20.32.59:654][731]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.14-20.32.59:654][731]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.14-20.33.40:254][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.33.40:266][268]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.14-20.33.40:344][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-20.33.40:637][269]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.09.14-20.33.44:194][695]LogEditorViewport: Clicking on Actor (LMB): RightHand_C (RightHand)
+[2018.09.14-20.33.48:920][255]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.14-20.33.49:656][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.33.55:115][994]Cmd: DELETE
+[2018.09.14-20.33.55:115][994]Cmd: ACTOR DELETE
+[2018.09.14-20.33.55:120][994]LogEditorActor: Deleted Actor: RightHand_C
+[2018.09.14-20.33.55:151][994]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.09.14-20.33.59:385][502]Cmd: TRANSACTION UNDO
+[2018.09.14-20.33.59:385][502]LogEditorTransaction: Undo Delete Actors
+[2018.09.14-20.34.29:296][ 60]LogEditorViewport: Clicking on Actor (LMB): LeftHand_C (LeftHand)
+[2018.09.14-20.34.32:291][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.34.34:412][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-20.34.36:296][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.34.36:587][921]LogEditorActor: Deleted Actor: RightHand_C
+[2018.09.14-20.34.36:619][921]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.09.14-20.34.37:418][ 15]LogEditorActor: Deleted Actor: LeftHand_C
+[2018.09.14-20.34.37:449][ 15]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.14-20.34.57:097][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.35.01:588][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.35.17:323][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.35.59:208][736]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap489ABD214A58ED9409FA7B979401DF4B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.14-20.35.59:323][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.14-20.35.59:351][736]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData838F0C994A90846906FCED8C7E429DC1.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.14-20.36.09:817][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.36.11:118][108]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapF268746C47401E37244C0DA9A4CDCE6E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.14-20.36.11:235][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.14-20.36.11:255][108]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataF437032744B75729BC01019D07E1FBED.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.14-20.36.13:850][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.36.13:917][424]LogTemp: Repeating last play command: VR Preview
+[2018.09.14-20.36.13:934][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-20.36.13:934][424]LogHMD: Initializing OVRPlugin session
+[2018.09.14-20.36.14:022][424]PIE: New page: PIE session: TreeCutTestMap (Sep 14, 2018, 12:36:14 PM)
+[2018.09.14-20.36.14:022][424]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.14-20.36.14:024][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002306s)
+[2018.09.14-20.36.14:025][424]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.36.14:026][424]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2018.09.14-20.36.14:026][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003628s)
+[2018.09.14-20.36.14:073][424]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.36.14:083][424]LogInit: FAudioDevice initialized.
+[2018.09.14-20.36.14:095][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.36.14:139][424]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.14-20.36.14:168][424]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-20.36.14:170][424]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.14-16.36.14
+[2018.09.14-20.36.14:170][424]LogWorld: Bringing up level for play took: 0.000946
+[2018.09.14-20.36.14:187][424]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 1.077
+[2018.09.14-20.36.14:284][425]LogEngine: Changing dynamic resolution state.
+[2018.09.14-20.36.39:972][697]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.14-20.36.40:012][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-20.36.40:063][698]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.14-20.36.41:523][872]LogTemp: Repeating last play command: VR Preview
+[2018.09.14-20.36.41:541][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-20.36.41:541][872]LogHMD: Initializing OVRPlugin session
+[2018.09.14-20.36.41:619][872]PIE: New page: PIE session: TreeCutTestMap (Sep 14, 2018, 12:36:41 PM)
+[2018.09.14-20.36.41:619][872]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.14-20.36.41:621][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002287s)
+[2018.09.14-20.36.41:622][872]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.36.41:622][872]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2018.09.14-20.36.41:622][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003108s)
+[2018.09.14-20.36.41:668][872]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.36.41:679][872]LogInit: FAudioDevice initialized.
+[2018.09.14-20.36.41:692][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.36.41:778][872]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.14-20.36.41:806][872]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-20.36.41:808][872]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.14-16.36.41
+[2018.09.14-20.36.41:808][872]LogWorld: Bringing up level for play took: 0.001037
+[2018.09.14-20.36.41:825][872]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.715
+[2018.09.14-20.36.41:827][872]LogEngine: Changing dynamic resolution state.
+[2018.09.14-20.36.41:832][872]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.14-20.36.41:832][872]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.14-20.36.48:969][507]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.14-20.36.49:013][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-20.36.49:069][508]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.09.14-20.37.34:445][893]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap43CB45824F0997FCF313AF9025CE610C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.14-20.37.34:566][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.14-20.37.34:585][893]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataD2C1F9B749CDE25AF8DBF69524F568EB.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.14-20.37.40:489][573]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap9B54B7C340E01AC83D546AAFB70680F4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.14-20.37.40:602][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.14-20.37.40:621][573]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataDD6593A6457D2EB39FB0D597523B6376.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.14-20.37.42:322][775]LogTemp: Repeating last play command: VR Preview
+[2018.09.14-20.37.42:341][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-20.37.42:341][775]LogHMD: Initializing OVRPlugin session
+[2018.09.14-20.37.42:444][775]PIE: New page: PIE session: TreeCutTestMap (Sep 14, 2018, 12:37:42 PM)
+[2018.09.14-20.37.42:444][775]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.14-20.37.42:446][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002229s)
+[2018.09.14-20.37.42:447][775]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.37.42:447][775]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.09.14-20.37.42:447][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003202s)
+[2018.09.14-20.37.42:493][775]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.37.42:503][775]LogInit: FAudioDevice initialized.
+[2018.09.14-20.37.42:516][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.37.42:554][775]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.14-20.37.42:584][775]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-20.37.42:585][775]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.14-16.37.42
+[2018.09.14-20.37.42:586][775]LogWorld: Bringing up level for play took: 0.001036
+[2018.09.14-20.37.42:602][775]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap -0.508
+[2018.09.14-20.37.42:697][776]LogEngine: Changing dynamic resolution state.
+[2018.09.14-20.37.57:831][673]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.14-20.37.57:867][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-20.37.57:918][674]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.14-20.37.59:231][831]LogTemp: Repeating last play command: VR Preview
+[2018.09.14-20.37.59:248][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-20.37.59:248][831]LogHMD: Initializing OVRPlugin session
+[2018.09.14-20.37.59:326][831]PIE: New page: PIE session: TreeCutTestMap (Sep 14, 2018, 12:37:59 PM)
+[2018.09.14-20.37.59:326][831]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.14-20.37.59:329][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002467s)
+[2018.09.14-20.37.59:331][831]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.37.59:331][831]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2018.09.14-20.37.59:331][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003495s)
+[2018.09.14-20.37.59:380][831]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.37.59:393][831]LogInit: FAudioDevice initialized.
+[2018.09.14-20.37.59:405][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.37.59:489][831]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.14-20.37.59:517][831]LogLoad: Game class is 'GameModeBase'
+[2018.09.14-20.37.59:519][831]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.14-16.37.59
+[2018.09.14-20.37.59:519][831]LogWorld: Bringing up level for play took: 0.001185
+[2018.09.14-20.37.59:538][831]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.427
+[2018.09.14-20.37.59:539][831]LogEngine: Changing dynamic resolution state.
+[2018.09.14-20.37.59:543][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.14-20.37.59:543][831]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.14-20.38.32:635][804]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.14-20.38.32:676][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-20.38.32:759][805]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.14-20.38.52:618][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.39.39:122][619]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapBE4459D34292AD7FDE26CF99B46C9022.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.14-20.39.39:230][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.14-20.39.39:249][619]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataB7D2CEFE4E7D8190EE3D7D8376F44849.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.14-20.39.57:244][647]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.l_hand_cap_touch_anim
+[2018.09.14-20.39.57:346][647]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.14-20.39.57:589][647]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.39.57:591][647]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.14-20.39.57:927][647]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.14-20.39.58:926][647]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.14-20.39.59:424][648]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.09.14-20.40.11:860][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.40.11:944][563]LogSlate: Window 'l_hand_cap_touch_anim' being destroyed
+[2018.09.14-20.40.15:598][947]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP
+[2018.09.14-20.40.15:612][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.40.16:225][947]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.14-20.40.17:028][947]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.14-20.40.17:297][947]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.14-20.40.41:430][546]LogEditorTransaction: Undo Create Pin Link
+[2018.09.14-20.40.41:674][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.40.42:822][607]LogEditorTransaction: Undo Create Pin Link
+[2018.09.14-20.40.42:915][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.41.08:649][359]LogEditorTransaction: Undo Break Pin Link
+[2018.09.14-20.41.08:775][359]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.41.09:044][367]LogEditorTransaction: Undo Break Pin Link
+[2018.09.14-20.41.09:156][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.41.09:751][400]LogEditorTransaction: Undo Break Pin Link
+[2018.09.14-20.41.09:861][400]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.41.47:607][ 29]LogEditorTransaction: Undo Refresh Node(s)
+[2018.09.14-20.41.47:721][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.41.48:149][ 48]LogEditorTransaction: Undo Refresh Node(s)
+[2018.09.14-20.41.48:266][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.42.10:278][513]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.746 s
+[2018.09.14-20.42.10:278][513]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.14-20.42.10:278][513]LogOutputDevice: Error: 
+[2018.09.14-20.42.10:278][513]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.09.14-20.42.10:278][513]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'PointBlend' on node 'Get PointBlend' not reciprocally linked with pin 'From' on node 'Change Value at Rate'
+[2018.09.14-20.42.10:278][513]LogOutputDevice: Error: Stack: 
+[2018.09.14-20.42.10:278][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1b7136 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3def0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3df0b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa0b65522f UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa0b65502f UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa0b654a29 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa348ebe58 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa34af118a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa348d5c33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3ce7edb9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3ce7eb63 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3ce105b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f0829fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f184fce UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f18d660 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f161e2f UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f249c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f18f375 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f0394c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f0d1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f0b7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa3f0ab25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa4f4bd1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa4f4b0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa4f4bf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa4f4ac209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa76ed6cc1 USER32.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa76ed6693 USER32.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa4f4c0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ff795cf54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ff795d05b3c UE4Editor.exe!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ff795d05bba UE4Editor.exe!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ff795d13dac UE4Editor.exe!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ff795d15aaa UE4Editor.exe!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa78143034 KERNEL32.DLL!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: [Callstack] 0x00007ffa78661461 ntdll.dll!UnknownFunction []
+[2018.09.14-20.42.10:279][513]LogOutputDevice: Error: 
+[2018.09.14-20.42.10:295][513]LogStats:                SubmitErrorReport -  0.012 s
