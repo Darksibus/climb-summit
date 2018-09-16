@@ -1,0 +1,1333 @@
+﻿Log file open, 09/14/18 16:12:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.634423
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.128s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.14-20.12.35:992][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-20.12.35:992][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.14-20.12.36:011][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.14-20.12.36:011][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.14-20.12.36:011][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.14-20.12.36:011][  0]LogInit: Computer: ALI-PC
+[2018.09.14-20.12.36:011][  0]LogInit: User: aliha
+[2018.09.14-20.12.36:011][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.09.14-20.12.36:011][  0]LogInit: High frequency timer resolution =2.929935 MHz
+[2018.09.14-20.12.36:011][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.14-20.12.36:012][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.14-20.12.36:012][  0]LogMemory: Process Physical Memory: 103.85 MB used, 103.85 MB peak
+[2018.09.14-20.12.36:012][  0]LogMemory: Process Virtual Memory: 94.70 MB used, 94.70 MB peak
+[2018.09.14-20.12.36:012][  0]LogMemory: Physical Memory: 6607.41 MB used,  9709.28 MB free, 16316.69 MB total
+[2018.09.14-20.12.36:012][  0]LogMemory: Virtual Memory: 4688.22 MB used,  9709.28 MB free, 134217728.00 MB total
+[2018.09.14-20.12.37:165][  0]LogInit: Using OS detected language (en-US).
+[2018.09.14-20.12.37:165][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.14-20.12.37:166][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.14-20.12.37:607][  0]LogStreaming: Display: Took  0.442s to InitEngineTextLocalization.
+[2018.09.14-20.12.37:607][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.14-20.12.37:703][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.14-20.12.37:703][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.14-20.12.45:737][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.09.14-20.12.45:737][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.14-20.12.45:849][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.14-20.12.45:849][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.14-20.12.45:851][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.14-20.12.45:851][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.14-20.12.45:851][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.14-20.12.45:860][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.14-20.12.45:860][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.14-20.12.45:860][  0]LogWindows: EnumDisplayDevices:
+[2018.09.14-20.12.45:860][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.14-20.12.45:860][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.14-20.12.45:861][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.14-20.12.45:861][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.14-20.12.45:861][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.14-20.12.45:861][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.14-20.12.45:861][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.09.14-20.12.45:861][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.09.14-20.12.45:861][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.14-20.12.45:907][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.14-20.12.45:956][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.14-20.12.46:000][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/9212/).
+[2018.09.14-20.12.46:000][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/C4B0EEAF433BBA675A9EFC80334350D1/'.
+[2018.09.14-20.12.46:507][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.14-20.12.46:536][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.14-20.12.46:573][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.14-20.12.46:606][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.14-20.12.46:647][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.14-20.12.46:704][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.14-20.12.46:738][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.14-20.12.46:763][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.14-20.12.46:781][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:893][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-20.12.46:945][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.14-20.12.47:085][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.14-20.12.47:085][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.14-20.12.47:129][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.14-20.12.47:129][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.14-20.12.47:156][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.14-20.12.47:187][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.14-20.12.47:225][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.14-20.12.47:267][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.14-20.12.47:300][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.14-20.12.47:300][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.14-20.12.47:926][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.14-20.12.47:926][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.14-20.12.47:926][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.14-20.12.49:698][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.14-20.12.49:753][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.14-20.12.49:753][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.14-20.12.49:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.14-20.12.49:753][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.14-20.12.49:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.14-20.12.49:753][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.14-20.12.49:780][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.14-20.12.49:792][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.14-20.12.49:792][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.14-20.12.49:792][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.14-20.12.49:810][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.14-20.12.49:812][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.14-20.12.49:826][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.14-20.12.50:013][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.09.14-20.12.50:365][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-20.12.51:123][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.14-20.12.51:208][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.14-20.12.51:208][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.14-20.12.51:208][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.14-20.12.51:208][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.14-20.12.51:223][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.09.14-20.12.51:898][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.130949 seconds
+[2018.09.14-20.12.51:907][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.14-20.12.51:907][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.14-20.12.51:907][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.14-20.12.55:739][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.14-20.12.55:836][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.14-20.12.57:153][  0]SourceControl: Source control is disabled
+[2018.09.14-20.13.00:527][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.14-20.13.00:817][  0]LogOcInput: OculusInput pre-init called
+[2018.09.14-20.13.01:035][  0]LogEngine: Initializing Engine...
+[2018.09.14-20.13.06:745][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.09.14-20.13.06:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.14-20.13.06:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-20.13.06:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.14-20.13.06:747][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-20.13.06:992][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.14-20.13.07:035][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.14-20.13.07:064][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.13.07:083][  0]LogInit: FAudioDevice initialized.
+[2018.09.14-20.13.07:083][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.14-20.13.07:164][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.14-20.13.07:178][  0]LogInit: Texture streaming: Enabled
+[2018.09.14-20.13.07:295][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.14-20.13.07:332][  0]LogInit: Transaction tracking system initialized
+[2018.09.14-20.13.07:484][  0]BlueprintLog: New page: Editor Load
+[2018.09.14-20.13.08:236][  0]LocalizationService: Localization service is disabled
+[2018.09.14-20.13.08:966][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.14-20.13.08:966][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.14-20.13.08:966][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.14-20.13.08:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.14-20.13.08:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-20.13.08:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.14-20.13.08:966][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-20.13.09:026][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.02s
+[2018.09.14-20.13.09:766][  0]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Saved/Untitled_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.14-20.13.09:766][  0]LogEditorServer: Warning: Can't find file '../../../../../Github/climb-summit/TheSummit/Saved/Untitled_1.umap'
+[2018.09.14-20.13.09:766][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.14-20.13.09:827][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.776ms to complete.
+[2018.09.14-20.13.09:827][  0]LogFileHelpers: Loading map 'Untitled_1' took 0.060
+[2018.09.14-20.13.09:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.13.09:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.13.09:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.13.09:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-20.13.10:010][  0]LogCollectionManager: Loaded 0 collections in 0.001112 seconds
+[2018.09.14-20.13.10:053][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.09.14-20.13.10:054][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.09.14-20.13.10:054][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.09.14-20.13.10:054][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.09.14-20.13.10:066][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2572 classes and 603 folders.
+[2018.09.14-20.13.10:072][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.14-20.13.10:446][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.14-20.13.10:487][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.14-20.13.10:510][  0]LogSlate: Took 0.004182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.14-20.13.10:516][  0]LogSlate: Took 0.004325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.14-20.13.10:528][  0]LogSlate: Took 0.006585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.14-20.13.10:611][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-20.13.10:810][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.14-20.13.10:810][  0]LogLoad: (Engine Initialization) Total time: 42.80 seconds
+[2018.09.14-20.13.10:810][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.14-20.13.10:871][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.14-20.13.10:887][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-20.13.10:915][  1]LogAssetRegistry: Asset discovery search completed in 20.9256 seconds
+[2018.09.14-20.13.10:917][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2018.09.14-20.13.10:917][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.09.14-20.13.58:211][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.14.04:218][ 40]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-20.14.04:386][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/LeftController'
+[2018.09.14-20.14.04:386][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/LeftController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:386][ 40]LoadErrors: Error: /Game/TreeCutTesting/TreeCutTestMap : Can't find file for asset. /Game/TouchControllers/Controllers/LeftController
+[2018.09.14-20.14.04:386][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/RightController'
+[2018.09.14-20.14.04:386][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/RightController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:386][ 40]LoadErrors: Error: /Game/TreeCutTesting/TreeCutTestMap : Can't find file for asset. /Game/TouchControllers/Controllers/RightController
+[2018.09.14-20.14.04:444][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/LeftController'
+[2018.09.14-20.14.04:444][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/LeftController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:444][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/RightController'
+[2018.09.14-20.14.04:444][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/RightController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:445][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/LeftController'
+[2018.09.14-20.14.04:445][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/LeftController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:445][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/RightController'
+[2018.09.14-20.14.04:445][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/RightController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:445][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/LeftController'
+[2018.09.14-20.14.04:445][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/LeftController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:445][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/RightController'
+[2018.09.14-20.14.04:446][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/RightController' while loading ../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap.
+[2018.09.14-20.14.04:449][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/LeftController'
+[2018.09.14-20.14.04:449][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/LeftController' while loading NULL.
+[2018.09.14-20.14.04:449][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/LeftController'
+[2018.09.14-20.14.04:449][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/LeftController' while loading NULL.
+[2018.09.14-20.14.04:450][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/RightController'
+[2018.09.14-20.14.04:450][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/RightController' while loading NULL.
+[2018.09.14-20.14.04:450][ 40]LogLinker: Warning: Can't find file '/Game/TouchControllers/Controllers/RightController'
+[2018.09.14-20.14.04:451][ 40]LogLinker: Warning: Can't find file for asset '/Game/TouchControllers/Controllers/RightController' while loading NULL.
+[2018.09.14-20.14.04:588][ 40]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.14-20.14.04:595][ 40]LogAssetEditorManager: Opening Asset editor for World /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap
+[2018.09.14-20.14.04:627][ 40]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.14-20.14.04:627][ 40]LightingResults: New page: Lighting Build
+[2018.09.14-20.14.04:629][ 40]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.09.14-20.14.04:630][ 40]LoadErrors: New page: Loading map: TreeCutTestMap.umap
+[2018.09.14-20.14.04:630][ 40]MapCheck: New page: Map Check
+[2018.09.14-20.14.04:630][ 40]LightingResults: New page: Lighting Build
+[2018.09.14-20.14.04:669][ 40]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.14-20.14.04:731][ 40]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.14-20.14.04:797][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.662ms to complete.
+[2018.09.14-20.14.04:799][ 40]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.171
+[2018.09.14-20.14.04:834][ 40]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': LeftController_C /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.LeftController_2
+[2018.09.14-20.14.04:834][ 40]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': RightController_C /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.RightController_2
+[2018.09.14-20.14.04:834][ 40]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'left_touch_controller_model_skel': LeftController_C /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.LeftController_2
+[2018.09.14-20.14.04:834][ 40]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'right_touch_controller_model_skel': RightController_C /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.RightController_2
+[2018.09.14-20.14.53:628][863]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.14.53:629][863]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.14.53:661][863]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/l_hand_skeletal_lowres_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.14.53:669][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:669][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:669][863]LoadErrors: Error: /Game/Hands/LeftHandAnimBP : Can't find file for asset. /Game/Blueprints/BlueprintUtils
+[2018.09.14-20.14.53:686][863]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/l_hand_skeletal_lowres.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.14.53:687][863]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/HandMat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.14.53:689][863]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/l_hand_skeletal_lowres_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.14.53:691][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:691][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:691][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:692][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:693][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:693][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:708][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:708][863]LoadErrors: Failed to load /Game/Blueprints/BlueprintUtils.BlueprintUtils_C Referenced by K2Node_CallFunction_349
+[2018.09.14-20.14.53:708][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:708][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:708][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:708][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:708][863]LoadErrors: Failed to load /Game/Blueprints/BlueprintUtils.Default__BlueprintUtils_C Referenced by K2Node_CallFunction_349
+[2018.09.14-20.14.53:709][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:709][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:709][863]LoadErrors: Failed to load /Game/Blueprints/BlueprintUtils.BlueprintUtils_C Referenced by K2Node_CallFunction_350
+[2018.09.14-20.14.53:709][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:709][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:709][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:709][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:709][863]LoadErrors: Failed to load /Game/Blueprints/BlueprintUtils.Default__BlueprintUtils_C Referenced by K2Node_CallFunction_350
+[2018.09.14-20.14.53:710][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:735][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:735][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:735][863]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.14.53:735][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:735][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:741][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.14.53:741][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:741][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:741][863]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.14.53:741][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:741][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:741][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.14.53:767][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:768][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.14.53:768][863]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.14.53:772][863]LogBlueprint: Warning: [Compiler LeftHandAnimBP] [0145.76] Compile of LeftHandAnimBP failed. 20 Fatal Issue(s) 4 Warning(s) [in 58 ms] (/Game/Hands/LeftHandAnimBP.LeftHandAnimBP)
+[2018.09.14-20.14.53:773][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:773][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.53:776][863]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.14.53:776][863]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/LeftHandAnimBP.uasset.
+[2018.09.14-20.14.57:948][348]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Hands/LeftHand.LeftHand
+[2018.09.14-20.14.58:530][348]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.14-20.14.59:514][348]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.14-20.15.08:283][309]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-20.15.13:105][868]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.14-20.15.16:899][297]LogSlate: Window 'LeftHand' being destroyed
+[2018.09.14-20.15.45:370][641]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightController
+[2018.09.14-20.15.45:370][641]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftController
+[2018.09.14-20.15.45:370][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.45:370][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.45:370][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] In use pin  As VRCharacter  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.45:371][641]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightController
+[2018.09.14-20.15.45:371][641]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightHand" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightHand
+[2018.09.14-20.15.45:371][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.45:371][641]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftController
+[2018.09.14-20.15.45:371][641]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftHand" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftHand
+[2018.09.14-20.15.45:371][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.45:371][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] In use pin  As VRCharacter  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.45:372][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Controller  could not be found in '/Game/HandSample.HandSample_C'
+[2018.09.14-20.15.45:372][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Hand  could not be found in '/Game/HandSample.HandSample_C'
+[2018.09.14-20.15.45:372][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Hand  could not be found in '/Game/HandSample.HandSample_C'
+[2018.09.14-20.15.45:372][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Controller  could not be found in '/Game/HandSample.HandSample_C'
+[2018.09.14-20.15.45:372][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Controller  could not be found in '/Game/HandSample.HandSample_C'
+[2018.09.14-20.15.45:372][641]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Controller  could not be found in '/Game/HandSample.HandSample_C'
+[2018.09.14-20.15.45:373][641]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] [0197.36] Compile of PersistentLevel.HandSample failed. 12 Fatal Issue(s) 6 Warning(s) [in 4 ms] (/Game/HandSample.HandSample:PersistentLevel.HandSample)
+[2018.09.14-20.15.45:391][641]LogAIModule: Creating AISystem for world HandSample
+[2018.09.14-20.15.45:393][641]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/HandControllerRight.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.48:488][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightController
+[2018.09.14-20.15.48:488][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftController
+[2018.09.14-20.15.48:488][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.48:488][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.48:488][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] In use pin  As VRCharacter  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.48:489][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightController
+[2018.09.14-20.15.48:489][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightHand" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightHand
+[2018.09.14-20.15.48:489][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.48:489][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftController
+[2018.09.14-20.15.48:489][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftHand" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftHand
+[2018.09.14-20.15.48:489][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.48:489][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] In use pin  As VRCharacter  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.48:490][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.48:490][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Hand  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.48:490][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Hand  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.48:490][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.48:490][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.48:490][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.48:491][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] [0200.48] Compile of PersistentLevel.HandSample failed. 12 Fatal Issue(s) 6 Warning(s) [in 11 ms] (/Game/TouchControllers/HandSample.HandSample:PersistentLevel.HandSample)
+[2018.09.14-20.15.48:656][903]LogMetaData: Removing '/Game/TouchControllers/HandSample.HandSample_C' ref from Metadata '/Game/HandSample.PackageMetaData'
+[2018.09.14-20.15.48:656][903]LogMetaData: Removing '/Game/TouchControllers/HandSample.SKEL_HandSample_C' ref from Metadata '/Game/HandSample.PackageMetaData'
+[2018.09.14-20.15.48:665][903]LogMetaData: Removing '/Game/TouchControllers/HandControllerRight.HandControllerRight_C' ref from Metadata '/Game/HandControllerRight.PackageMetaData'
+[2018.09.14-20.15.48:665][903]LogMetaData: Removing '/Game/TouchControllers/HandControllerRight.HandControllerRight:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HandControllerRight.PackageMetaData'
+[2018.09.14-20.15.48:665][903]LogMetaData: Removing '/Game/TouchControllers/HandControllerRight.HandControllerRight:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HandControllerRight.PackageMetaData'
+[2018.09.14-20.15.48:665][903]LogMetaData: Removing '/Game/TouchControllers/HandControllerRight.SKEL_HandControllerRight_C:ReceiveBeginPlay' ref from Metadata '/Game/HandControllerRight.PackageMetaData'
+[2018.09.14-20.15.48:665][903]LogMetaData: Removing '/Game/TouchControllers/HandControllerRight.SKEL_HandControllerRight_C:ReceiveTick' ref from Metadata '/Game/HandControllerRight.PackageMetaData'
+[2018.09.14-20.15.48:665][903]LogMetaData: Removing '/Game/TouchControllers/HandControllerRight.SKEL_HandControllerRight_C' ref from Metadata '/Game/HandControllerRight.PackageMetaData'
+[2018.09.14-20.15.48:685][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/HandSample_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/HandSample_BuiltData.uasset" SILENT=true
+[2018.09.14-20.15.48:698][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/HandSample_BuiltDataD2D0E7D948AA33FCAAF2ABAA3702CAE2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/HandSample_BuiltData.uasset'
+[2018.09.14-20.15.49:004][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/HandSample" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/HandSample.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-20.15.49:055][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightController
+[2018.09.14-20.15.49:055][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftController
+[2018.09.14-20.15.49:055][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.49:055][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.49:055][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] In use pin  As VRCharacter  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.49:055][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightController
+[2018.09.14-20.15.49:055][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "RightHand" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get RightHand
+[2018.09.14-20.15.49:055][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.49:055][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftController" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftController
+[2018.09.14-20.15.49:056][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] Could not find a variable named "LeftHand" in 'HandSample'.
+Make sure 'HandSample' has been compiled for  Get LeftHand
+[2018.09.14-20.15.49:056][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.14-20.15.49:056][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] In use pin  As VRCharacter  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.49:056][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.49:056][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Hand  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.49:056][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Hand  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.49:056][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.49:057][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Left Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.49:057][903]LogBlueprint: Error: [Compiler PersistentLevel.HandSample] The property associated with  Right Controller  could not be found in '/Game/TouchControllers/HandSample.HandSample_C'
+[2018.09.14-20.15.49:057][903]LogBlueprint: Warning: [Compiler PersistentLevel.HandSample] [0201.05] Compile of PersistentLevel.HandSample failed. 12 Fatal Issue(s) 6 Warning(s) [in 11 ms] (/Game/TouchControllers/HandSample.HandSample:PersistentLevel.HandSample)
+[2018.09.14-20.15.49:213][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/HandSample12EA8825425A93B2EBC2148B149F10CE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/HandSample.umap'
+[2018.09.14-20.15.49:458][903]LogFileHelpers: Saving map 'HandSample' took 0.528
+[2018.09.14-20.15.49:460][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/HandControllerRight" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/HandControllerRight.uasset" SILENT=true
+[2018.09.14-20.15.49:471][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/HandControllerRight6F69A05C461C06ED7E0FFFAC0D74B8B2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/HandControllerRight.uasset'
+[2018.09.14-20.15.50:380][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:382][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:404][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/r_hand_skeletal_lowres_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:413][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:413][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:413][903]LoadErrors: Error: /Game/Hands/RightHandAnimBP : Can't find file for asset. /Game/Blueprints/BlueprintUtils
+[2018.09.14-20.15.50:428][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/r_hand_skeletal_lowres.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:430][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/r_hand_skeletal_lowres_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:433][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:433][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:433][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:433][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:434][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:434][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:436][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:436][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:437][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:437][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:437][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:437][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:437][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:437][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:438][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:438][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:438][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:438][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:453][903]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.15.50:457][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:457][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:457][903]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.15.50:457][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:457][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:457][903]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.15.50:457][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:457][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:458][903]LogBlueprint: Warning: [Compiler RightHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.15.50:458][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:458][903]LogBlueprint: Error: [Compiler RightHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.15.50:458][903]LogBlueprint: Error: [Compiler RightHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'RightHandAnimBP'.
+Make sure 'RightHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.15.50:462][903]LogBlueprint: Warning: [Compiler RightHandAnimBP] [0202.45] Compile of RightHandAnimBP failed. 20 Fatal Issue(s) 4 Warning(s) [in 19 ms] (/Game/Hands/RightHandAnimBP.RightHandAnimBP)
+[2018.09.14-20.15.50:462][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:463][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:466][903]LogLinker: Warning: Can't find file '/Game/Blueprints/BlueprintUtils'
+[2018.09.14-20.15.50:466][903]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/BlueprintUtils' while loading ../../../../../Github/climb-summit/TheSummit/Content/Hands/RightHandAnimBP.uasset.
+[2018.09.14-20.15.50:534][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Animations/r_hand_relax_fist.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:537][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/l_hand_skeletal_lowres_Anim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:539][903]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hands/Models/l_hand_skeletal_lowres_Anim.l_hand_skeletal_lowres_Anim
+[2018.09.14-20.15.50:539][903]LogAnimationCompression: Compression Requested for Empty Animation l_hand_skeletal_lowres_Anim
+[2018.09.14-20.15.50:540][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Hands/Models/r_hand_skeletal_lowres_Anim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:542][903]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hands/Models/r_hand_skeletal_lowres_Anim.r_hand_skeletal_lowres_Anim
+[2018.09.14-20.15.50:542][903]LogAnimationCompression: Recompressing (AnimSequence /Game/Hands/Models/r_hand_skeletal_lowres_Anim.r_hand_skeletal_lowres_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.14-20.15.50:568][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/LeftController.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:583][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/LeftControllerAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:597][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/LeftControllerStick.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:599][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Models/left_touch_controller_model_skel_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:617][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/l_controller_grip_pull.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:624][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/l_controller_press_B1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:628][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/l_controller_press_B2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:633][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/l_controller_trigger_pull.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:652][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Models/touchController_mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:657][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Models/left_touch_controller_model_skel_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:745][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/RightController.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:746][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/RightControllerAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:762][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/RightControllerStick.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:764][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Models/right_touch_controller_model_skel_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:785][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/r_controller_grip_pull.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:790][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/r_controller_press_B1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:794][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/r_controller_press_B2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:799][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Animations/r_controller_trigger_pull.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:819][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Models/right_touch_controller_model_skel_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:928][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Models/l_controller_mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.50:937][903]LogLinker: Warning: Asset '../../../../../Github/climb-summit/TheSummit/Content/Controllers/Models/r_controller_mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:CurGrabAnim' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:ThumbUpBlend' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:PointBlend' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:GrabWeight' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:FlexWeight' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:IsPointing' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C:IsThumbUp' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.SKEL_LeftHandAnimBP_C' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:CurGrabAnim' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:ThumbUpBlend' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:PointBlend' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:GrabWeight' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:FlexWeight' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:IsPointing' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:IsThumbUp' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:906][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Hands/LeftHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.LeftHand_C' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:ReceiveBeginPlay' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:ReceiveTick' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:InpAxisKeyEvt_OculusTouch_Left_IndexPointing_K2Node_InputAxisKeyEvent_18' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:InpAxisKeyEvt_OculusTouch_Left_ThumbUp_K2Node_InputAxisKeyEvent_23' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:InpAxisKeyEvt_MotionController_Left_Grip1Axis_K2Node_InputAxisKeyEvent_29' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:GripAxis' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:IsPointing' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:914][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:IsThumbUp' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:DefaultSceneRoot' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:l_hand_skeletal_lowres' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C:UserConstructionScript' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.SKEL_LeftHand_C' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.LeftHand_C:GripAxis' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.LeftHand_C:IsPointing' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.LeftHand_C:IsThumbUp' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.LeftHand_C:DefaultSceneRoot' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.LeftHand_C:l_hand_skeletal_lowres' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:915][903]LogMetaData: Removing '/Game/TouchControllers/Hands/LeftHand.LeftHand_C:UserConstructionScript' ref from Metadata '/Game/Hands/LeftHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand_C' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:ReceiveBeginPlay' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:ReceiveTick' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:InpAxisKeyEvt_OculusTouch_Right_ThumbUp_K2Node_InputAxisKeyEvent_0' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:InpAxisKeyEvt_OculusTouch_Right_IndexPointing_K2Node_InputAxisKeyEvent_2' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:InpAxisKeyEvt_MotionController_Right_Grip1Axis_K2Node_InputAxisKeyEvent_14' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:GripAxis' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:IsPointing' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:IsThumbUp' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:DefaultSceneRoot' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:r_hand_skeletal_lowres' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C:UserConstructionScript' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.SKEL_RightHand_C' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand_C:GripAxis' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand_C:IsPointing' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand_C:IsThumbUp' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand_C:DefaultSceneRoot' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:939][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand_C:r_hand_skeletal_lowres' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:940][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHand.RightHand_C:UserConstructionScript' ref from Metadata '/Game/Hands/RightHand.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:CurGrabAnim' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:ThumbUpBlend' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:PointBlend' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:GrabWeight' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:FlexWeight' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:IsPointing' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C:IsThumbUp' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.SKEL_RightHandAnimBP_C' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:CurGrabAnim' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:ThumbUpBlend' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:PointBlend' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:GrabWeight' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:FlexWeight' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:IsPointing' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:IsThumbUp' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.53:947][903]LogMetaData: Removing '/Game/TouchControllers/Hands/RightHandAnimBP.RightHandAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Hands/RightHandAnimBP.PackageMetaData'
+[2018.09.14-20.15.54:216][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_cap_touch_thumb_mask_animC5798B6B423C55C43462E580B15538FB.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_thumb_mask_anim.uasset'
+[2018.09.14-20.15.54:453][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_cap_touch_anim243139574F0FB28F9886D8AF6F9264F9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_anim.uasset'
+[2018.09.14-20.15.54:622][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_skeletal_lowres_Skeleton9373E1C943D13452EED6939AA7545592.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/l_hand_skeletal_lowres_Skeleton.uasset'
+[2018.09.14-20.15.54:828][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_skeletal_lowres64EB112A4E83AB945D60A1B767E49782.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/l_hand_skeletal_lowres.uasset'
+[2018.09.14-20.15.55:058][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_skeletal_lowres_PhysicsAs828C143945E08D9E66484696E668564E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/l_hand_skeletal_lowres_PhysicsAsset.uasset'
+[2018.09.14-20.15.55:275][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/Models/HandMat" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/HandMat.uasset" SILENT=true
+[2018.09.14-20.15.55:291][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/HandMat792B01CA46659CFF348AE9972E9AD42B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/HandMat.uasset'
+[2018.09.14-20.15.55:487][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/LeftHandAnimBP" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHandAnimBP.uasset" SILENT=true
+[2018.09.14-20.15.55:564][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/LeftHandAnimBP9C55C5744934087F951CF8875E5801EA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHandAnimBP.uasset'
+[2018.09.14-20.15.55:739][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/LeftHand" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHand.uasset" SILENT=true
+[2018.09.14-20.15.55:782][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/LeftHandEA4BD162483C1333A7F0A5A6339BDDDF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHand.uasset'
+[2018.09.14-20.15.56:006][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_fist_animAEF8F22C4C6A65457B178EA105631139.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_fist_anim.uasset'
+[2018.09.14-20.15.56:228][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_default_anim266CEDD543B2CF1E03E75A9A36BB212A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_default_anim.uasset'
+[2018.09.14-20.15.56:421][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/RightHand" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset" SILENT=true
+[2018.09.14-20.15.56:449][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightHand88C063F342F5DC2B6963E7BBE8E9F56D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset'
+[2018.09.14-20.15.56:650][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/RightHandAnimBP" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHandAnimBP.uasset" SILENT=true
+[2018.09.14-20.15.56:719][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightHandAnimBP57401EE44E4D2D370E3BFD9B6C6D3009.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHandAnimBP.uasset'
+[2018.09.14-20.15.56:932][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_cap_touch_index_mask_anim33E77BC0482CB43E1E2A87861D09F75F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_cap_touch_index_mask_anim.uasset'
+[2018.09.14-20.15.57:143][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_hold_generic_anim10D6390543750FA428F6FD826BE3A1A5.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_generic_anim.uasset'
+[2018.09.14-20.15.57:345][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_hold_l_controller_anim79A6ABBF415C4058338E9FAB696BFCE2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_l_controller_anim.uasset'
+[2018.09.14-20.15.57:563][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_hold_ping_pong_ball_anim971160C844B54255220A048DA31AACC4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_hold_ping_pong_ball_anim.uasset'
+[2018.09.14-20.15.57:752][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_pinch_anim9DF15F8F4F83E038EE77FA98323576D4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_pinch_anim.uasset'
+[2018.09.14-20.15.57:964][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_point_animAC3470DA457FFE79701AEA9E3166270F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_point_anim.uasset'
+[2018.09.14-20.15.58:155][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_relax_3qtr_fist_anim15FC4F1842CFA0883052E9B124D9D99F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_3qtr_fist_anim.uasset'
+[2018.09.14-20.15.58:355][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_relax_mid_fist_animF08138974735761B3A1C22A0E4BF8340.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_relax_mid_fist_anim.uasset'
+[2018.09.14-20.15.58:556][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_thumbs_up_anim40920CBE4BFD40B0F6541887ED286C5E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/l_hand_thumbs_up_anim.uasset'
+[2018.09.14-20.15.58:743][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_cap_touch_animB18AA03543B3EBD163FFC3B697369418.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_anim.uasset'
+[2018.09.14-20.15.58:941][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_cap_touch_index_mask_anim159306B9409C0661C0A680826C756033.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_index_mask_anim.uasset'
+[2018.09.14-20.15.59:153][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_cap_touch_thumb_mask_anim1DBAEA1E4AB57D17F434509A261C4394.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_cap_touch_thumb_mask_anim.uasset'
+[2018.09.14-20.15.59:348][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_default_animC3E1F6764F6A197861607FA0FC23EFBE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_default_anim.uasset'
+[2018.09.14-20.15.59:549][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_fist_anim0CC4150C449089A4D741A0AFCCC8E53F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_fist_anim.uasset'
+[2018.09.14-20.15.59:749][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_hold_generic_anim910B0B5C4D954513EEB4B8B979951105.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_hold_generic_anim.uasset'
+[2018.09.14-20.15.59:997][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_relax_fist543B5FF049429FE2FB4C489269C76EB1.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Animations/r_hand_relax_fist.uasset'
+[2018.09.14-20.16.00:232][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_hand_skeletal_lowres_Anim1307B2404ED5BED8F4BA679562822ED7.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/l_hand_skeletal_lowres_Anim.uasset'
+[2018.09.14-20.16.00:456][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_skeletal_lowresF31B63D640CC4CDB3FB7DBB5548817E6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/r_hand_skeletal_lowres.uasset'
+[2018.09.14-20.16.00:656][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_skeletal_lowres_AnimDCDCFD95444E0F35F31311BF3BB4597E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/r_hand_skeletal_lowres_Anim.uasset'
+[2018.09.14-20.16.00:845][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_skeletal_lowres_PhysicsAsD21BA1B8419C0EB945A29295D52D78ED.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/r_hand_skeletal_lowres_PhysicsAsset.uasset'
+[2018.09.14-20.16.01:061][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_hand_skeletal_lowres_Skeleton8F2F4BCA484C867CA8C4B6A9572E6363.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/Models/r_hand_skeletal_lowres_Skeleton.uasset'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:ReceiveTick' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:GripButton' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:IndexTrigger' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:Button2' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:Button1' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:ThumbY' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:ThumbX' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:DefaultSceneRoot' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:left_touch_controller_model_skel' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C:UserConstructionScript' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.SKEL_LeftController_C' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:GripButton' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:IndexTrigger' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:Button2' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:Button1' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:ThumbY' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:ThumbX' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:DefaultSceneRoot' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:left_touch_controller_model_skel' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:ReceiveTick' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:234][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftController.LeftController_C:UserConstructionScript' ref from Metadata '/Game/Controllers/LeftController.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C:Button2' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C:Button1' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C:GripButtonBlend' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C:IndexTriggerBlend' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C:ThumbstickY' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C:ThumbstickX' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.SKEL_LeftControllerAnimBP_C' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C:Button2' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C:Button1' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C:GripButtonBlend' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C:IndexTriggerBlend' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C:ThumbstickY' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C:ThumbstickX' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:242][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/LeftControllerAnimBP.LeftControllerAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Controllers/LeftControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:ReceiveTick' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:GripButton' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:IndexTrigger' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:Button2' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:Button1' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:ThumbY' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:ThumbX' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:DefaultSceneRoot' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:right_touch_controller_model_skel' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C:UserConstructionScript' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.SKEL_RightController_C' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:GripButton' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:IndexTrigger' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:Button2' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:Button1' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:ThumbY' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:ThumbX' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:DefaultSceneRoot' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:right_touch_controller_model_skel' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:ReceiveTick' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:250][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightController.RightController_C:UserConstructionScript' ref from Metadata '/Game/Controllers/RightController.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C:Button2' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C:Button1' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C:GripButtonBlend' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C:IndexTriggerBlend' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C:ThumbstickY' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C:ThumbstickX' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.SKEL_RightControllerAnimBP_C' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C:Button2' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C:Button1' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C:GripButtonBlend' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C:IndexTriggerBlend' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C:ThumbstickY' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C:ThumbstickX' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:258][903]LogMetaData: Removing '/Game/TouchControllers/Controllers/RightControllerAnimBP.RightControllerAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Controllers/RightControllerAnimBP.PackageMetaData'
+[2018.09.14-20.16.12:885][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Controllers/LeftController" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/LeftController.uasset" SILENT=true
+[2018.09.14-20.16.12:926][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/LeftController64DBD3B04EC8F9EB558B2CB78F820DF8.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/LeftController.uasset'
+[2018.09.14-20.16.13:175][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/LeftControllerAnimBPA55E53B64785B328E83736BFA1F1933B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/LeftControllerAnimBP.uasset'
+[2018.09.14-20.16.13:413][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightController8FABBACF4A9CE03009D09EB73763BF28.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/RightController.uasset'
+[2018.09.14-20.16.13:665][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightControllerAnimBP5B657A5E47B243CB62676E9A7A9E66EF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/RightControllerAnimBP.uasset'
+[2018.09.14-20.16.13:876][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/LeftControllerStick7D745C4A4084582ACAE740AAFDC5C38D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/LeftControllerStick.uasset'
+[2018.09.14-20.16.14:177][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_button01_anim22568CA74023DC6EEDD32A93FD291696.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button01_anim.uasset'
+[2018.09.14-20.16.14:567][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_button02_anim8EB2389B4504371842F136ADF866651E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button02_anim.uasset'
+[2018.09.14-20.16.14:764][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_button03_anim3DABD7804EFC719500C6859C991D4983.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_button03_anim.uasset'
+[2018.09.14-20.16.14:983][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_grip_button_anim0E31C64840938BFC9F2E67A7A05BCF87.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_grip_button_anim.uasset'
+[2018.09.14-20.16.15:191][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_grip_pull4A45691E4D481E85E175F2AA58ADAF0A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_grip_pull.uasset'
+[2018.09.14-20.16.15:391][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_E_animA93D75834F94975D612DAF91E8394EEA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_E_anim.uasset'
+[2018.09.14-20.16.15:604][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_NE_anim74920AF54C46CC53E2CD4FB8606B3BB3.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NE_anim.uasset'
+[2018.09.14-20.16.15:847][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_NW_anim5D0EA4E944F506A5F7B7FDB3F85C34A7.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_NW_anim.uasset'
+[2018.09.14-20.16.16:046][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_N_anim497DB49A4CF69B0CE03783B35B96551D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_N_anim.uasset'
+[2018.09.14-20.16.16:232][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_SE_anim6A7CF9184D3BC4D7437D4A84BA8EEC83.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SE_anim.uasset'
+[2018.09.14-20.16.16:431][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_SW_anim695A6B6942EE95C24ABF20934886696D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_SW_anim.uasset'
+[2018.09.14-20.16.16:631][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_S_animF5A9793E4B7C5CA707AF2097A902B5DD.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_S_anim.uasset'
+[2018.09.14-20.16.16:842][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_joy_W_animF03CF9F34C3821854A8389B13C44BF86.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_joy_W_anim.uasset'
+[2018.09.14-20.16.17:099][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_anim3AF0818648379F38E449979705E5E1C6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_anim.uasset'
+[2018.09.14-20.16.17:311][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_button01_ma023724CF425A5B4B6B72419C28E1B3E9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button01_mask_anim.uasset'
+[2018.09.14-20.16.17:528][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_button02_maCEE136E6456E2CC44236D4BDF3AA6B68.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button02_mask_anim.uasset'
+[2018.09.14-20.16.17:729][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_button03_ma5919066C4E3173BFE840D1B28FD9D616.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_button03_mask_anim.uasset'
+[2018.09.14-20.16.17:940][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_grip_button0AE74DE04D43DC85B3EBE8A6BB3A6517.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_grip_button_mask_anim.uasset'
+[2018.09.14-20.16.18:143][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_neutral_trigger_pul23AA9C124530777AAFF66E81AFEE65C4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_neutral_trigger_pull_mask_anim.uasset'
+[2018.09.14-20.16.18:343][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_press_B1407E8FF24F96E2BCD4C9688E1FB5A7DE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_press_B1.uasset'
+[2018.09.14-20.16.18:544][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_press_B2FD64D7054CE75800EE906FB165109FB4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_press_B2.uasset'
+[2018.09.14-20.16.18:767][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_trigger_pull5DE0090443ED8DCEE8AE1F8924AE31CF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_trigger_pull.uasset'
+[2018.09.14-20.16.18:978][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_trigger_pull_anim2D4729D9442446719EEA4386CF21D178.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/l_controller_trigger_pull_anim.uasset'
+[2018.09.14-20.16.19:182][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightControllerStick62F599FC44056ED808AC7FA33485D45E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/RightControllerStick.uasset'
+[2018.09.14-20.16.19:363][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_button01_anim20541A874AE4D2ECCAEB56BAC7FC5863.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button01_anim.uasset'
+[2018.09.14-20.16.19:573][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_button02_animE42C03104C5E180441305F94167149C2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button02_anim.uasset'
+[2018.09.14-20.16.19:773][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_button03_animFE69AAD2448AF9A143133E8046798318.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_button03_anim.uasset'
+[2018.09.14-20.16.19:986][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_grip_button_animEE0DB4504ED7751E74DDE7A751C0D4B2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_grip_button_anim.uasset'
+[2018.09.14-20.16.20:184][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_grip_pull0C787C174F0D3124FCF22CABEBA8068D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_grip_pull.uasset'
+[2018.09.14-20.16.20:383][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_E_anim6E28A5E34E4D00C46876BB9962876CA9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_E_anim.uasset'
+[2018.09.14-20.16.20:584][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_NE_anim949713304D81009A2A78378F787FCB59.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NE_anim.uasset'
+[2018.09.14-20.16.20:791][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_NW_animFBA8CAB640FFAB21679E2A943AD22C99.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_NW_anim.uasset'
+[2018.09.14-20.16.21:006][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_N_anim188A22A041FD0DBDAED2C3926B27E05D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_N_anim.uasset'
+[2018.09.14-20.16.21:208][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_SE_anim914AFC7C4820C39891E826B642456D1F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SE_anim.uasset'
+[2018.09.14-20.16.21:404][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_SW_anim023455A149C22895FFAA3E80B139C0C6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_SW_anim.uasset'
+[2018.09.14-20.16.21:609][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_S_anim99266C8A4846C5689BDEA894166571A6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_S_anim.uasset'
+[2018.09.14-20.16.21:838][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_joy_W_animAF87520B44122689D69F30AD077261EF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_joy_W_anim.uasset'
+[2018.09.14-20.16.22:038][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_animD77E2BEB4AB8AEC36AAB4DA34EF6B246.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_anim.uasset'
+[2018.09.14-20.16.22:259][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_button01_ma2A28F93C4E1887BF7C085DAAB919C0E4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button01_mask_anim.uasset'
+[2018.09.14-20.16.22:491][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_button02_ma020FAEA240D89574D146B7A3C94872B3.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button02_mask_anim.uasset'
+[2018.09.14-20.16.22:709][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_button03_ma3EAAB6264B4E3CEE0C66FFB0CD8D0C61.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_button03_mask_anim.uasset'
+[2018.09.14-20.16.22:941][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_grip_buttonA8453A6D4E007E6407D13F9BF969E2BC.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_grip_button_mask_anim.uasset'
+[2018.09.14-20.16.23:171][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_trigger_mas37C6E4944475D2204A8EE78A37494B0F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_mask_anim.uasset'
+[2018.09.14-20.16.23:362][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_neutral_trigger_pul19F2150D4FBB12A4326686B8E47E4082.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_neutral_trigger_pull_mask_anim.uasset'
+[2018.09.14-20.16.23:589][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_press_B138459F0041AB4E4E361CA5853D0B23E3.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_press_B1.uasset'
+[2018.09.14-20.16.23:810][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_press_B282104A8F4A37197E3B0C7AA793BD2500.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_press_B2.uasset'
+[2018.09.14-20.16.24:017][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_trigger_pull8578812045BFBD3C516D2C9F5DBE1873.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_trigger_pull.uasset'
+[2018.09.14-20.16.24:227][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_trigger_pull_animAE6EEC1A46DCC1D7853A3CB1D6E13AB8.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Animations/r_controller_trigger_pull_anim.uasset'
+[2018.09.14-20.16.24:464][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/left_touch_controller_model_skelD652B2F04F507BA6D61CDD86C8A44141.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/left_touch_controller_model_skel.uasset'
+[2018.09.14-20.16.24:747][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/left_touch_controller_model_skel51C1E0C14CDC1F802617A7A01A37E254.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/left_touch_controller_model_skel_Anim.uasset'
+[2018.09.14-20.16.25:014][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/left_touch_controller_model_skel7C89378F4E8C97D7006CAD9347A462B9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/left_touch_controller_model_skel_PhysicsAsset.uasset'
+[2018.09.14-20.16.25:210][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/left_touch_controller_model_skel97C3B1E54E7E84BC99595C9C2F97B8E8.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/left_touch_controller_model_skel_Skeleton.uasset'
+[2018.09.14-20.16.25:389][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/l_controller_mat898E70BA42FF553EEDC5C88E749C9DEA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/l_controller_mat.uasset'
+[2018.09.14-20.16.25:626][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/right_touch_controller_model_ske9C3664514D30F55EA00660A403D5B525.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/right_touch_controller_model_skel.uasset'
+[2018.09.14-20.16.25:897][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/right_touch_controller_model_ske44A770104D7C64E5878EB39784F18E9D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/right_touch_controller_model_skel_Anim.uasset'
+[2018.09.14-20.16.26:108][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/right_touch_controller_model_ske23A96AF1481B7941919C128172C2EE8B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/right_touch_controller_model_skel_PhysicsAsset.uasset'
+[2018.09.14-20.16.26:277][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/right_touch_controller_model_ske251A2197430993FC909CF78B41872286.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/right_touch_controller_model_skel_Skeleton.uasset'
+[2018.09.14-20.16.26:482][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/r_controller_mat39F08A2C49464CC0112CFEBE13D63AFE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/r_controller_mat.uasset'
+[2018.09.14-20.16.26:680][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/touchController_albedo0093BA0F4EDDC3501B7A13B21BBE87D4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_albedo.uasset'
+[2018.09.14-20.16.26:899][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/touchController_controlmap5605541E4C7777B8635A7AA3D9AE9E4B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_controlmap.uasset'
+[2018.09.14-20.16.27:129][903]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/touchController_mat50ECE6BD449E0E024F4BE8B661F96448.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Controllers/Models/touchController_mat.uasset'
+[2018.09.14-20.17.19:975][838]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.09.14-20.17.20:128][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.17.20:982][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.14-20.17.28:756][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.17.38:086][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.17.47:494][ 65]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2018.09.14-20.18.08:514][545]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2018.09.14-20.18.14:279][229]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-20.18.15:079][318]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2018.09.14-20.18.21:243][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.18.31:897][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.18.40:818][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.18.55:480][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.18.59:423][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.19.09:090][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.19.14:676][357]Cmd: TRANSACTION UNDO
+[2018.09.14-20.19.14:676][357]LogEditorTransaction: Undo Add Component
+[2018.09.14-20.19.19:679][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.19.34:234][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.19.38:652][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.19.43:680][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.19.45:612][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.19.51:645][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-20.19.54:208][ 32]Cmd: ACTOR SELECT ALL
+[2018.09.14-20.20.04:178][189]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TouchControllers/Hands/RightHand.RightHand
+[2018.09.14-20.20.10:970][786]LogSlate: Window 'RightHand' being destroyed
+[2018.09.14-20.20.10:976][786]LogSlate: Window 'RightHand' being destroyed
+[2018.09.14-20.20.24:573][393]LogEditorViewport: Clicking on Actor (LMB): Actor (Right_Hand)
+[2018.09.14-20.20.26:435][613]LogEditorViewport: Clicking on Actor (LMB): Actor (Right_Hand)
+[2018.09.14-20.20.26:792][654]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-20.20.27:449][729]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-20.20.27:965][789]LogEditorViewport: Clicking on Actor (LMB): Actor (Right_Hand)
+[2018.09.14-20.20.28:926][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.20.38:259][ 11]LogEditorActor: Deleted Actor: Actor
+[2018.09.14-20.20.38:302][ 11]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.09.14-20.20.46:849][ 25]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-20.20.48:435][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.20.53:398][802]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2018.09.14-20.20.54:667][951]Cmd: DELETE
+[2018.09.14-20.20.54:667][951]Cmd: ACTOR DELETE
+[2018.09.14-20.20.54:672][951]LogEditorActor: Deleted Actor: Actor
+[2018.09.14-20.20.54:708][951]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.09.14-20.20.56:194][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.21.07:307][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.14-20.21.20:086][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-20.21.20:496][ 27]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP
+[2018.09.14-20.21.20:508][ 27]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.14-20.21.20:737][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.09.14-20.21.20:740][ 27]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.14-20.21.21:075][ 27]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.09.14-20.21.21:398][ 27]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.14-20.22.02:293][ 54]BlueprintLog: New page: Compile LeftHandAnimBP
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:322][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:323][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  From  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  To  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Warning: [Compiler LeftHandAnimBP] Input pin  Delta Per Second  specifying non-default value no longer exists on node  Change Value at Rate . Please refresh node or reset pin to default value to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Dt  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:327][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] In use pin  Value  no longer exists on node  Change Value at Rate . Please refresh node or break links to remove pin.
+[2018.09.14-20.22.02:328][ 54]LogBlueprint: Error: [Compiler LeftHandAnimBP] Could not find a function named "ChangeValueAtRate" in 'LeftHandAnimBP'.
+Make sure 'LeftHandAnimBP' has been compiled for  Change Value at Rate
+[2018.09.14-20.22.02:533][ 54]LogBlueprint: Warning: [Compiler LeftHandAnimBP] [0574.52] Compile of LeftHandAnimBP failed. 20 Fatal Issue(s) 4 Warning(s) [in 239 ms] (/Game/TouchControllers/Hands/LeftHandAnimBP.LeftHandAnimBP)
+[2018.09.14-20.22.34:735][324]LogSlate: Window 'LeftHandAnimBP' being destroyed
+[2018.09.14-20.22.34:741][324]LogSlate: Window 'LeftHandAnimBP' being destroyed
+[2018.09.14-20.22.38:636][764]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TouchControllers/Hands/RightHand.RightHand
+[2018.09.14-20.24.49:050][530]BlueprintLog: New page: Compile RightHand
+[2018.09.14-20.24.52:442][829]BlueprintLog: New page: Compile RightHand
+[2018.09.14-20.24.54:012][952]LogSlate: Window 'RightHand*' being destroyed
+[2018.09.14-20.24.54:017][952]LogSlate: Window 'RightHand*' being destroyed
+[2018.09.14-20.24.57:103][306]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TouchControllers/Hands/RightHand.RightHand
+[2018.09.14-20.25.02:293][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/RightHand" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset" SILENT=true
+[2018.09.14-20.25.02:336][708]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightHand468F41B647C443C832E27DABE7FD86B6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset'
+[2018.09.14-20.25.03:163][776]LogSlate: Window 'RightHand' being destroyed
+[2018.09.14-20.25.03:168][776]LogSlate: Window 'RightHand' being destroyed
+[2018.09.14-20.25.04:523][926]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TouchControllers/Hands/LeftHand.LeftHand
+[2018.09.14-20.25.21:837][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/LeftHand" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHand.uasset" SILENT=true
+[2018.09.14-20.25.21:878][380]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/LeftHand07B6DF504F92096F67D09F8F3E769E78.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHand.uasset'
+[2018.09.14-20.25.48:099][614]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto1061B22AC40B34AA9876186BAEF7FD92F.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/TreeCutTesting/TreeCutTestMap_Auto1.umap'
+[2018.09.14-20.25.48:107][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TreeCutTesting/TreeCutTestMap' took 0.081
+[2018.09.14-20.25.48:107][614]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.081
+[2018.09.14-20.27.13:013][ 25]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.09.14-20.27.13:013][ 25]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.09.14-20.27.13:013][ 25]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.09.14-20.27.14:066][132]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.09.14-20.27.14:066][132]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.09.14-20.27.14:066][132]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.09.14-20.28.05:869][662]BlueprintLog: New page: Compile LeftHand
+[2018.09.14-20.28.07:433][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/LeftHand" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHand.uasset" SILENT=true
+[2018.09.14-20.28.07:472][765]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/LeftHandF7CC92B846AF2C3BBD22D981084F1E7D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/LeftHand.uasset'
+[2018.09.14-20.28.21:795][292]LogSlate: Window 'LeftHand' being destroyed
+[2018.09.14-20.28.27:010][889]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TouchControllers/Hands/RightHand.RightHand
+[2018.09.14-20.28.40:886][966]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.14-20.28.51:295][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/RightHand" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset" SILENT=true
+[2018.09.14-20.28.51:330][808]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightHandC352450942D333F76D6CFC8CF5F4DF1A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset'
+[2018.09.14-20.29.01:971][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TouchControllers/Hands/RightHand" FILE="../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset" SILENT=true
+[2018.09.14-20.29.02:001][702]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/RightHand016E507345968EB80DF1999392919C79.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TouchControllers/Hands/RightHand.uasset'
+[2018.09.14-20.29.03:495][828]LogSlate: Window 'RightHand' being destroyed
+[2018.09.14-20.29.05:362][ 22]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap0978CC8F4E207E30C4ACA2AAB6B073E6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.14-20.29.05:489][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.14-20.29.05:516][ 22]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData9E4752364B31377AC3036FB6B7E68706.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.14-20.29.56:110][458]LogUProjectInfo: Found projects:
+[2018.09.14-20.30.58:656][948]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.30.58:791][954]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-20.31.11:289][899]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.09.14-20.31.11:426][899]LogSlate: Window 'Open Project' being destroyed
+[2018.09.14-20.31.11:432][899]LogSlate: Window 'TheSummit - Unreal Editor' being destroyed
+[2018.09.14-20.31.11:632][900]Cmd: QUIT_EDITOR
+[2018.09.14-20.31.11:653][900]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.14-20.31.11:673][900]LogExit: Preparing to exit.
+[2018.09.14-20.31.13:762][900]LogExit: Editor shut down
+[2018.09.14-20.31.13:762][900]LogExit: Transaction tracking system shut down
+[2018.09.14-20.31.14:277][900]LogExit: Object subsystem successfully closed.
+[2018.09.14-20.31.14:314][900]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.14-20.31.14:318][900]LogD3D11RHI: Shutdown
+[2018.09.14-20.31.14:318][900]LogD3D11RHI: CleanupD3DDevice
+[2018.09.14-20.31.14:329][900]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.14-20.31.14:341][900]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (622)
+[2018.09.14-20.31.14:341][900]LogModuleManager: Shutting down and abandoning module PinnedCommandList (620)
+[2018.09.14-20.31.14:341][900]LogModuleManager: Shutting down and abandoning module SkeletonEditor (618)
+[2018.09.14-20.31.14:341][900]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (616)
+[2018.09.14-20.31.14:341][900]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (614)
+[2018.09.14-20.31.14:411][900]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.09.14-20.31.14:411][900]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.09.14-20.31.14:411][900]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2018.09.14-20.31.14:411][900]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2018.09.14-20.31.14:411][900]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.14-20.31.14:412][900]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.14-20.31.14:413][900]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.14-20.31.15:428][900]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.14-20.31.15:429][900]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.14-20.31.15:495][900]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.14-20.31.15:500][900]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.14-20.31.15:500][900]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.14-20.31.15:502][900]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.14-20.31.15:503][900]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.14-20.31.15:677][900]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.14-20.31.15:680][900]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.14-20.31.15:680][900]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.14-20.31.15:680][900]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.14-20.31.15:680][900]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.14-20.31.15:681][900]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.14-20.31.15:682][900]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.14-20.31.15:783][900]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.14-20.31.15:884][900]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.14-20.31.15:885][900]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.14-20.31.15:885][900]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.14-20.31.15:886][900]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.14-20.31.15:886][900]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.14-20.31.15:886][900]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.14-20.31.15:886][900]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.14-20.31.15:886][900]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.14-20.31.15:886][900]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.14-20.31.15:887][900]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.14-20.31.15:893][900]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.14-20.31.15:894][900]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.14-20.31.15:894][900]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.14-20.31.15:894][900]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.14-20.31.15:894][900]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.14-20.31.15:894][900]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.14-20.31.15:894][900]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.14-20.31.15:895][900]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.14-20.31.15:896][900]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.14-20.31.15:896][900]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.14-20.31.15:896][900]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.14-20.31.15:896][900]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.14-20.31.15:988][900]LogDerivedDataCache: Shutdown
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.14-20.31.15:988][900]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.14-20.31.15:989][900]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.14-20.31.15:990][900]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.14-20.31.15:990][900]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.14-20.31.15:995][900]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.14-20.31.15:995][900]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.14-20.31.15:995][900]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.14-20.31.15:995][900]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.14-20.31.15:995][900]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.14-20.31.15:996][900]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.14-20.31.15:997][900]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.14-20.31.16:030][900]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.14-20.31.16:030][900]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.14-20.31.16:030][900]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D5642ED-406E-0E5A-C3F1-6EBB6A346B41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=23b803834a6e21c2335149ab046191d9%7C6a37eeab3d4f4c15b78733ca7c7e556d%7C902a0952-3a11-4de2-b10f-3626945c9d73&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.14-20.31.16:056][900]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.14-20.31.16:057][900]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.14-20.31.16:057][900]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.14-20.31.16:058][900]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.14-20.31.16:059][900]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.14-20.31.16:059][900]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.14-20.31.16:059][900]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.14-20.31.16:059][900]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.14-20.31.16:059][900]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.14-20.31.16:071][900]LogExit: Exiting.
+[2018.09.14-20.31.16:074][900]Log file closed, 09/14/18 16:31:16
