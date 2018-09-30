@@ -1,0 +1,906 @@
+﻿Log file open, 09/22/18 18:56:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.548201
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.143s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.22-22.56.13:655][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.22-22.56.13:655][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.22-22.56.13:670][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.22-22.56.13:670][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.22-22.56.13:670][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.22-22.56.13:670][  0]LogInit: Computer: ALI-PC
+[2018.09.22-22.56.13:670][  0]LogInit: User: aliha
+[2018.09.22-22.56.13:670][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.09.22-22.56.13:670][  0]LogInit: High frequency timer resolution =2.929941 MHz
+[2018.09.22-22.56.13:670][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.22-22.56.13:670][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.22-22.56.13:670][  0]LogMemory: Process Physical Memory: 107.48 MB used, 107.48 MB peak
+[2018.09.22-22.56.13:670][  0]LogMemory: Process Virtual Memory: 108.97 MB used, 108.97 MB peak
+[2018.09.22-22.56.13:670][  0]LogMemory: Physical Memory: 7282.76 MB used,  9033.93 MB free, 16316.69 MB total
+[2018.09.22-22.56.13:670][  0]LogMemory: Virtual Memory: 4705.32 MB used,  9033.93 MB free, 134217728.00 MB total
+[2018.09.22-22.56.13:689][  0]LogInit: Using OS detected language (en-US).
+[2018.09.22-22.56.13:689][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.22-22.56.13:690][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.22-22.56.14:070][  0]LogStreaming: Display: Took  0.381s to InitEngineTextLocalization.
+[2018.09.22-22.56.14:070][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.22-22.56.14:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.22-22.56.14:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.22-22.56.14:422][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.22-22.56.14:497][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.22-22.56.14:497][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.22-22.56.14:499][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.22-22.56.14:499][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.22-22.56.14:499][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.22-22.56.14:512][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.22-22.56.14:512][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.22-22.56.14:512][  0]LogWindows: EnumDisplayDevices:
+[2018.09.22-22.56.14:512][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.22-22.56.14:512][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.22-22.56.14:512][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.22-22.56.14:513][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.22-22.56.14:513][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.22-22.56.14:513][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.22-22.56.14:513][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.09.22-22.56.14:513][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.09.22-22.56.14:513][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.22-22.56.14:563][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.22-22.56.14:598][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.22-22.56.14:643][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/15080/).
+[2018.09.22-22.56.14:643][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/7A0A3EE74D4B257754735CB638F6AC01/'.
+[2018.09.22-22.56.14:916][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.22-22.56.14:931][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.22-22.56.14:946][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.22-22.56.14:961][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.22-22.56.14:977][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.22-22.56.14:992][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.22-22.56.15:008][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.22-22.56.15:023][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.22-22.56.15:030][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:128][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.22-22.56.15:129][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.22-22.56.15:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.22-22.56.15:195][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.22-22.56.15:225][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.22-22.56.15:225][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.22-22.56.15:240][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.22-22.56.15:254][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.22-22.56.15:270][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.22-22.56.15:286][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.22-22.56.15:298][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.22-22.56.15:298][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.22-22.56.15:349][  0]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.22-22.56.15:349][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.22-22.56.15:349][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.22-22.56.15:349][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.22-22.56.16:299][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.22-22.56.16:348][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.22-22.56.16:348][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.22-22.56.16:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.22-22.56.16:349][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.22-22.56.16:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.22-22.56.16:349][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.22-22.56.16:362][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.22-22.56.16:375][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.22-22.56.16:375][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.22-22.56.16:375][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.22-22.56.16:394][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.22-22.56.16:396][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.22-22.56.16:397][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.22-22.56.16:489][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.09.22-22.56.16:867][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.22-22.56.17:010][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.22-22.56.17:013][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.22-22.56.17:013][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.22-22.56.17:013][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.22-22.56.17:013][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.22-22.56.17:036][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.09.22-22.56.17:654][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.123820 seconds
+[2018.09.22-22.56.17:663][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.22-22.56.17:663][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.22-22.56.17:663][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.22-22.56.18:623][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.22-22.56.18:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.22-22.56.18:797][  0]SourceControl: Source control is disabled
+[2018.09.22-22.56.19:267][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.22-22.56.19:346][  0]LogOcInput: OculusInput pre-init called
+[2018.09.22-22.56.19:414][  0]LogEngine: Initializing Engine...
+[2018.09.22-22.56.19:415][  0]LogHMD: Oculus plugin initialized. Version: 4.20.1-4233996+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.09.22-22.56.19:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.22-22.56.19:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.22-22.56.19:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.22-22.56.19:416][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.22-22.56.19:653][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.22-22.56.19:663][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.22-22.56.19:682][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-22.56.19:698][  0]LogInit: FAudioDevice initialized.
+[2018.09.22-22.56.19:698][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.22-22.56.19:779][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.22-22.56.19:793][  0]LogInit: Texture streaming: Enabled
+[2018.09.22-22.56.19:810][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.22-22.56.19:824][  0]LogInit: Transaction tracking system initialized
+[2018.09.22-22.56.19:842][  0]BlueprintLog: New page: Editor Load
+[2018.09.22-22.56.19:913][  0]LocalizationService: Localization service is disabled
+[2018.09.22-22.56.20:186][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.22-22.56.20:186][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.22-22.56.20:186][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.22-22.56.20:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.22-22.56.20:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.22-22.56.20:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.22-22.56.20:186][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.22-22.56.20:311][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.01s
+[2018.09.22-22.56.20:312][  0]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.22-22.56.20:312][  0]LightingResults: New page: Lighting Build
+[2018.09.22-22.56.20:314][  0]MapCheck: New page: Map Check
+[2018.09.22-22.56.20:314][  0]LightingResults: New page: Lighting Build
+[2018.09.22-22.56.20:678][  0]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.22-22.56.20:687][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.22-22.56.20:721][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.22-22.56.20:789][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.911ms to complete.
+[2018.09.22-22.56.20:789][  0]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.477
+[2018.09.22-22.56.20:889][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.56.20:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.56.20:905][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.56.20:913][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.56.20:919][  0]LogCollectionManager: Loaded 0 collections in 0.001575 seconds
+[2018.09.22-22.56.20:962][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.09.22-22.56.20:962][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.09.22-22.56.20:962][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.09.22-22.56.20:962][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.09.22-22.56.20:973][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2572 classes and 603 folders.
+[2018.09.22-22.56.20:978][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.22-22.56.21:048][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.22-22.56.21:055][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.22-22.56.21:128][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.22-22.56.21:130][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.22-22.56.21:136][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.22-22.56.21:137][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.09.22-22.56.21:249][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.22-22.56.21:385][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.22-22.56.21:385][  0]LogLoad: (Engine Initialization) Total time: 10.05 seconds
+[2018.09.22-22.56.21:385][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.22-22.56.21:401][  0]LogOcInput: OculusInput is initialized
+[2018.09.22-22.56.21:425][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.22-22.56.21:461][  1]LogAssetRegistry: Asset discovery search completed in 4.9942 seconds
+[2018.09.22-22.56.21:463][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.09.22-22.56.21:463][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000244 seconds (updated 0 objects)
+[2018.09.22-22.56.22:783][  5]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.22-22.56.25:891][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-22.56.26:037][351]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tools/Hatchet_Blueprint.Hatchet_Blueprint
+[2018.09.22-22.56.26:645][351]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.22-22.56.27:505][351]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.22-22.56.27:578][352]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.22-22.58.00:123][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.58.00:155][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.22-22.58.00:213][608]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint281BC617424C7DC2A099D3BA52C4F059.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.22-22.58.00:747][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-22.58.00:811][660]LogTemp: Repeating last play command: VR Preview
+[2018.09.22-22.58.00:838][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.58.00:839][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.22-22.58.00:844][660]LogPlayLevel: [PlayLevel] Compiling Hatchet_Blueprint before play...
+[2018.09.22-22.58.01:026][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2018.09.22-22.58.01:026][660]LogHMD: Initializing OVRPlugin session
+[2018.09.22-22.58.01:147][660]PIE: New page: PIE session: TreeCutTestMap (Sep 22, 2018, 2:58:01 PM)
+[2018.09.22-22.58.01:147][660]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.22-22.58.01:151][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003816s)
+[2018.09.22-22.58.01:152][660]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.22-22.58.01:152][660]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.09.22-22.58.01:153][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.005361s)
+[2018.09.22-22.58.01:201][660]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-22.58.01:215][660]LogInit: FAudioDevice initialized.
+[2018.09.22-22.58.01:230][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.58.01:318][660]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.22-22.58.01:361][660]LogLoad: Game class is 'GameMode'
+[2018.09.22-22.58.01:364][660]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.22-18.58.01
+[2018.09.22-22.58.01:365][660]LogWorld: Bringing up level for play took: 0.001754
+[2018.09.22-22.58.01:386][660]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.09.22-22.58.01:387][660]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-22.58.01:387][660]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-22.58.01:387][660]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-22.58.01:387][660]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.01:430][660]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-22.58.01:436][660]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.11
+[2018.09.22-22.58.01:436][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.58.01:438][660]LogEngine: Changing dynamic resolution state.
+[2018.09.22-22.58.01:479][660]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-22.58.01:479][660]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-22.58.01:479][660]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-22.58.01:479][660]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-22.58.01:480][660]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-22.58.01:480][660]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-22.58.01:480][660]LogRenderer: Reallocating scene render targets to support 2688x1584 Format 10 NumSamples 1 (Frame:1).
+[2018.09.22-22.58.01:480][660]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.22-22.58.01:595][669]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.02:108][710]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.02:612][752]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.03:112][794]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.03:618][837]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.04:129][880]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.04:638][923]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.05:141][965]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.05:650][  8]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.06:154][ 50]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.06:651][ 95]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.07:151][140]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.07:652][185]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.08:152][230]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.08:653][275]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.09:163][321]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.09:663][366]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.10:163][411]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.10:675][457]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.11:186][503]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.11:686][548]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.12:197][594]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.12:708][640]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.13:219][686]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.13:729][732]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.14:240][778]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.14:741][823]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.15:241][868]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.15:751][914]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.16:263][960]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.16:763][  5]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.17:291][ 50]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.17:791][ 80]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.18:300][110]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.18:812][140]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.19:312][169]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.19:824][200]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.20:325][231]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.20:834][262]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.21:347][294]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.21:856][324]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.22:356][355]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.22:867][386]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.23:379][417]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.23:890][448]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.24:395][494]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.24:895][539]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.25:407][585]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.25:917][631]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.26:417][676]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.26:928][722]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.27:439][768]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.27:945][801]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.28:455][831]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.29:181][837]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.29:737][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.58.29:866][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.58.29:905][839]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.30:349][859]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.30:871][882]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.31:383][905]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.31:801][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.58.31:894][927]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.32:075][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-22.58.32:402][950]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.32:914][975]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.33:418][ 11]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.33:918][ 56]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.34:419][100]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.34:929][146]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.35:440][192]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.35:944][237]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.36:451][280]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.36:951][325]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.37:452][370]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.37:953][415]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.38:463][461]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.38:963][505]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.39:474][551]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.39:985][597]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.40:495][640]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.40:997][685]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.41:506][731]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.42:008][776]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.42:508][820]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.43:007][865]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.43:518][911]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.44:045][938]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.44:555][961]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.58.45:001][980]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-22.58.45:005][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.58.45:049][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.22-22.58.45:050][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.58.45:122][981]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.09.22-22.58.51:564][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.22-22.58.51:618][576]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint2B4E90FC41EE361BE5A9E596D2776654.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.22-22.58.55:662][ 20]LogEditorViewport: Clicking on Actor (LMB): Hatchet_Blueprint_C (Hatchet_Blueprint)
+[2018.09.22-22.59.00:784][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.59.00:860][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.59.01:086][589]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap58F17B9643BE6832684CB591C901B192.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.22-22.59.01:214][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.22-22.59.01:257][589]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData9C8F46E64D6B4FC00D468E9FC133EC20.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.22-22.59.03:107][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.59.03:189][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.59.03:405][779]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapBE9803A247A9FCC05AA32486B723A7FA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.22-22.59.03:535][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.22-22.59.03:569][779]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData07AF75DE4746B6C523BC4390729A836A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.22-22.59.03:902][817]LogTemp: Repeating last play command: VR Preview
+[2018.09.22-22.59.03:933][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.03:933][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-22.59.03:933][817]LogHMD: Initializing OVRPlugin session
+[2018.09.22-22.59.04:039][817]PIE: New page: PIE session: TreeCutTestMap (Sep 22, 2018, 2:59:04 PM)
+[2018.09.22-22.59.04:040][817]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.22-22.59.04:044][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004381s)
+[2018.09.22-22.59.04:046][817]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.22-22.59.04:047][817]LogPlayLevel: PIE: World Init took: (0.001842s)
+[2018.09.22-22.59.04:047][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.007138s)
+[2018.09.22-22.59.04:096][817]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-22.59.04:107][817]LogInit: FAudioDevice initialized.
+[2018.09.22-22.59.04:121][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.59.04:164][817]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.22-22.59.04:197][817]LogLoad: Game class is 'GameMode'
+[2018.09.22-22.59.04:199][817]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.22-18.59.04
+[2018.09.22-22.59.04:200][817]LogWorld: Bringing up level for play took: 0.002202
+[2018.09.22-22.59.04:213][817]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-22.59.04:213][817]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-22.59.04:213][817]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-22.59.04:213][817]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.04:214][817]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-22.59.04:219][817]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.894
+[2018.09.22-22.59.04:220][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.04:329][818]LogEngine: Changing dynamic resolution state.
+[2018.09.22-22.59.04:421][846]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.04:921][ 15]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.05:423][194]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.05:924][390]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.06:425][586]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.06:926][784]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.07:428][978]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.07:683][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.07:684][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.59.07:728][ 77]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-22.59.07:764][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.22-22.59.07:765][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.07:821][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.09.22-22.59.09:200][240]LogTemp: Repeating last play command: VR Preview
+[2018.09.22-22.59.09:229][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.09:230][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-22.59.09:230][240]LogHMD: Initializing OVRPlugin session
+[2018.09.22-22.59.09:313][240]PIE: New page: PIE session: TreeCutTestMap (Sep 22, 2018, 2:59:09 PM)
+[2018.09.22-22.59.09:313][240]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.22-22.59.09:316][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002470s)
+[2018.09.22-22.59.09:317][240]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.22-22.59.09:317][240]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.09.22-22.59.09:317][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003748s)
+[2018.09.22-22.59.09:363][240]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-22.59.09:373][240]LogInit: FAudioDevice initialized.
+[2018.09.22-22.59.09:385][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-22.59.09:468][240]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.22-22.59.09:498][240]LogLoad: Game class is 'GameMode'
+[2018.09.22-22.59.09:500][240]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.22-18.59.09
+[2018.09.22-22.59.09:501][240]LogWorld: Bringing up level for play took: 0.001577
+[2018.09.22-22.59.09:514][240]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-22.59.09:514][240]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-22.59.09:514][240]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-22.59.09:515][240]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.09:515][240]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-22.59.09:520][240]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.195
+[2018.09.22-22.59.09:520][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.09:522][240]LogEngine: Changing dynamic resolution state.
+[2018.09.22-22.59.09:528][240]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-22.59.09:528][240]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.22-22.59.09:708][258]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.10:216][313]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.10:716][367]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.11:225][421]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.11:730][476]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.12:232][531]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.12:741][585]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.13:241][638]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.13:745][692]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.14:253][746]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.14:762][801]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.15:266][855]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.15:768][908]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.16:272][960]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.16:773][  7]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.17:285][ 53]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.17:784][ 98]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.18:296][144]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.18:796][189]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.19:296][234]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.19:808][280]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.20:317][326]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.20:818][371]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.21:329][417]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.21:840][463]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.22:341][508]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.22:840][550]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.23:351][596]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.23:862][642]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.24:362][687]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.24:873][733]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.25:373][778]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.25:884][824]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.26:384][869]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.26:895][915]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-22.59.27:395][960]LogBlueprintUserMessages: [Hatchet_Blueprint] 41.85247
+[2018.09.22-22.59.27:538][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.22-22.59.27:895][  5]LogBlueprintUserMessages: [Hatchet_Blueprint] 41.643608
+[2018.09.22-22.59.28:239][ 35]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.22-22.59.28:396][ 49]LogBlueprintUserMessages: [Hatchet_Blueprint] 117.877701
+[2018.09.22-22.59.28:906][ 95]LogBlueprintUserMessages: [Hatchet_Blueprint] 117.277313
+[2018.09.22-22.59.29:406][140]LogBlueprintUserMessages: [Hatchet_Blueprint] 41.56797
+[2018.09.22-22.59.29:917][186]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.671844
+[2018.09.22-22.59.30:417][231]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.603638
+[2018.09.22-22.59.30:917][276]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.535762
+[2018.09.22-22.59.31:417][321]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.468232
+[2018.09.22-22.59.31:917][366]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.401025
+[2018.09.22-22.59.32:429][412]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.332717
+[2018.09.22-22.59.32:929][457]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.266197
+[2018.09.22-22.59.33:440][503]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.198575
+[2018.09.22-22.59.33:940][548]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.132718
+[2018.09.22-22.59.34:451][594]LogBlueprintUserMessages: [Hatchet_Blueprint] 13.065761
+[2018.09.22-22.59.34:962][640]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.999168
+[2018.09.22-22.59.35:473][686]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.932877
+[2018.09.22-22.59.35:628][700]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.22-22.59.35:984][732]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.866969
+[2018.09.22-22.59.36:484][777]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.80278
+[2018.09.22-22.59.36:996][823]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.737487
+[2018.09.22-22.59.37:506][869]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.672621
+[2018.09.22-22.59.38:007][914]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.609389
+[2018.09.22-22.59.38:506][959]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.546489
+[2018.09.22-22.59.39:017][  5]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.482533
+[2018.09.22-22.59.39:528][ 51]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.418886
+[2018.09.22-22.59.40:029][ 96]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.356869
+[2018.09.22-22.59.40:546][142]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.293985
+[2018.09.22-22.59.41:055][188]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.231447
+[2018.09.22-22.59.41:555][233]LogBlueprintUserMessages: [Hatchet_Blueprint] 12.170433
+[2018.09.22-22.59.41:754][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-22.59.41:772][248]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-22.59.41:781][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.41:830][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.22-22.59.41:830][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-22.59.41:920][249]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.22-22.59.55:953][915]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character_Blueprint.Character_Blueprint
+[2018.09.22-23.00.06:103][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.09.22-23.00.06:184][634]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint6C00EF314C5CF5E5279A75A85638490E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.09.22-23.00.08:528][816]LogTemp: Repeating last play command: VR Preview
+[2018.09.22-23.00.08:555][816]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.00.08:555][816]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.22-23.00.08:567][816]LogPlayLevel: [PlayLevel] Compiling Character_Blueprint before play...
+[2018.09.22-23.00.08:776][816]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2018.09.22-23.00.08:776][816]LogHMD: Initializing OVRPlugin session
+[2018.09.22-23.00.08:891][816]PIE: New page: PIE session: TreeCutTestMap (Sep 22, 2018, 3:00:08 PM)
+[2018.09.22-23.00.08:891][816]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.22-23.00.08:894][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002959s)
+[2018.09.22-23.00.08:895][816]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.22-23.00.08:895][816]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2018.09.22-23.00.08:895][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.004365s)
+[2018.09.22-23.00.08:944][816]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-23.00.08:954][816]LogInit: FAudioDevice initialized.
+[2018.09.22-23.00.08:967][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-23.00.09:010][816]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.22-23.00.09:045][816]LogLoad: Game class is 'GameMode'
+[2018.09.22-23.00.09:047][816]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.22-19.00.09
+[2018.09.22-23.00.09:048][816]LogWorld: Bringing up level for play took: 0.001454
+[2018.09.22-23.00.09:060][816]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-23.00.09:061][816]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-23.00.09:061][816]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-23.00.09:061][816]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.09:061][816]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-23.00.09:068][816]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap -0.257
+[2018.09.22-23.00.09:069][816]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.00.09:166][817]LogEngine: Changing dynamic resolution state.
+[2018.09.22-23.00.09:255][845]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.09:757][998]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.10:117][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.00.10:118][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-23.00.10:299][117]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-23.00.10:336][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.22-23.00.10:337][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.00.10:406][118]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.22-23.00.11:037][164]LogTemp: Repeating last play command: VR Preview
+[2018.09.22-23.00.11:072][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.00.11:073][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-23.00.11:073][164]LogHMD: Initializing OVRPlugin session
+[2018.09.22-23.00.11:153][164]PIE: New page: PIE session: TreeCutTestMap (Sep 22, 2018, 3:00:11 PM)
+[2018.09.22-23.00.11:154][164]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.22-23.00.11:156][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002604s)
+[2018.09.22-23.00.11:157][164]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.22-23.00.11:157][164]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.09.22-23.00.11:157][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003905s)
+[2018.09.22-23.00.11:205][164]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.22-23.00.11:215][164]LogInit: FAudioDevice initialized.
+[2018.09.22-23.00.11:227][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.22-23.00.11:315][164]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.22-23.00.11:345][164]LogLoad: Game class is 'GameMode'
+[2018.09.22-23.00.11:347][164]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.22-19.00.11
+[2018.09.22-23.00.11:348][164]LogWorld: Bringing up level for play took: 0.001578
+[2018.09.22-23.00.11:361][164]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-23.00.11:361][164]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.22-23.00.11:361][164]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-23.00.11:361][164]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.11:362][164]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.22-23.00.11:368][164]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.042
+[2018.09.22-23.00.11:369][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.00.11:371][164]LogEngine: Changing dynamic resolution state.
+[2018.09.22-23.00.11:453][164]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.22-23.00.11:453][164]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.22-23.00.11:557][173]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.12:068][213]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.12:578][253]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.13:079][292]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.13:578][331]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.14:085][370]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.14:592][409]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.15:097][448]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.15:603][487]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.16:109][525]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.16:607][570]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.17:109][615]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.17:618][661]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.18:118][706]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.18:629][752]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.19:129][797]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.19:630][842]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.20:141][888]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.20:641][933]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.21:142][978]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.21:642][ 23]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.21:785][ 36]PIE: Warning: AttachTo: '/Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.22-23.00.22:151][ 69]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.22:652][114]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.23:152][157]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.23:653][202]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.24:163][248]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.24:664][293]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.25:174][339]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.25:674][384]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.26:185][430]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.26:685][475]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.27:196][521]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.27:709][567]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.28:208][612]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.28:718][658]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.29:219][703]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.29:729][749]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.30:229][794]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.30:729][839]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.31:229][884]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.31:730][929]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.32:240][975]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.32:751][ 21]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.33:263][ 67]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.33:775][113]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.34:285][159]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.34:796][205]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.35:296][250]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.35:797][295]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.36:309][341]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.36:818][387]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.37:319][432]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.37:830][478]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.38:340][524]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.38:841][569]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.39:351][615]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.39:853][660]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.40:353][705]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.40:864][751]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.41:365][796]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.41:864][841]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.42:375][887]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.42:875][932]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.43:385][978]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.43:886][ 23]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.44:397][ 69]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.44:897][114]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.45:408][160]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.45:908][205]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.46:420][251]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.46:930][297]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.47:441][343]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.47:941][388]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.48:451][434]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.48:952][479]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.49:462][525]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.49:963][570]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.50:474][616]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.50:975][661]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.51:484][704]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.51:985][749]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.52:485][794]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.52:997][840]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.53:496][885]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.54:007][930]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.54:518][976]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.55:019][ 21]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.55:529][ 67]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.56:030][112]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.56:530][157]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.57:048][188]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.57:557][215]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.58:068][240]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.58:563][266]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.59:063][311]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.00.59:563][356]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.00:074][402]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.00:575][447]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.01:085][493]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.01:585][538]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.02:087][583]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.02:597][629]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.03:107][675]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.03:608][720]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.04:109][765]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.04:619][811]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.05:120][856]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.05:647][902]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.06:157][927]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.06:700][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-23.01.06:773][953]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.22-23.01.06:778][953]LogBlueprintUserMessages: [Hatchet_Blueprint] 0.0
+[2018.09.22-23.01.06:779][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.01.06:829][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.22-23.01.06:829][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.22-23.01.07:008][954]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.22-23.01.17:132][669]LogSlate: Window 'Message Log' being destroyed
+[2018.09.22-23.01.17:141][669]LogSlate: Window 'Message Log' being destroyed
+[2018.09.22-23.02.32:564][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.09.22-23.02.32:644][585]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint63093A5A4F5465E9899BB4A17049F0A4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.09.22-23.02.49:707][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.09.22-23.02.49:797][966]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint0341C67B4D20AF50A59600B88B9EE2BB.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.09.22-23.02.55:016][469]LogEditorViewport: Clicking on Actor (LMB): Tree_Blueprint_C (Tree_Blueprint2)
+[2018.09.22-23.03.06:570][775]LogEditorViewport: Clicking on Actor (LMB): Tree_Blueprint_C (Tree_Blueprint)
+[2018.09.22-23.03.17:782][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-23.03.17:863][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-23.03.18:079][100]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap5AABC2464D3E4CD430FC91B71F29A855.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.22-23.03.18:203][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.22-23.03.18:238][100]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataFDB93CE34F3FE3C44DECF8A37479EBC8.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.22-23.03.21:441][477]LogEditorViewport: Clicking on Actor (LMB): Hatchet_Blueprint_C (Hatchet_Blueprint)
+[2018.09.22-23.03.26:926][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-23.03.27:001][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-23.03.27:213][125]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapE22BCD9048A02AD5709C179685FF3F1A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.22-23.03.27:340][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.22-23.03.27:374][125]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData446075BD4D902326F37DEDAC9BCDF097.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.22-23.05.23:765][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.22-23.05.23:828][338]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_BlueprintBC45750042B8932DEF288DBD7DF8BDEF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.22-23.05.26:001][527]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.09.22-23.05.28:072][683]BlueprintLog: New page: Compile Character_Blueprint
+[2018.09.22-23.05.31:874][ 42]MapCheck: New page: Map Check
+[2018.09.22-23.05.31:896][ 42]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.22-23.05.31:896][ 42]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.22-23.05.32:023][ 42]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.09.22-23.05.32:032][ 42]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.09.22-23.05.32:038][ 42]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.09.22-23.05.32:045][ 42]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-23.05.32:045][ 42]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-23.05.32:046][ 42]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.09.22-23.05.32:051][ 42]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.22-23.05.32:832][ 42]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.22-23.05.32:833][ 42]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-23.05.32:833][ 42]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-23.05.32:833][ 42]TextureStreamingBuild: Display: Compiling optional shaders took 0.814 seconds.
+[2018.09.22-23.05.32:839][ 42]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2018.09.22-23.05.32:850][ 42]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2018.09.22-23.05.32:886][ 42]LightingResults: New page: Lighting Build - Sep 22, 2018, 3:05:32 PM
+[2018.09.22-23.05.32:921][ 42]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.22-23.05.33:002][ 42]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.22-23.05.33:013][ 42]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.22-23.05.33:522][ 42]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.22-23.05.33:522][ 42]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15080
+[2018.09.22-23.05.38:118][ 42]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.09.22-23.05.38:119][ 42]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.22-23.05.38:119][ 42]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.22-23.05.38:119][ 42]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.22-23.05.38:119][ 42]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.22-23.05.38:119][ 42]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.22-23.05.38:588][ 42]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.344 s
+[2018.09.22-23.05.38:588][ 42]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.22-23.05.38:589][ 42]LogOutputDevice: Error: 
+[2018.09.22-23.05.38:589][ 42]LogOutputDevice: Error: Ensure condition failed: Settings_RenderThread.IsValid() [File:D:\Build\++UE4\Sync\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Private\OculusHMD.cpp] [Line: 1506]
+[2018.09.22-23.05.38:589][ 42]LogOutputDevice: Error: Unexpected issue with Oculus settings on the RenderThread. This should be valid when this is called in AllocateCommonDepthTargets() - has the callsite changed?
+[2018.09.22-23.05.38:589][ 42]LogOutputDevice: Error: Stack: 
+[2018.09.22-23.05.38:589][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36537136 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.22-23.05.38:589][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36270c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.22-23.05.38:589][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc3628b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.22-23.05.38:590][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc21572106 UE4Editor-OculusHMD.dll!UnknownFunction []
+[2018.09.22-23.05.38:590][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc288b1b71 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.22-23.05.38:590][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc288b2304 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.22-23.05.38:590][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc288b18e3 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.22-23.05.38:590][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc2847650f UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.22-23.05.38:590][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc288bad68 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.22-23.05.38:591][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc288ba95e UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.22-23.05.38:591][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc28911201 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.22-23.05.38:591][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc2390c39a UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.22-23.05.38:591][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31c90110 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:591][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31c97b28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:591][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31c717cf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:591][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31f4b7fd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:592][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31ee36ee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:592][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31f13f99 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:592][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31ee3ce1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:592][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31785897 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:592][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc31762a9c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.22-23.05.38:592][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc27ef59dc UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.09.22-23.05.38:593][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc27f17ed7 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.09.22-23.05.38:593][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36de29fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:593][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36ee5872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:593][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36ec24bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:593][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36fa9c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:593][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36d994c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:593][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36e31db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:594][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36e17c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:594][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc36e0b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.22-23.05.38:594][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc4c7bd1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.22-23.05.38:594][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc4c7b0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.22-23.05.38:594][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc4c7bf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.22-23.05.38:594][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc4c7ac209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.22-23.05.38:594][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc6f3b6cc1 USER32.dll!UnknownFunction []
+[2018.09.22-23.05.38:595][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc6f3b6693 USER32.dll!UnknownFunction []
+[2018.09.22-23.05.38:595][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc4c7c0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.22-23.05.38:595][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff69b1254e5 UE4Editor.exe!UnknownFunction []
+[2018.09.22-23.05.38:595][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff69b135b3c UE4Editor.exe!UnknownFunction []
+[2018.09.22-23.05.38:595][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff69b135bba UE4Editor.exe!UnknownFunction []
+[2018.09.22-23.05.38:595][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff69b143dac UE4Editor.exe!UnknownFunction []
+[2018.09.22-23.05.38:595][ 42]LogOutputDevice: Error: [Callstack] 0x00007ff69b145aaa UE4Editor.exe!UnknownFunction []
+[2018.09.22-23.05.38:596][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc70b53034 KERNEL32.DLL!UnknownFunction []
+[2018.09.22-23.05.38:596][ 42]LogOutputDevice: Error: [Callstack] 0x00007ffc71f81461 ntdll.dll!UnknownFunction []
+[2018.09.22-23.05.38:596][ 42]LogOutputDevice: Error: 
+[2018.09.22-23.05.38:608][ 42]LogStats:                SubmitErrorReport -  0.009 s

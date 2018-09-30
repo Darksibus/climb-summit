@@ -1,0 +1,516 @@
+﻿Log file open, 09/23/18 15:34:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.548682
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.169s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.062s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.23-19.34.15:256][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.23-19.34.15:256][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.23-19.34.15:271][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.23-19.34.15:271][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.23-19.34.15:271][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.23-19.34.15:271][  0]LogInit: Computer: ALI-PC
+[2018.09.23-19.34.15:271][  0]LogInit: User: aliha
+[2018.09.23-19.34.15:271][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.09.23-19.34.15:271][  0]LogInit: High frequency timer resolution =2.929941 MHz
+[2018.09.23-19.34.15:272][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.23-19.34.15:272][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.23-19.34.15:272][  0]LogMemory: Process Physical Memory: 107.43 MB used, 107.43 MB peak
+[2018.09.23-19.34.15:272][  0]LogMemory: Process Virtual Memory: 104.97 MB used, 104.97 MB peak
+[2018.09.23-19.34.15:272][  0]LogMemory: Physical Memory: 7561.16 MB used,  8755.52 MB free, 16316.69 MB total
+[2018.09.23-19.34.15:272][  0]LogMemory: Virtual Memory: 4701.38 MB used,  8755.52 MB free, 134217728.00 MB total
+[2018.09.23-19.34.15:294][  0]LogInit: Using OS detected language (en-US).
+[2018.09.23-19.34.15:294][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.23-19.34.15:296][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.23-19.34.15:673][  0]LogStreaming: Display: Took  0.379s to InitEngineTextLocalization.
+[2018.09.23-19.34.15:673][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.23-19.34.15:720][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.23-19.34.15:720][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.23-19.34.16:047][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.23-19.34.16:115][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.23-19.34.16:115][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.23-19.34.16:117][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.23-19.34.16:117][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.23-19.34.16:117][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.23-19.34.16:128][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.23-19.34.16:128][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.23-19.34.16:128][  0]LogWindows: EnumDisplayDevices:
+[2018.09.23-19.34.16:128][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.23-19.34.16:128][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.23-19.34.16:128][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.23-19.34.16:128][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.23-19.34.16:128][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.23-19.34.16:129][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.23-19.34.16:129][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.09.23-19.34.16:129][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.09.23-19.34.16:129][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.23-19.34.16:175][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.23-19.34.16:206][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.23-19.34.16:251][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/24908/).
+[2018.09.23-19.34.16:251][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/6612FF6D49C84C23BE2657B44A82CA4A/'.
+[2018.09.23-19.34.16:513][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.23-19.34.16:528][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.23-19.34.16:543][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.23-19.34.16:558][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.23-19.34.16:573][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.23-19.34.16:588][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.23-19.34.16:603][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.23-19.34.16:618][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.23-19.34.16:625][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:717][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-19.34.16:718][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.23-19.34.16:783][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.23-19.34.16:783][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.23-19.34.16:811][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.23-19.34.16:811][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.23-19.34.16:826][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.23-19.34.16:841][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.23-19.34.16:856][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.23-19.34.16:871][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.23-19.34.16:882][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.23-19.34.16:882][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.23-19.34.16:931][  0]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.23-19.34.16:931][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.23-19.34.16:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.23-19.34.16:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.23-19.34.17:850][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.23-19.34.17:899][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.23-19.34.17:899][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.23-19.34.17:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.23-19.34.17:899][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.23-19.34.17:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.23-19.34.17:899][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.23-19.34.17:912][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.23-19.34.17:925][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.23-19.34.17:925][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.23-19.34.17:925][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.23-19.34.17:943][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.23-19.34.17:945][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.23-19.34.17:946][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.23-19.34.18:032][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.09.23-19.34.18:380][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.23-19.34.18:527][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.23-19.34.18:530][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.23-19.34.18:530][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.23-19.34.18:530][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.23-19.34.18:530][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.23-19.34.18:549][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.09.23-19.34.19:149][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.116286 seconds
+[2018.09.23-19.34.19:157][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.23-19.34.19:157][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.23-19.34.19:157][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.23-19.34.20:107][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.23-19.34.20:121][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.23-19.34.20:279][  0]SourceControl: Source control is disabled
+[2018.09.23-19.34.20:948][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.23-19.34.21:024][  0]LogOcInput: OculusInput pre-init called
+[2018.09.23-19.34.21:091][  0]LogEngine: Initializing Engine...
+[2018.09.23-19.34.21:091][  0]LogHMD: Oculus plugin initialized. Version: 4.20.1-4233996+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.09.23-19.34.21:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.23-19.34.21:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.23-19.34.21:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.23-19.34.21:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.23-19.34.21:315][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.23-19.34.21:327][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.23-19.34.21:359][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-19.34.21:375][  0]LogInit: FAudioDevice initialized.
+[2018.09.23-19.34.21:375][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.23-19.34.21:455][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.23-19.34.21:465][  0]LogInit: Texture streaming: Enabled
+[2018.09.23-19.34.21:479][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.23-19.34.21:493][  0]LogInit: Transaction tracking system initialized
+[2018.09.23-19.34.21:510][  0]BlueprintLog: New page: Editor Load
+[2018.09.23-19.34.21:570][  0]LocalizationService: Localization service is disabled
+[2018.09.23-19.34.21:867][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.23-19.34.21:867][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.23-19.34.21:867][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.23-19.34.21:867][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.23-19.34.21:867][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.23-19.34.21:867][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.23-19.34.21:867][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.23-19.34.21:996][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.01s
+[2018.09.23-19.34.21:996][  0]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.23-19.34.21:996][  0]LightingResults: New page: Lighting Build
+[2018.09.23-19.34.21:999][  0]MapCheck: New page: Map Check
+[2018.09.23-19.34.21:999][  0]LightingResults: New page: Lighting Build
+[2018.09.23-19.34.22:359][  0]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.23-19.34.22:367][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.23-19.34.22:401][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.23-19.34.22:467][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.899ms to complete.
+[2018.09.23-19.34.22:467][  0]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.471
+[2018.09.23-19.34.22:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-19.34.22:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-19.34.22:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-19.34.22:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-19.34.22:619][  0]LogCollectionManager: Loaded 0 collections in 0.001295 seconds
+[2018.09.23-19.34.22:661][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.09.23-19.34.22:661][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.09.23-19.34.22:661][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.09.23-19.34.22:661][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.09.23-19.34.22:672][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2572 classes and 603 folders.
+[2018.09.23-19.34.22:677][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.23-19.34.22:753][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.23-19.34.22:759][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.23-19.34.22:830][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.23-19.34.22:833][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.23-19.34.22:839][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.23-19.34.22:920][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.23-19.34.22:973][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-19.34.23:035][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.23-19.34.23:035][  0]LogLoad: (Engine Initialization) Total time: 10.17 seconds
+[2018.09.23-19.34.23:035][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.23-19.34.23:051][  0]LogOcInput: OculusInput is initialized
+[2018.09.23-19.34.23:078][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.23-19.34.23:138][  1]LogAssetRegistry: Asset discovery search completed in 5.1276 seconds
+[2018.09.23-19.34.23:140][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2018.09.23-19.34.23:140][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000111 seconds (updated 0 objects)
+[2018.09.23-19.34.36:818][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-19.34.37:469][598]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.23-19.35.19:731][788]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-19.35.19:750][788]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tools/Hatchet_Blueprint.Hatchet_Blueprint
+[2018.09.23-19.35.20:414][788]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.23-19.35.21:347][788]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.23-19.37.08:183][684]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.09.23-19.37.08:533][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.23-19.37.08:592][684]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint849BB8244A22378E6E1CFFA4A207EC66.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.23-19.37.19:057][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.23-19.37.19:101][951]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint934237234C4AA3585320198C72B35D96.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.23-19.37.23:804][292]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapF68D4D54495C40FE992ECF8573A36AEA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.23-19.37.23:859][292]LogFileHelpers: Saving map 'TreeCutTestMap' took 0.377
+[2018.09.23-19.37.26:546][422]LogTemp: Repeating last play command: VR Preview
+[2018.09.23-19.37.26:580][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.23-19.37.26:580][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.23-19.37.26:580][422]LogHMD: Initializing OVRPlugin session
+[2018.09.23-19.37.26:711][422]PIE: New page: PIE session: TreeCutTestMap (Sep 23, 2018, 11:37:26 AM)
+[2018.09.23-19.37.26:711][422]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.23-19.37.26:714][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003021s)
+[2018.09.23-19.37.26:715][422]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.23-19.37.26:715][422]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.09.23-19.37.26:715][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.004037s)
+[2018.09.23-19.37.26:763][422]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.23-19.37.26:776][422]LogInit: FAudioDevice initialized.
+[2018.09.23-19.37.26:797][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-19.37.26:887][422]LogHMD: Allocating Oculus 3488 x 2048 rendertarget swapchain
+[2018.09.23-19.37.26:931][422]LogLoad: Game class is 'GameMode'
+[2018.09.23-19.37.26:933][422]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.23-15.37.26
+[2018.09.23-19.37.26:934][422]LogWorld: Bringing up level for play took: 0.001523
+[2018.09.23-19.37.26:950][422]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.23-19.37.26:950][422]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-19.37.26:950][422]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.23-19.37.26:950][422]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-19.37.26:951][422]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.23-19.37.26:957][422]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap -0.523
+[2018.09.23-19.37.26:958][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.23-19.37.26:958][422]LogEngine: Changing dynamic resolution state.
+[2018.09.23-19.37.26:969][422]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.23-19.37.26:969][422]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.23-19.37.26:969][422]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.23-19.37.26:969][422]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.23-19.37.26:969][422]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.23-19.37.26:969][422]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.23-19.37.26:977][422]LogRenderer: Reallocating scene render targets to support 3488x2048 Format 10 NumSamples 1 (Frame:1).
+[2018.09.23-19.37.26:977][422]LogHMD: Allocating Oculus 3488 x 2048 depth rendertarget swapchain
+[2018.09.23-19.37.35:515][252]LogBlueprintUserMessages: [Hatchet_Blueprint] This should break a tree
+[2018.09.23-19.37.37:005][386]LogBlueprintUserMessages: [Hatchet_Blueprint] This should break a tree
+[2018.09.23-19.37.39:149][579]LogBlueprintUserMessages: [Hatchet_Blueprint] This should break a tree
+[2018.09.23-19.37.41:306][773]LogBlueprintUserMessages: [Hatchet_Blueprint] This should break a tree
+[2018.09.23-19.37.47:707][349]LogBlueprintUserMessages: [Hatchet_Blueprint] This should break a tree
+[2018.09.23-19.37.51:606][700]LogBlueprintUserMessages: [Hatchet_Blueprint] This should break a tree
+[2018.09.23-19.37.54:240][937]LogBlueprintUserMessages: [Hatchet_Blueprint] This should break a tree
+[2018.09.23-19.38.11:641][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-19.38.11:671][500]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.23-19.38.11:684][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.23-19.38.11:733][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.23-19.38.11:733][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.23-19.38.11:830][501]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.23-19.38.59:261][216]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.09.23-19.38.59:599][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.23-19.38.59:655][216]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_BlueprintC695E3CF4D3C6763A831C78B94DCAF51.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.23-19.39.53:171][760]LogSlate: Window 'Event Graph' being destroyed
+[2018.09.23-19.44.09:402][987]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap52F34D924B3FF8D7726142BD759828FE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.23-19.44.09:460][987]LogFileHelpers: Saving map 'TreeCutTestMap' took 0.376
+[2018.09.23-19.45.32:753][834]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.09.23-19.45.33:086][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.23-19.45.33:167][834]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint6401E94D42E589425F9020AB8A0ED207.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.23-19.46.00:302][776]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap3C5DE7434E5B1E3D0FE5A88CBD442B45.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.23-19.46.00:453][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.23-19.46.00:547][776]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData1D02A077402811E8A3D8ECA17880F6DD.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.23-19.46.48:793][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.09.23-19.46.48:840][130]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint7248250B43696ADEE2AB87B60F9DD350.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.09.23-19.48.59:475][540]LogSlate: Window 'Select Path' being destroyed
+[2018.09.23-19.49.20:650][806]LogSlate: Window 'Select Path' being destroyed
+[2018.09.23-19.49.20:905][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tree_Blueprint.uasset" SILENT=true
+[2018.09.23-19.49.20:925][806]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_Blueprint3C7864FC4B6DEE9FB6EBB388DFA64936.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tree_Blueprint.uasset'
+[2018.09.23-19.49.21:239][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tree_Blueprint.Tree_Blueprint
+[2018.09.23-19.49.32:414][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-19.49.33:714][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree1)
+[2018.09.23-19.49.35:624][943]LogEditorViewport: Clicking on Actor (LMB): Tree_Blueprint_C (Tree_Blueprint)
+[2018.09.23-19.49.37:820][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-19.51.27:407][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-19.51.27:518][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tree_Blueprint.uasset" SILENT=true
+[2018.09.23-19.51.27:575][193]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_BlueprintC5A6CA2E45DC3FB3B3BF7E994D6967EF.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tree_Blueprint.uasset'
+[2018.09.23-19.51.51:534][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.23-19.51.51:569][832]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.09.23-19.51.53:226][ 21]Cmd: DUPLICATE
+[2018.09.23-19.51.53:226][ 21]Cmd: ACTOR DUPLICATE
+[2018.09.23-19.51.58:958][628]Cmd: DELETE
+[2018.09.23-19.51.58:958][628]Cmd: ACTOR DELETE
+[2018.09.23-19.51.58:960][628]LogEditorActor: Deleted Actor: Tree_Blueprint_C
+[2018.09.23-19.51.58:993][628]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.09.23-19.51.59:941][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-19.52.04:750][265]Cmd: TRANSACTION UNDO
+[2018.09.23-19.52.04:750][265]LogEditorTransaction: Undo Move Actors
+[2018.09.23-19.52.05:557][326]Cmd: TRANSACTION UNDO
+[2018.09.23-19.52.05:557][326]LogEditorTransaction: Undo Create Actors
+[2018.09.23-19.52.06:467][426]LogEditorViewport: Clicking on Actor (LMB): Tree_Blueprint_C (Tree_Blueprint)
+[2018.09.23-19.52.07:637][530]Cmd: DUPLICATE
+[2018.09.23-19.52.07:638][530]Cmd: ACTOR DUPLICATE
+[2018.09.23-19.52.10:047][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.23-19.52.10:405][768]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapBC7F40454796CF590422D2967AA105BB.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.09.23-19.52.10:555][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.09.23-19.52.10:606][768]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataD6218AB1436F04221D6701B3CC3902D8.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.09.23-19.52.30:486][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-19.52.30:544][ 43]MapCheck: New page: Map Check
+[2018.09.23-19.52.30:568][ 43]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.23-19.52.30:568][ 43]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.23-19.52.30:702][ 43]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.09.23-19.52.30:711][ 43]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.23-19.52.30:711][ 43]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.09.23-19.52.30:717][ 43]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.09.23-19.52.30:723][ 43]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-19.52.30:723][ 43]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.23-19.52.30:723][ 43]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.09.23-19.52.30:729][ 43]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.23-19.52.31:470][ 43]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-19.52.31:470][ 43]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.23-19.52.31:470][ 43]TextureStreamingBuild: Display: Compiling optional shaders took 0.773 seconds.
+[2018.09.23-19.52.31:478][ 43]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2018.09.23-19.52.31:489][ 43]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2018.09.23-19.52.31:521][ 43]LightingResults: New page: Lighting Build - Sep 23, 2018, 11:52:31 AM
+[2018.09.23-19.52.31:559][ 43]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.23-19.52.31:645][ 43]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.23-19.52.31:656][ 43]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.23-19.52.32:164][ 43]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.23-19.52.32:164][ 43]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24908
+[2018.09.23-19.52.34:691][ 43]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.09.23-19.52.34:692][ 43]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.23-19.52.34:692][ 43]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.23-19.52.34:692][ 43]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.23-19.52.34:692][ 43]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.23-19.52.34:692][ 43]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.23-19.52.35:120][ 43]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.314 s
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: 
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: Ensure condition failed: Settings_RenderThread.IsValid() [File:D:\Build\++UE4\Sync\Engine\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Private\OculusHMD.cpp] [Line: 1506]
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: Unexpected issue with Oculus settings on the RenderThread. This should be valid when this is called in AllocateCommonDepthTargets() - has the callsite changed?
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: Stack: 
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc09987136 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc096c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc096db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbeacd2106 UE4Editor-OculusHMD.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf0cd1b71 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf0cd2304 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf0cd18e3 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf089650f UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.23-19.52.35:120][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf0cdad68 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf0cda95e UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf0d31201 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf717c39a UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5ca0110 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5ca7b28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5c817cf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5f5b7fd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5ef36ee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5f23f99 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5ef3ce1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5795897 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbf5772a9c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbed9359dc UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffbed957ed7 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc08fe29fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc090e5872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc090c24bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc091a9c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc08f994c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc09031db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc09017c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc0900b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc37fed1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc37fe0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc37fef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc37fdc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc6f3b6cc1 USER32.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc6f3b6693 USER32.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc37ff0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff76c5c54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff76c5d5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff76c5d5bba UE4Editor.exe!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff76c5e3dac UE4Editor.exe!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ff76c5e5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc70b53034 KERNEL32.DLL!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: [Callstack] 0x00007ffc71f81461 ntdll.dll!UnknownFunction []
+[2018.09.23-19.52.35:121][ 43]LogOutputDevice: Error: 
+[2018.09.23-19.52.35:135][ 43]LogStats:                SubmitErrorReport -  0.009 s
