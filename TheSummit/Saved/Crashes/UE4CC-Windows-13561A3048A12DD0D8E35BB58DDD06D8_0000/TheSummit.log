@@ -1,0 +1,741 @@
+﻿Log file open, 09/30/18 15:58:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.551375
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.135s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.30-19.58.59:940][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.30-19.58.59:940][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.30-19.58.59:956][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.30-19.58.59:956][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.30-19.58.59:956][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.30-19.58.59:956][  0]LogInit: Computer: ALI-PC
+[2018.09.30-19.58.59:956][  0]LogInit: User: aliha
+[2018.09.30-19.58.59:956][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.09.30-19.58.59:956][  0]LogInit: High frequency timer resolution =2.929941 MHz
+[2018.09.30-19.58.59:957][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.30-19.58.59:957][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.30-19.58.59:957][  0]LogMemory: Process Physical Memory: 106.19 MB used, 106.19 MB peak
+[2018.09.30-19.58.59:957][  0]LogMemory: Process Virtual Memory: 103.98 MB used, 103.98 MB peak
+[2018.09.30-19.58.59:957][  0]LogMemory: Physical Memory: 9346.64 MB used,  6970.05 MB free, 16316.69 MB total
+[2018.09.30-19.58.59:957][  0]LogMemory: Virtual Memory: 4700.40 MB used,  6970.05 MB free, 134217728.00 MB total
+[2018.09.30-19.58.59:978][  0]LogInit: Using OS detected language (en-US).
+[2018.09.30-19.58.59:978][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.30-19.58.59:979][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.30-19.59.00:393][  0]LogStreaming: Display: Took  0.416s to InitEngineTextLocalization.
+[2018.09.30-19.59.00:393][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.30-19.59.00:448][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.30-19.59.00:448][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.30-19.59.00:797][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.30-19.59.00:865][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.30-19.59.00:865][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.30-19.59.00:867][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.30-19.59.00:867][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.30-19.59.00:867][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.30-19.59.00:880][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.30-19.59.00:880][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.30-19.59.00:880][  0]LogWindows: EnumDisplayDevices:
+[2018.09.30-19.59.00:880][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.30-19.59.00:880][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.30-19.59.00:880][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.30-19.59.00:881][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.30-19.59.00:881][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.30-19.59.00:881][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.30-19.59.00:881][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2018.09.30-19.59.00:881][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2018.09.30-19.59.00:881][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.30-19.59.00:937][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.30-19.59.01:020][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.30-19.59.01:067][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/20752/).
+[2018.09.30-19.59.01:067][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/377CADD3400C10BBA2206E84ADB5B30E/'.
+[2018.09.30-19.59.01:343][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.30-19.59.01:359][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.30-19.59.01:377][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.30-19.59.01:393][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.30-19.59.01:409][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.30-19.59.01:427][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.30-19.59.01:444][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.30-19.59.01:463][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.30-19.59.01:471][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:565][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.30-19.59.01:566][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.30-19.59.01:632][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.30-19.59.01:632][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.30-19.59.01:663][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.30-19.59.01:663][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.30-19.59.01:677][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.30-19.59.01:692][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.30-19.59.01:708][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.30-19.59.01:725][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.30-19.59.01:736][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.30-19.59.01:736][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.30-19.59.01:786][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.30-19.59.01:786][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.30-19.59.01:786][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.30-19.59.02:757][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.30-19.59.02:810][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.30-19.59.02:810][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.30-19.59.02:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.30-19.59.02:810][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.30-19.59.02:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.30-19.59.02:810][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.30-19.59.02:824][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.30-19.59.02:837][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.30-19.59.02:837][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.30-19.59.02:837][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.30-19.59.02:856][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.30-19.59.02:857][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.30-19.59.02:859][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.30-19.59.02:949][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.09.30-19.59.03:337][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.30-19.59.03:488][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.30-19.59.03:492][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.30-19.59.03:492][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.30-19.59.03:492][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.30-19.59.03:492][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.30-19.59.03:519][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.09.30-19.59.04:247][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.129830 seconds
+[2018.09.30-19.59.04:255][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.30-19.59.04:255][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.30-19.59.04:255][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.30-19.59.05:281][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.30-19.59.05:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.30-19.59.05:463][  0]SourceControl: Source control is disabled
+[2018.09.30-19.59.06:012][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.30-19.59.06:071][  0]LogOcInput: OculusInput pre-init called
+[2018.09.30-19.59.06:144][  0]LogEngine: Initializing Engine...
+[2018.09.30-19.59.06:189][  0]LogHMD: Oculus plugin initialized. Version: 4.20.1-4233996+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.09.30-19.59.06:191][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.30-19.59.06:191][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.30-19.59.06:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.30-19.59.06:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.30-19.59.06:443][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.30-19.59.06:458][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.30-19.59.06:557][  0]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-19.59.06:570][  0]LogInit: FAudioDevice initialized.
+[2018.09.30-19.59.06:571][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.30-19.59.06:655][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.30-19.59.06:662][  0]LogInit: Texture streaming: Enabled
+[2018.09.30-19.59.06:678][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.30-19.59.06:696][  0]LogInit: Transaction tracking system initialized
+[2018.09.30-19.59.06:713][  0]BlueprintLog: New page: Editor Load
+[2018.09.30-19.59.06:782][  0]LocalizationService: Localization service is disabled
+[2018.09.30-19.59.07:091][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.30-19.59.07:091][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.30-19.59.07:091][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.30-19.59.07:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.30-19.59.07:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.30-19.59.07:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.30-19.59.07:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.30-19.59.07:225][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.01s
+[2018.09.30-19.59.07:225][  0]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.30-19.59.07:226][  0]LightingResults: New page: Lighting Build
+[2018.09.30-19.59.07:228][  0]MapCheck: New page: Map Check
+[2018.09.30-19.59.07:228][  0]LightingResults: New page: Lighting Build
+[2018.09.30-19.59.07:644][  0]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.30-19.59.07:661][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.30-19.59.07:695][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.30-19.59.07:765][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.328ms to complete.
+[2018.09.30-19.59.07:765][  0]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.541
+[2018.09.30-19.59.07:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-19.59.07:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-19.59.07:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-19.59.07:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-19.59.07:932][  0]LogCollectionManager: Loaded 0 collections in 0.001528 seconds
+[2018.09.30-19.59.07:978][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.09.30-19.59.07:978][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.09.30-19.59.07:978][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.09.30-19.59.07:978][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.09.30-19.59.07:990][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2572 classes and 603 folders.
+[2018.09.30-19.59.07:995][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.30-19.59.08:072][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.30-19.59.08:080][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.30-19.59.08:168][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.30-19.59.08:170][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.30-19.59.08:177][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.30-19.59.08:264][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.30-19.59.08:341][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.30-19.59.08:468][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.30-19.59.08:469][  0]LogLoad: (Engine Initialization) Total time: 10.96 seconds
+[2018.09.30-19.59.08:469][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.30-19.59.08:484][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.30-19.59.08:604][  0]LogOcInput: OculusInput is initialized
+[2018.09.30-19.59.08:644][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.30-19.59.08:702][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.30-19.59.08:763][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.30-19.59.08:798][  1]LogAssetRegistry: Asset discovery search completed in 5.8711 seconds
+[2018.09.30-19.59.08:799][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.09.30-19.59.08:800][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000129 seconds (updated 0 objects)
+[2018.09.30-19.59.28:267][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.30-19.59.29:398][898]LogTemp: Repeating last play command: VR Preview
+[2018.09.30-19.59.29:480][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.30-19.59.29:489][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.30-19.59.29:489][898]LogHMD: Initializing OVRPlugin session
+[2018.09.30-19.59.29:690][898]PIE: New page: PIE session: TreeCutTestMap (Sep 30, 2018, 11:59:29 AM)
+[2018.09.30-19.59.29:695][898]LogPlayLevel: Creating play world package: /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap
+[2018.09.30-19.59.29:745][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049800s)
+[2018.09.30-19.59.29:746][898]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.09.30-19.59.29:753][898]LogPlayLevel: PIE: World Init took: (0.007606s)
+[2018.09.30-19.59.29:753][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap to /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.058153s)
+[2018.09.30-19.59.29:835][898]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-19.59.29:846][898]LogInit: FAudioDevice initialized.
+[2018.09.30-19.59.29:864][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-19.59.29:973][898]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.30-19.59.30:028][898]LogLoad: Game class is 'GameMode'
+[2018.09.30-19.59.30:235][898]LogWorld: Bringing World /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.09.30-15.59.30
+[2018.09.30-19.59.30:276][898]LogWorld: Bringing up level for play took: 0.078197
+[2018.09.30-19.59.30:455][898]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.09.30-19.59.30:462][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-19.59.30:463][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-19.59.30:463][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-19.59.30:502][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-19.59.30:529][898]PIE: Play in editor start time for /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap 0.266
+[2018.09.30-19.59.30:539][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.30-19.59.30:555][898]LogEngine: Changing dynamic resolution state.
+[2018.09.30-19.59.30:755][898]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-19.59.30:755][898]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-19.59.30:755][898]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-19.59.30:755][898]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-19.59.30:755][898]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-19.59.30:755][898]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-19.59.30:755][898]LogRenderer: Reallocating scene render targets to support 2688x1584 Format 10 NumSamples 1 (Frame:1).
+[2018.09.30-19.59.30:755][898]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.30-19.59.41:195][800]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-19.59.41:845][846]PIE: Warning: AttachTo: '/Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-19.59.57:697][273]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint
+	Function /Game/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:008B
+[2018.09.30-19.59.57:710][273]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  Set Cast Shadow
+[2018.09.30-20.00.08:894][280]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
+	Function /Game/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:008B
+[2018.09.30-20.00.08:894][280]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  Set Cast Shadow
+[2018.09.30-20.00.27:202][928]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.00.27:202][928]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:03FD
+[2018.09.30-20.00.27:203][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.00.27:203][928]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:041E
+[2018.09.30-20.00.27:203][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.00.27:203][928]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.00.27:203][928]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:04C6
+[2018.09.30-20.00.27:203][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.00.28:959][ 86]PIE: Warning: AttachTo: '/Game/TreeCutTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.00.53:992][304]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.03:569][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.30-20.01.03:610][158]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.30-20.01.03:650][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.30-20.01.03:739][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.30-20.01.03:739][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/TreeCutTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.09.30-20.01.03:858][159]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.30-20.01.10:161][853]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.30-20.01.10:397][853]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.09.30-20.01.10:397][853]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.09.30-20.01.10:397][853]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.09.30-20.01.10:397][853]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.09.30-20.01.10:397][853]LogStaticMesh: Building static mesh bow...
+[2018.09.30-20.01.10:450][853]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/bow.bow
+[2018.09.30-20.01.10:496][853]LogAIModule: Creating AISystem for world BowAndArrowTestMap
+[2018.09.30-20.01.10:505][853]LogAssetEditorManager: Opening Asset editor for World /Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap
+[2018.09.30-20.01.10:550][853]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/BowAndArrowTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.30-20.01.10:550][853]LightingResults: New page: Lighting Build
+[2018.09.30-20.01.10:551][853]LoadErrors: New page: Loading map: BowAndArrowTestMap.umap
+[2018.09.30-20.01.10:552][853]MapCheck: New page: Map Check
+[2018.09.30-20.01.10:552][853]LightingResults: New page: Lighting Build
+[2018.09.30-20.01.10:685][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.30-20.01.10:774][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.30-20.01.10:851][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.367ms to complete.
+[2018.09.30-20.01.10:851][853]LogFileHelpers: Loading map 'BowAndArrowTestMap' took 0.302
+[2018.09.30-20.01.12:040][970]LogTemp: Repeating last play command: VR Preview
+[2018.09.30-20.01.12:072][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.12:072][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.30-20.01.12:072][970]LogHMD: Initializing OVRPlugin session
+[2018.09.30-20.01.12:258][970]PIE: New page: PIE session: BowAndArrowTestMap (Sep 30, 2018, 12:01:12 PM)
+[2018.09.30-20.01.12:258][970]LogPlayLevel: Creating play world package: /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap
+[2018.09.30-20.01.12:263][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004532s)
+[2018.09.30-20.01.12:264][970]LogAIModule: Creating AISystem for world BowAndArrowTestMap
+[2018.09.30-20.01.12:264][970]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.09.30-20.01.12:264][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap to /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap (0.005818s)
+[2018.09.30-20.01.12:307][970]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-20.01.12:318][970]LogInit: FAudioDevice initialized.
+[2018.09.30-20.01.12:344][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-20.01.12:397][970]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.30-20.01.12:437][970]LogLoad: Game class is 'GameMode'
+[2018.09.30-20.01.12:439][970]LogWorld: Bringing World /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap up for play (max tick rate 0) at 2018.09.30-16.01.12
+[2018.09.30-20.01.12:440][970]LogWorld: Bringing up level for play took: 0.001665
+[2018.09.30-20.01.12:453][970]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.01.12:453][970]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.01.12:453][970]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.01.12:453][970]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.01.12:461][970]PIE: Play in editor start time for /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap 0.198
+[2018.09.30-20.01.12:462][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.12:617][971]LogEngine: Changing dynamic resolution state.
+[2018.09.30-20.01.16:791][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.30-20.01.16:827][403]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.30-20.01.16:886][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.16:916][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.30-20.01.16:917][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.16:984][404]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.30-20.01.17:993][522]LogTemp: Repeating last play command: VR Preview
+[2018.09.30-20.01.18:024][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.18:024][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.30-20.01.18:024][522]LogHMD: Initializing OVRPlugin session
+[2018.09.30-20.01.18:132][522]PIE: New page: PIE session: BowAndArrowTestMap (Sep 30, 2018, 12:01:18 PM)
+[2018.09.30-20.01.18:132][522]LogPlayLevel: Creating play world package: /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap
+[2018.09.30-20.01.18:138][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005531s)
+[2018.09.30-20.01.18:139][522]LogAIModule: Creating AISystem for world BowAndArrowTestMap
+[2018.09.30-20.01.18:139][522]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2018.09.30-20.01.18:139][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap to /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap (0.006815s)
+[2018.09.30-20.01.18:181][522]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-20.01.18:193][522]LogInit: FAudioDevice initialized.
+[2018.09.30-20.01.18:215][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-20.01.18:300][522]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.30-20.01.18:330][522]LogLoad: Game class is 'GameMode'
+[2018.09.30-20.01.18:333][522]LogWorld: Bringing World /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap up for play (max tick rate 0) at 2018.09.30-16.01.18
+[2018.09.30-20.01.18:333][522]LogWorld: Bringing up level for play took: 0.002118
+[2018.09.30-20.01.18:348][522]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.01.18:348][522]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.01.18:348][522]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.01.18:348][522]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.01.18:353][522]PIE: Play in editor start time for /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap 0.09
+[2018.09.30-20.01.18:354][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.18:355][522]LogEngine: Changing dynamic resolution state.
+[2018.09.30-20.01.18:361][522]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-20.01.18:361][522]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.30-20.01.28:825][460]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.31:502][701]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.31:502][701]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:03FD
+[2018.09.30-20.01.31:502][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.31:503][701]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:041E
+[2018.09.30-20.01.31:503][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.31:503][701]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.31:503][701]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:04C6
+[2018.09.30-20.01.31:503][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.01.32:036][748]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.32:157][759]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.32:157][759]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:03FD
+[2018.09.30-20.01.32:157][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.32:157][759]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:041E
+[2018.09.30-20.01.32:157][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.32:157][759]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.32:157][759]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:04C6
+[2018.09.30-20.01.32:157][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.01.32:512][791]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.33:146][848]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.35:157][ 28]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.36:302][131]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.36:302][131]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:03FD
+[2018.09.30-20.01.36:302][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.36:302][131]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:041E
+[2018.09.30-20.01.36:303][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.36:303][131]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.36:303][131]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:04C6
+[2018.09.30-20.01.36:303][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.01.39:614][429]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.39:813][447]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.39:813][447]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:03FD
+[2018.09.30-20.01.39:813][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.39:813][447]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:041E
+[2018.09.30-20.01.39:813][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.39:813][447]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.39:813][447]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:04C6
+[2018.09.30-20.01.39:813][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.01.40:534][512]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.40:857][541]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.43:326][760]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.43:558][781]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.43:558][781]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:03FD
+[2018.09.30-20.01.43:558][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.43:558][781]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:041E
+[2018.09.30-20.01.43:558][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.43:558][781]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.43:558][781]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:04C6
+[2018.09.30-20.01.43:558][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.01.44:024][823]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.44:024][823]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:07E1
+[2018.09.30-20.01.44:024][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.44:024][823]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1
+	Character_Blueprint_C /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5
+	Function /Game/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:0802
+[2018.09.30-20.01.44:024][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.44:025][823]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.44:025][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.01.47:691][153]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.47:692][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.47:692][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.01.47:692][153]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.01.47:692][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.01.48:192][198]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.48:724][246]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:024][273]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:068][277]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:202][289]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:347][302]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:402][307]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:658][330]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:691][333]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.49:936][355]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.50:046][365]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.01.52:717][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.30-20.01.52:744][596]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.30-20.01.52:749][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.52:795][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.30-20.01.52:795][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.52:872][597]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.30-20.01.58:472][235]LogTemp: Repeating last play command: VR Preview
+[2018.09.30-20.01.58:513][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.58:513][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.30-20.01.58:513][235]LogHMD: Initializing OVRPlugin session
+[2018.09.30-20.01.58:615][235]PIE: New page: PIE session: BowAndArrowTestMap (Sep 30, 2018, 12:01:58 PM)
+[2018.09.30-20.01.58:615][235]LogPlayLevel: Creating play world package: /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap
+[2018.09.30-20.01.58:618][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002984s)
+[2018.09.30-20.01.58:619][235]LogAIModule: Creating AISystem for world BowAndArrowTestMap
+[2018.09.30-20.01.58:620][235]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2018.09.30-20.01.58:620][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap to /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap (0.004621s)
+[2018.09.30-20.01.58:668][235]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-20.01.58:682][235]LogInit: FAudioDevice initialized.
+[2018.09.30-20.01.58:706][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-20.01.58:750][235]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.30-20.01.58:784][235]LogLoad: Game class is 'GameMode'
+[2018.09.30-20.01.58:786][235]LogWorld: Bringing World /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap up for play (max tick rate 0) at 2018.09.30-16.01.58
+[2018.09.30-20.01.58:786][235]LogWorld: Bringing up level for play took: 0.001381
+[2018.09.30-20.01.58:799][235]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.01.58:799][235]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.01.58:799][235]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.01.58:800][235]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.01.58:806][235]PIE: Play in editor start time for /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap 0.542
+[2018.09.30-20.01.58:806][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.01.58:918][236]LogEngine: Changing dynamic resolution state.
+[2018.09.30-20.02.03:538][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.30-20.02.03:581][897]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.30-20.02.03:597][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.02.03:633][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.30-20.02.03:633][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.02.03:706][898]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.30-20.02.05:138][ 61]LogTemp: Repeating last play command: VR Preview
+[2018.09.30-20.02.05:169][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.02.05:170][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.30-20.02.05:170][ 61]LogHMD: Initializing OVRPlugin session
+[2018.09.30-20.02.05:264][ 61]PIE: New page: PIE session: BowAndArrowTestMap (Sep 30, 2018, 12:02:05 PM)
+[2018.09.30-20.02.05:264][ 61]LogPlayLevel: Creating play world package: /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap
+[2018.09.30-20.02.05:267][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003346s)
+[2018.09.30-20.02.05:268][ 61]LogAIModule: Creating AISystem for world BowAndArrowTestMap
+[2018.09.30-20.02.05:269][ 61]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2018.09.30-20.02.05:269][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap to /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap (0.005076s)
+[2018.09.30-20.02.05:310][ 61]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-20.02.05:322][ 61]LogInit: FAudioDevice initialized.
+[2018.09.30-20.02.05:339][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.30-20.02.05:431][ 61]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.09.30-20.02.05:463][ 61]LogLoad: Game class is 'GameMode'
+[2018.09.30-20.02.05:464][ 61]LogWorld: Bringing World /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap up for play (max tick rate 0) at 2018.09.30-16.02.05
+[2018.09.30-20.02.05:465][ 61]LogWorld: Bringing up level for play took: 0.001571
+[2018.09.30-20.02.05:479][ 61]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.02.05:479][ 61]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.30-20.02.05:479][ 61]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.02.05:479][ 61]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.30-20.02.05:487][ 61]PIE: Play in editor start time for /Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap 1.224
+[2018.09.30-20.02.05:487][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.02.05:488][ 61]LogEngine: Changing dynamic resolution state.
+[2018.09.30-20.02.05:496][ 61]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.09.30-20.02.05:496][ 61]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.09.30-20.02.14:645][883]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.02.14:646][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.02.14:646][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.02.14:646][883]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.02.14:646][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.02.15:112][925]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.02.15:112][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.02.15:112][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.09.30-20.02.15:113][925]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.02.15:113][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  Cast To PrimitiveComponent
+[2018.09.30-20.02.15:857][992]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.16:547][ 54]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.16:946][ 90]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.16:991][ 94]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.17:335][125]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.17:391][130]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.17:612][150]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.17:635][152]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.17:856][172]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.17:879][174]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.43:726][500]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Character_Blueprint.Character_Blueprint_C'!
+[2018.09.30-20.02.44:215][544]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.44:281][550]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.44:537][573]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.44:604][579]PIE: Warning: AttachTo: '/Game/BowAndArrow/UEDPIE_0_BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.Character_Blueprint_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2018.09.30-20.02.46:907][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.30-20.02.46:923][781]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.30-20.02.46:930][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.02.46:969][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.30-20.02.46:969][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap' with GeneratedClass '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap_C' with ClassGeneratedBy '/Game/BowAndArrow/BowAndArrowTestMap.BowAndArrowTestMap:PersistentLevel.BowAndArrowTestMap'
+[2018.09.30-20.02.47:049][782]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.30-20.02.53:705][548]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BowAndArrow/Bow_Blueprint.Bow_Blueprint
+[2018.09.30-20.02.54:398][548]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.09.30-20.02.55:395][548]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.30-20.02.55:506][549]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.30-20.03.17:750][236]BlueprintLog: New page: Compile Bow_Blueprint
+[2018.09.30-20.03.18:075][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BowAndArrow/Bow_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/Bow_Blueprint.uasset" SILENT=true
+[2018.09.30-20.03.18:144][236]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Bow_Blueprint8AAB651545C299204688F0BFE6B08C73.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/Bow_Blueprint.uasset'
+[2018.09.30-20.03.24:721][731]BlueprintLog: New page: Compile Bow_Blueprint
+[2018.09.30-20.03.25:029][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BowAndArrow/Bow_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/Bow_Blueprint.uasset" SILENT=true
+[2018.09.30-20.03.25:082][731]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Bow_Blueprint935B9AFA4B7947C8425852B59F93736C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/Bow_Blueprint.uasset'
+[2018.09.30-20.03.35:765][645]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character_Blueprint.Character_Blueprint
+[2018.09.30-20.04.07:410][650]LogSlate: Window 'Bow_Blueprint' being destroyed
+[2018.09.30-20.04.07:420][650]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.30-20.04.09:360][810]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/BowAndArrowTestMap653BA81941816A74A494238B5AD7AC1A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/BowAndArrowTestMap.umap'
+[2018.09.30-20.04.09:417][810]LogFileHelpers: Saving map 'BowAndArrowTestMap' took 0.344
+[2018.09.30-20.04.12:154][128]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character_Blueprint.Character_Blueprint
+[2018.09.30-20.04.21:098][640]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-20.04.21:342][646]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.30-20.07.58:250][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.09.30-20.07.58:358][635]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintEF800611462CA072819FC9ADAF4F8E03.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.09.30-20.11.28:514][182]BlueprintLog: New page: Compile Character_Blueprint
+[2018.09.30-20.11.28:550][182]LogBlueprint: Error: [Compiler Character_Blueprint] This blueprint (self) is not a Bow_Blueprint_C, therefore ' Target ' must have a connection.
+[2018.09.30-20.11.28:572][182]LogBlueprint: Error: [Compiler Character_Blueprint] Variable node  Set UwU whats this, a bow?  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.09.30-20.11.28:786][182]LogBlueprint: Warning: [Compiler Character_Blueprint] [0751.28] Compile of Character_Blueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 272 ms] (/Game/Character_Blueprint.Character_Blueprint)
+[2018.09.30-20.11.44:022][302]BlueprintLog: New page: Compile Character_Blueprint
+[2018.09.30-20.11.44:419][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.09.30-20.11.44:513][302]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintEBF33EB84E9B6A3206B305BA33606C0E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.09.30-20.11.55:036][  8]BlueprintLog: New page: Compile Character_Blueprint
+[2018.09.30-20.11.55:403][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.09.30-20.11.55:493][  8]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintAD07E16D493E7E590A8EA7B7354AEC64.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.09.30-20.12.04:760][797]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BowAndArrow/Bow_Blueprint.Bow_Blueprint
+[2018.09.30-20.12.26:061][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BowAndArrow/Bow_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/Bow_Blueprint.uasset" SILENT=true
+[2018.09.30-20.12.26:135][376]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Bow_Blueprint6CEA1B45483412E13126E3B7FE20C4D6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/BowAndArrow/Bow_Blueprint.uasset'
+[2018.09.30-20.12.37:089][324]BlueprintLog: New page: Compile Bow_Blueprint
+[2018.09.30-20.12.50:395][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.30-20.13.01:189][654]LogUObjectBase: Warning: Object is not registered
+[2018.09.30-20.13.01:446][654]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.245 s
+[2018.09.30-20.13.01:446][654]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.30-20.13.01:446][654]LogOutputDevice: Error: 
+[2018.09.30-20.13.01:446][654]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.09.30-20.13.01:446][654]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.30-20.13.01:446][654]LogOutputDevice: Error: Stack: 
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc0b3f7136 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc0b130c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc0b14b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffbf7700c6b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffbf771009e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc092fda3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffbfc27ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffbfc23f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc34e38204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc3507e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc34e9281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc34e68190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc34e5b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc44efd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc44ef0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc44eff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc44eec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc6f3b6cc1 USER32.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc6f3b6693 USER32.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc44f00646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ff62dca54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ff62dcb5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ff62dcb5bba UE4Editor.exe!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ff62dcc3dac UE4Editor.exe!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ff62dcc5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc70b53034 KERNEL32.DLL!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: [Callstack] 0x00007ffc71f81461 ntdll.dll!UnknownFunction []
+[2018.09.30-20.13.01:447][654]LogOutputDevice: Error: 
+[2018.09.30-20.13.01:464][654]LogStats:                SubmitErrorReport -  0.010 s
