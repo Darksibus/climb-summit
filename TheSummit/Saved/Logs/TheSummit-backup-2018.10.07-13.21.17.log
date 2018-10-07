@@ -1,0 +1,1195 @@
+﻿Log file open, 10/06/18 18:12:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.537846
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.348s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.053s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.06-22.12.20:964][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-22.12.20:965][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.06-22.12.21:017][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.06-22.12.21:032][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.06-22.12.21:033][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.06-22.12.21:087][  0]LogInit: Computer: ALI-PC
+[2018.10.06-22.12.21:087][  0]LogInit: User: aliha
+[2018.10.06-22.12.21:087][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.10.06-22.12.21:087][  0]LogInit: High frequency timer resolution =2.929943 MHz
+[2018.10.06-22.12.21:087][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.06-22.12.21:087][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.06-22.12.21:087][  0]LogMemory: Process Physical Memory: 104.27 MB used, 104.27 MB peak
+[2018.10.06-22.12.21:087][  0]LogMemory: Process Virtual Memory: 101.65 MB used, 101.65 MB peak
+[2018.10.06-22.12.21:087][  0]LogMemory: Physical Memory: 5396.62 MB used,  10920.07 MB free, 16316.69 MB total
+[2018.10.06-22.12.21:087][  0]LogMemory: Virtual Memory: 4695.24 MB used,  10920.07 MB free, 134217728.00 MB total
+[2018.10.06-22.12.21:690][  0]LogInit: Using OS detected language (en-US).
+[2018.10.06-22.12.21:690][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.06-22.12.21:755][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.06-22.12.22:506][  0]LogStreaming: Display: Took  0.802s to InitEngineTextLocalization.
+[2018.10.06-22.12.22:517][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.06-22.12.23:324][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.06-22.12.23:324][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.06-22.12.32:782][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.06-22.12.32:782][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.06-22.12.32:850][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.06-22.12.32:850][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.06-22.12.32:852][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.06-22.12.32:852][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.06-22.12.32:852][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.06-22.12.32:867][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.06-22.12.32:867][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.06-22.12.32:867][  0]LogWindows: EnumDisplayDevices:
+[2018.10.06-22.12.32:867][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.06-22.12.32:867][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.06-22.12.32:867][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.06-22.12.32:867][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.06-22.12.32:868][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.06-22.12.32:868][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.06-22.12.32:868][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2018.10.06-22.12.32:868][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2018.10.06-22.12.32:868][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.06-22.12.32:919][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.06-22.12.32:951][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.06-22.12.32:995][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/8068/).
+[2018.10.06-22.12.32:995][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/A46152E74B8F5CCC838F51AF923DA404/'.
+[2018.10.06-22.12.33:203][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.06-22.12.33:249][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.06-22.12.33:286][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.06-22.12.33:320][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.06-22.12.33:385][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.06-22.12.33:431][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.06-22.12.33:468][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.06-22.12.33:516][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.06-22.12.33:542][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-22.12.33:701][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.06-22.12.33:870][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.06-22.12.33:870][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.06-22.12.33:917][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.06-22.12.33:917][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.06-22.12.33:949][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.06-22.12.33:986][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.06-22.12.34:030][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.06-22.12.34:068][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.06-22.12.34:096][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.06-22.12.34:096][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.06-22.12.34:928][  0]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.06-22.12.34:928][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.06-22.12.34:928][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.06-22.12.34:929][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.06-22.12.40:870][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.06-22.12.41:083][  0]LogDerivedDataCache: Loaded boot cache 0.21s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-22.12.41:083][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.06-22.12.41:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.06-22.12.41:083][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.06-22.12.41:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.06-22.12.41:083][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.06-22.12.41:157][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.06-22.12.41:170][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.06-22.12.41:170][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.06-22.12.41:170][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.06-22.12.41:218][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.06-22.12.41:263][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.06-22.12.41:348][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.06-22.12.42:051][  0]LogAssetRegistry: FAssetRegistry took 0.0375 seconds to start up
+[2018.10.06-22.12.45:981][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-22.12.48:648][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.06-22.12.48:767][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.06-22.12.48:768][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.06-22.12.48:769][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.06-22.12.48:769][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.06-22.12.49:050][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.10.06-22.12.50:754][  0]LogConfig: Warning: Failed to saved backup for config[GameplayTags]
+[2018.10.06-22.12.53:187][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/2657c409.bin
+[2018.10.06-22.12.53:192][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.53:693][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.54:194][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.54:694][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.55:194][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.55:695][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.56:195][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.56:696][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.57:196][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.57:696][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin', retrying in .5s...
+[2018.10.06-22.12.58:197][  0]LogFileManager: Error: Error moving file '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin.tmp' to '../../../../../Github/climb-summit/TheSummit/Intermediate/AssetRegistryCache/1d5167fa.bin'.
+[2018.10.06-22.12.58:300][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 5.171329 seconds
+[2018.10.06-22.12.58:308][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.06-22.12.58:308][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.06-22.12.58:308][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.06-22.13.11:185][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.06-22.13.11:225][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.06-22.13.13:233][  0]SourceControl: Source control is disabled
+[2018.10.06-22.13.15:461][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.06-22.13.15:711][  0]LogOcInput: OculusInput pre-init called
+[2018.10.06-22.13.16:367][  0]LogEngine: Initializing Engine...
+[2018.10.06-22.13.22:053][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.06-22.13.22:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-22.13.22:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-22.13.22:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-22.13.22:056][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-22.13.22:278][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.06-22.13.22:288][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.06-22.13.22:351][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.06-22.13.22:366][  0]LogInit: FAudioDevice initialized.
+[2018.10.06-22.13.22:366][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.06-22.13.22:444][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-22.13.22:455][  0]LogInit: Texture streaming: Enabled
+[2018.10.06-22.13.22:470][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.06-22.13.22:485][  0]LogInit: Transaction tracking system initialized
+[2018.10.06-22.13.22:501][  0]BlueprintLog: New page: Editor Load
+[2018.10.06-22.13.22:561][  0]LocalizationService: Localization service is disabled
+[2018.10.06-22.13.25:830][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.03s
+[2018.10.06-22.13.25:830][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.06-22.13.25:846][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.06-22.13.25:878][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.06-22.13.25:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-22.13.25:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-22.13.25:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-22.13.25:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-22.13.28:965][  0]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.06-22.13.28:970][  0]LightingResults: New page: Lighting Build
+[2018.10.06-22.13.29:043][  0]MapCheck: New page: Map Check
+[2018.10.06-22.13.29:043][  0]LightingResults: New page: Lighting Build
+[2018.10.06-22.13.30:671][  0]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.06-22.13.31:196][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.06-22.13.31:322][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.06-22.13.31:410][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.344ms to complete.
+[2018.10.06-22.13.31:410][  0]LogFileHelpers: Loading map 'TreeCutTestMap' took 2.463
+[2018.10.06-22.13.32:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-22.13.32:926][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-22.13.32:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-22.13.32:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-22.13.33:096][  0]LogCollectionManager: Loaded 0 collections in 0.001321 seconds
+[2018.10.06-22.13.33:263][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.10.06-22.13.33:264][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.10.06-22.13.33:264][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.10.06-22.13.33:264][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.10.06-22.13.33:306][  0]LogContentBrowser: Native class hierarchy populated in 0.0206 seconds. Added 2572 classes and 603 folders.
+[2018.10.06-22.13.33:430][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.06-22.13.35:129][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.06-22.13.35:205][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.06-22.13.36:204][  0]LogSlate: Took 0.021348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.06-22.13.36:239][  0]LogSlate: Took 0.031658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.06-22.13.36:293][  0]LogSlate: Took 0.012748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.06-22.13.37:075][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.06-22.13.37:780][  0]LogSlate: Took 0.028442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.06-22.13.38:152][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.06-22.13.38:152][  0]LogLoad: (Engine Initialization) Total time: 94.66 seconds
+[2018.10.06-22.13.38:152][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.06-22.13.38:865][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.06-22.13.39:721][  4]LogAssetRegistry: Asset discovery search completed in 57.6925 seconds
+[2018.10.06-22.13.39:722][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.10.06-22.13.39:723][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2018.10.06-22.14.29:610][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.14.46:122][833]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.06-22.14.48:048][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-22.14.48:650][833]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapB6696AC54BC696986EF3B9ABD63AB916.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap'
+[2018.10.06-22.14.49:191][833]LogFileHelpers: Saving map 'TreeCutTestMap' took 1.235
+[2018.10.06-22.14.49:195][833]LogMetaData: Removing '/Game/AlisTesting/TreeCutTestMap.TreeCutTestMap_C' ref from Metadata '/Game/TreeCutTesting/TreeCutTestMap.PackageMetaData'
+[2018.10.06-22.14.49:195][833]LogMetaData: Removing '/Game/AlisTesting/TreeCutTestMap.SKEL_TreeCutTestMap_C' ref from Metadata '/Game/TreeCutTesting/TreeCutTestMap.PackageMetaData'
+[2018.10.06-22.14.49:212][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.06-22.14.49:319][833]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData55B8F4E94B43157116F28D8D760469CA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.14.49:573][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.06-22.14.51:521][833]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData2FAFDCAD42885258658674B9367BA1F9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.14.51:522][833]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset', retrying in .5s...
+[2018.10.06-22.14.52:023][833]LogFileManager: Error: Error deleting file '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'.
+[2018.10.06-22.14.52:023][833]LogSavePackage: Error: Error saving '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.14.57:273][833]LogSlate: Window 'Message' being destroyed
+[2018.10.06-22.14.57:288][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.06-22.14.57:343][833]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataBEEF75E0413B95E48B35A7ABE3251C1F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.14.57:344][833]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset', retrying in .5s...
+[2018.10.06-22.14.57:846][833]LogFileManager: Error: Error deleting file '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'.
+[2018.10.06-22.14.57:846][833]LogSavePackage: Error: Error saving '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.20.19:021][833]LogSlate: Window 'Message' being destroyed
+[2018.10.06-22.20.19:031][833]EditorErrors: New page: Save Output
+[2018.10.06-22.20.19:031][833]EditorErrors: Warning: Error saving '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.20.19:031][833]EditorErrors: Warning: Error saving '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.20.21:577][130]LogSlate: Window 'Message Log' being destroyed
+[2018.10.06-22.20.21:583][130]LogSlate: Window 'Message Log' being destroyed
+[2018.10.06-22.21.19:190][245]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheSummit
+[2018.10.06-22.21.19:190][245]LogTemp: CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.06-22.21.19:190][245]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.20
+[2018.10.06-22.21.19:190][245]LogTemp: Env CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.06-22.21.19:190][245]LogTemp: BranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries --- GameBranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries
+[2018.10.06-22.21.19:190][245]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\aliha\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.06-22.21.19:190][245]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.06-22.21.57:206][493]LogSlate: Window 'New Channel' being destroyed
+[2018.10.06-22.22.00:258][829]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.06-22.22.00:264][829]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.06-22.22.01:355][951]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character_Blueprint.Character_Blueprint
+[2018.10.06-22.22.01:928][951]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.06-22.22.02:759][951]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.06-22.22.02:886][952]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.06-22.23.35:059][162]LogRenderer: Reallocating scene render targets to support 1208x812 Format 10 NumSamples 1 (Frame:1).
+[2018.10.06-22.23.37:406][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.23.41:535][706]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto1261315A742F710BF5F3D5BB923707B79.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AlisTesting/TreeCutTestMap_Auto1.umap'
+[2018.10.06-22.23.41:551][706]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AlisTesting/TreeCutTestMap' took 0.207
+[2018.10.06-22.23.41:551][706]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.207
+[2018.10.06-22.23.41:553][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Blueprint] ([1] browsable assets)...
+[2018.10.06-22.23.41:564][706]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character_Blueprint.Character_Blueprint]
+[2018.10.06-22.23.41:564][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprint]
+[2018.10.06-22.23.41:564][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Character_Blueprint_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.06-22.23.41:638][706]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint_Auto1A4DEE1DA4421918C1237269D841B44F6.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Character_Blueprint_Auto1.uasset'
+[2018.10.06-22.23.41:641][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TreeCutTesting/TreeCutTestMap] ([5] browsable assets)...
+[2018.10.06-22.23.41:641][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/TreeCutTesting/TreeCutTestMap]
+[2018.10.06-22.23.41:664][706]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto19F39991E4071D7C5D6E7698575A1DD10.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/TreeCutTesting/TreeCutTestMap_Auto1.uasset'
+[2018.10.06-22.23.41:666][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TreeCutTesting/TreeCutTestMap_BuiltData] ([1] browsable assets)...
+[2018.10.06-22.23.41:666][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/TreeCutTesting/TreeCutTestMap_BuiltData]
+[2018.10.06-22.23.41:722][706]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData_Auto1053F43CA41E27BE854BAB9A99B59FFFC.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/TreeCutTesting/TreeCutTestMap_BuiltData_Auto1.uasset'
+[2018.10.06-22.23.41:723][706]LogFileHelpers: Auto-saving content packages took 0.171
+[2018.10.06-22.23.50:152][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.23.50:230][510]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintB97EEE4C443A41C97E7BB4BB273899D6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.23.52:111][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.23.52:189][676]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.06-22.24.22:632][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-22.24.22:711][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.24.22:786][252]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintD939C55A46135FD9AA74E8968421420F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.24.25:871][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-22.24.26:050][548]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap630606654877AF56716BFCA250A91865.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap'
+[2018.10.06-22.24.26:317][548]LogFileHelpers: Saving map 'TreeCutTestMap' took 0.516
+[2018.10.06-22.24.29:360][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.06-22.24.30:475][  6]LogEditorViewport: Clicking on Actor (LMB): Hatchet_Blueprint_C (Hatchet_Blueprint)
+[2018.10.06-22.24.31:883][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.24.44:371][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-22.24.44:567][641]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapC18FA2434A30B0DD3C808183BDFCCC4E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap'
+[2018.10.06-22.24.44:679][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.06-22.24.44:712][641]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataF6BA1E994B18D1120BBE4D83D75A9495.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.25.01:359][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.25.01:446][227]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint19DF96F749D8CDBC0036B199AC8CC961.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.25.14:154][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-22.25.22:873][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-22.25.26:796][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.26.24:648][493]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.06-22.26.24:969][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.26.25:055][493]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint06B554324F9D123848D6AFBEFB539F5A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.26.28:425][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.26.30:463][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-22.26.30:702][986]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap530786294F15A2A8501AE0B04B039B21.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap'
+[2018.10.06-22.26.30:760][986]LogFileHelpers: Saving map 'TreeCutTestMap' took 0.375
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x24b009dffa0 [can pipeline])
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.207.38.109) port 443 (#6))
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 3 (upload completely sent off: 379 out of 379 bytes)
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 6 (Closing connection 6)
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37E07414-4B9B-B80B-56A0-F18A658FEC25%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=23b803834a6e21c2335149ab046191d9%7C6a37eeab3d4f4c15b78733ca7c7e556d%7C902a0952-3a11-4de2-b10f-3626945c9d73&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.10.06-22.30.57:585][434]LogHttp: Warning: 0000024B52CD91C0: libcurl info message cache 9 (Closing connection 7)
+[2018.10.06-22.34.03:448][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.34.03:531][972]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint05F9DFCD4F36F671A37F5C8A68A36964.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.34.45:297][  3]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.06-22.34.45:598][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.34.45:680][  3]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint98E65A8A4505BFF8937BFD83CA5A9FD9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.34.55:588][822]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tools/Hatchet_Blueprint.Hatchet_Blueprint
+[2018.10.06-22.35.54:284][968]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.06-22.35.54:588][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.35.54:670][968]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintFC16F5D645402D4DE3772C80BDD4190E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.36.15:627][712]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.377 s
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: Ensure condition failed: CurrentTransaction [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorTransaction.cpp] [Line: 1368]
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: Stack: 
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f2387136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f20c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f20db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf46cbe0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f1e28a UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f22349 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f22fcc UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f2360e UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f21f9c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ed9d87 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0eda1e7 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f61645fb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf28d9cd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf28d7cf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea87b428 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea84ecd7 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea8541be UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea840182 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea83e7af UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea83d81d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf794273 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ea4cc9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ecac5d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ebeb2d6c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f13f5b6c UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ebf2f60a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f38a9e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fd1ff8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fab25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff90569d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff905690270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff90569f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff90568c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6cc1 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6693 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff9056a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.15:627][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c14254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.15:628][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.15:628][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.15:628][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1443dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.15:628][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1445aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.15:628][712]LogOutputDevice: Error: [Callstack] 0x00007ff938243034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-22.36.15:628][712]LogOutputDevice: Error: [Callstack] 0x00007ff9398a1461 ntdll.dll!UnknownFunction []
+[2018.10.06-22.36.15:628][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.15:635][712]LogStats:                SubmitErrorReport -  0.006 s
+[2018.10.06-22.36.21:419][712]LogStats:                    SendNewReport -  5.783 s
+[2018.10.06-22.36.21:419][712]LogStats:             FDebug::EnsureFailed -  6.169 s
+[2018.10.06-22.36.21:420][712]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: Ensure condition failed: Pin->LinkedTo.Contains(ReferencingPin) || GEditor->Trans->IsObjectTransacting(Pin->GetOwningNode()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1728]
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: Stack: 
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f2387136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f20c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f20db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f1e2b9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f22349 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f22fcc UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f2360e UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f21f9c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ed9d87 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0eda1e7 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f61645fb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf28d9cd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf28d7cf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea87b428 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea84ecd7 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea8541be UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea840182 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea83e7af UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea83d81d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf794273 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ea4cc9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ecac5d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ebeb2d6c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f13f5b6c UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ebf2f60a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f38a9e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fd1ff8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:420][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fab25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff90569d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff905690270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff90569f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff90568c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6cc1 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6693 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff9056a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c14254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1443dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1445aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff938243034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: [Callstack] 0x00007ff9398a1461 ntdll.dll!UnknownFunction []
+[2018.10.06-22.36.21:421][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.21:427][712]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.06-22.36.21:993][712]LogStats:                    SendNewReport -  0.566 s
+[2018.10.06-22.36.21:993][712]LogStats:             FDebug::EnsureFailed -  0.574 s
+[2018.10.06-22.36.21:994][712]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: Ensure condition failed: Pin->LinkedTo.Contains(ReferencingPin) || GEditor->Trans->IsObjectTransacting(Pin->GetOwningNode()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1728]
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: Stack: 
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f2387136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f20c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f20db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f1e2b9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f22349 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f22fcc UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f2360e UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f21f9c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ed9d87 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f61645fb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf28d9cd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf28d7cf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea87b428 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea84ecd7 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea8541be UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea840182 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea83e7af UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ea83d81d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8bf794273 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ea4cc9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ecac5d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ebeb2d6c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.06-22.36.21:994][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f13f5b6c UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff8ebf2f60a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f38a9e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fd1ff8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fab25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff90569d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff905690270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff90569f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff90568c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6cc1 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6693 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff9056a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c14254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1443dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff6c1445aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff938243034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: [Callstack] 0x00007ff9398a1461 ntdll.dll!UnknownFunction []
+[2018.10.06-22.36.21:995][712]LogOutputDevice: Error: 
+[2018.10.06-22.36.22:000][712]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.06-22.36.22:378][712]LogStats:                    SendNewReport -  0.377 s
+[2018.10.06-22.36.22:378][712]LogStats:             FDebug::EnsureFailed -  0.384 s
+[2018.10.06-22.36.25:302][953]LogEditorTransaction: Undo Add Node
+[2018.10.06-22.36.25:338][953]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.033 s
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: 
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Branch' not reciprocally linked with pin 'then' on node 'None (None)'
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: Stack: 
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f2387136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f20c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f20db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed522f UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f23789 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f21f9c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ed9d87 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0f243f7 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0f24df5 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0eda4d4 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf4825be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf46d7d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:338][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf44190e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf489aae UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf41c77f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f12a05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f724df UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bfc734fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bfc61498 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f370ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fa9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff90569ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff905690270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff90569f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff90568c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6cc1 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6693 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff9056a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c14254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1443dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1445aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff938243034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: [Callstack] 0x00007ff9398a1461 ntdll.dll!UnknownFunction []
+[2018.10.06-22.36.25:339][953]LogOutputDevice: Error: 
+[2018.10.06-22.36.25:350][953]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.06-22.36.25:738][953]LogStats:                    SendNewReport -  0.388 s
+[2018.10.06-22.36.25:738][953]LogStats:             FDebug::EnsureFailed -  0.433 s
+[2018.10.06-22.36.25:739][953]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: 
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'DamagedActor' on node 'Apply Damage' not reciprocally linked with pin 'OtherActor' on node 'None (None)'
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: Stack: 
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f2387136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f20c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f20db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed522f UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f23789 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8c0f21f9c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0ed9d87 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0f243f7 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0f24df5 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f0eda4d4 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf4825be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf46d7d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf44190e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf489aae UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bf41c77f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f12a05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f724df UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bfc734fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8bfc61498 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f370ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fa9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.25:739][953]LogOutputDevice: Error: [Callstack] 0x00007ff90569ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff905690270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff90569f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff90568c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6cc1 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6693 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff9056a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c14254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1443dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff6c1445aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff938243034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: [Callstack] 0x00007ff9398a1461 ntdll.dll!UnknownFunction []
+[2018.10.06-22.36.25:740][953]LogOutputDevice: Error: 
+[2018.10.06-22.36.25:741][953]LogStats:             FDebug::EnsureFailed -  0.003 s
+[2018.10.06-22.36.28:181][160]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.10.06-22.36.28:418][160]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.041 s
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: 
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Branch' not reciprocally linked with pin 'then' on node 'On Component Begin Overlap (StaticMeshComponent)'
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: Stack: 
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f2387136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f20c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f20db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed522f UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed502f UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ee0f80 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed363c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f6042591 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f601702e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5f93a14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5f92f6e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f1240091 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8bf7ed9dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f123f8ff UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f12a05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f829fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5085872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f50624bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5149c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f394c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fd1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fab25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff90569d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff905690270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff90569f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff90568c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6cc1 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6693 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff9056a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c14254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1443dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1445aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff938243034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: [Callstack] 0x00007ff9398a1461 ntdll.dll!UnknownFunction []
+[2018.10.06-22.36.28:419][160]LogOutputDevice: Error: 
+[2018.10.06-22.36.28:425][160]LogStats:             FDebug::EnsureFailed -  0.048 s
+[2018.10.06-22.36.28:426][160]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: 
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'DamagedActor' on node 'Apply Damage' not reciprocally linked with pin 'OtherActor' on node 'On Component Begin Overlap (StaticMeshComponent)'
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: Stack: 
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f2387136 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f20c0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f20db346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed522f UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed502f UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ee0f80 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8c0ed363c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f6042591 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f601702e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5f93a14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5f92f6e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f1240091 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8bf7ed9dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f123f8ff UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f12a05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f829fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5085872 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f50624bf UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f5149c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f394c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fd1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fb7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff8f4fab25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff90569d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff905690270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff90569f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff90568c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6cc1 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff9380b6693 USER32.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff9056a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c14254e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1435bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1443dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff6c1445aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff938243034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: [Callstack] 0x00007ff9398a1461 ntdll.dll!UnknownFunction []
+[2018.10.06-22.36.28:426][160]LogOutputDevice: Error: 
+[2018.10.06-22.36.28:436][160]LogStats:             FDebug::EnsureFailed -  0.011 s
+[2018.10.06-22.36.28:550][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.10.06-22.36.28:620][160]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint4AD34CF140E4ECFEF4F7D98748CE6C41.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.10.06-22.37.51:030][103]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.10.06-22.37.51:364][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.10.06-22.37.51:417][103]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_BlueprintD4FDEFEF4FFF93A41A7AECA46AE9DF29.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.10.06-22.39.36:784][ 81]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.10.06-22.39.37:095][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.10.06-22.39.37:146][ 81]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_Blueprint544BB1DE4F1A0B7464670289B25BC740.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.10.06-22.39.59:427][112]LogEditorTransaction: Undo Create Pin Link
+[2018.10.06-22.40.19:573][ 68]BlueprintLog: New page: Compile Hatchet_Blueprint
+[2018.10.06-22.40.19:873][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tools/Hatchet_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset" SILENT=true
+[2018.10.06-22.40.19:923][ 68]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Hatchet_BlueprintEF02EB5945313068C4E4D295CF01028A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Tools/Hatchet_Blueprint.uasset'
+[2018.10.06-22.40.49:986][991]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto2761F48F3474C8562EFF176A84EB3E1FE.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AlisTesting/TreeCutTestMap_Auto2.umap'
+[2018.10.06-22.40.49:991][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AlisTesting/TreeCutTestMap' took 0.249
+[2018.10.06-22.40.49:991][991]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2018.10.06-22.44.55:455][540]Cmd: TRANSACTION UNDO
+[2018.10.06-22.44.55:455][540]LogEditorTransaction: Undo Move Node
+[2018.10.06-22.44.55:665][547]LogEditorTransaction: Undo Move Node
+[2018.10.06-22.44.55:954][560]LogEditorTransaction: Undo Create Pin Link
+[2018.10.06-22.44.56:159][570]LogEditorTransaction: Undo Create Pin Link
+[2018.10.06-22.44.56:481][590]LogEditorTransaction: Undo Create Pin Link
+[2018.10.06-22.44.56:824][612]LogEditorTransaction: Undo Move Node
+[2018.10.06-22.44.57:130][631]LogEditorTransaction: Undo Delete current selection
+[2018.10.06-22.44.57:502][656]LogEditorTransaction: Undo Add Node
+[2018.10.06-22.44.57:874][681]LogEditorTransaction: Undo Add Node
+[2018.10.06-22.44.58:217][705]LogEditorTransaction: Undo Rename Variable
+[2018.10.06-22.44.58:597][731]LogEditorTransaction: Undo Add Variable
+[2018.10.06-22.44.58:959][756]LogEditorTransaction: Undo Move Nodes
+[2018.10.06-22.45.35:022][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.45.35:132][514]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint0971CFDE45429639F7857D99F352DB67.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.46.08:103][818]LogEditorTransaction: Undo Move Node
+[2018.10.06-22.46.08:758][852]LogEditorTransaction: Undo Break Pin Links
+[2018.10.06-22.49.32:948][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.49.33:039][541]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint52FC900142DFF1393BA1D2A8E5BCF431.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.49.44:770][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.49.44:851][618]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint09AE3E5B4A0601D3B4D84A8712D37C4B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.50.14:724][359]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.06-22.50.15:087][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.50.15:177][359]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintA7479B01427E5B3EFECEA5ACB8F364E5.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.53.30:708][ 65]LogEditorTransaction: Undo Delete current selection
+[2018.10.06-22.53.31:265][ 96]LogEditorTransaction: Undo Add Node
+[2018.10.06-22.53.31:766][132]LogEditorTransaction: Undo Move Node
+[2018.10.06-22.53.32:474][185]LogEditorTransaction: Undo Move Node
+[2018.10.06-22.53.32:876][213]LogEditorTransaction: Undo Create Pin Link
+[2018.10.06-22.53.33:294][215]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto311CC657F45DEF989D8FE61A8A93B0059.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AlisTesting/TreeCutTestMap_Auto3.umap'
+[2018.10.06-22.53.33:299][215]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AlisTesting/TreeCutTestMap' took 0.258
+[2018.10.06-22.53.33:299][215]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.258
+[2018.10.06-22.53.33:301][215]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Blueprint] ([1] browsable assets)...
+[2018.10.06-22.53.33:312][215]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character_Blueprint.Character_Blueprint]
+[2018.10.06-22.53.33:312][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprint]
+[2018.10.06-22.53.33:312][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Character_Blueprint_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.10.06-22.53.33:415][215]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint_Auto35A3EAF574EC51EAE0F8BE9A1B3DB71C9.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Character_Blueprint_Auto3.uasset'
+[2018.10.06-22.53.33:417][215]LogFileHelpers: Auto-saving content packages took 0.117
+[2018.10.06-22.53.34:062][269]Cmd: TRANSACTION UNDO
+[2018.10.06-22.53.34:062][269]LogEditorTransaction: Undo Add Component Nodes
+[2018.10.06-22.53.34:684][317]Cmd: TRANSACTION UNDO
+[2018.10.06-22.53.34:684][317]LogEditorTransaction: Undo Add Node
+[2018.10.06-22.53.35:194][356]Cmd: TRANSACTION UNDO
+[2018.10.06-22.53.35:194][356]LogEditorTransaction: Undo Delete current selection
+[2018.10.06-22.53.36:658][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset" SILENT=true
+[2018.10.06-22.53.36:764][460]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintE1C8141244874E96494D61AB319E641E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Character_Blueprint.uasset'
+[2018.10.06-22.53.38:239][573]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.06-22.53.49:320][536]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.06-22.53.49:327][536]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.06-22.55.27:594][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-22.55.27:804][202]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap9749F4A04B07A3A51AEAAD9982D3250A.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap.umap'
+[2018.10.06-22.55.27:923][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlisTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.06-22.55.27:963][202]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataD3CDF877407A03A412DD5785B28C3C70.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AlisTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.56.20:522][474]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.10.06-22.56.20:751][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-22.56.22:394][648]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-22.56.22:422][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-22.56.23:122][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.06-22.56.28:110][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.56.40:145][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-22.56.43:715][671]LogSlate: Window 'Save Content' being destroyed
+[2018.10.06-22.56.43:729][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-22.56.43:793][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-22.56.43:800][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap" SILENT=true
+[2018.10.06-22.56.43:825][671]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapF2C285A2439801CDDE499080EB53FA92.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap.umap'
+[2018.10.06-22.56.43:836][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TreeCutTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.06-22.56.43:984][671]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData3BC0C60343DB09AA8E3F03AF077E317C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/TreeCutTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.06-22.56.44:128][671]LogSlate: Window 'TheSummit - Unreal Editor' being destroyed
+[2018.10.06-22.56.44:336][672]Cmd: QUIT_EDITOR
+[2018.10.06-22.56.44:354][672]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.06-22.56.44:370][672]LogExit: Preparing to exit.
+[2018.10.06-22.56.45:342][672]LogExit: Editor shut down
+[2018.10.06-22.56.45:342][672]LogExit: Transaction tracking system shut down
+[2018.10.06-22.56.45:917][672]LogExit: Object subsystem successfully closed.
+[2018.10.06-22.56.45:942][672]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.06-22.56.45:946][672]LogD3D11RHI: Shutdown
+[2018.10.06-22.56.45:946][672]LogD3D11RHI: CleanupD3DDevice
+[2018.10.06-22.56.45:949][672]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.06-22.56.45:959][672]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.10.06-22.56.45:959][672]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (614)
+[2018.10.06-22.56.45:959][672]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2018.10.06-22.56.45:959][672]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.06-22.56.45:959][672]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.06-22.56.45:959][672]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.06-22.56.45:960][672]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.06-22.56.45:960][672]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.06-22.56.45:960][672]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.06-22.56.45:961][672]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.06-22.56.45:962][672]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.06-22.56.47:276][672]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.06-22.56.47:277][672]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.06-22.56.47:343][672]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.06-22.56.47:347][672]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.06-22.56.47:347][672]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.06-22.56.47:347][672]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.06-22.56.47:347][672]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.06-22.56.47:347][672]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.06-22.56.47:348][672]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.06-22.56.47:377][672]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.06-22.56.47:378][672]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.06-22.56.47:381][672]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.06-22.56.47:382][672]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.06-22.56.47:483][672]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.06-22.56.47:584][672]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.06-22.56.47:585][672]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.06-22.56.47:585][672]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.06-22.56.47:585][672]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.06-22.56.47:586][672]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.06-22.56.47:586][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.06-22.56.47:587][672]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.06-22.56.47:587][672]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.06-22.56.47:587][672]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.06-22.56.47:587][672]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.06-22.56.47:588][672]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.06-22.56.47:594][672]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.06-22.56.47:595][672]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.06-22.56.47:595][672]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.06-22.56.47:595][672]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.06-22.56.47:595][672]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.06-22.56.47:595][672]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.06-22.56.47:595][672]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.06-22.56.47:595][672]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.06-22.56.47:597][672]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.06-22.56.47:666][672]LogDerivedDataCache: Shutdown
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.06-22.56.47:666][672]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.06-22.56.47:666][672]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.06-22.56.47:667][672]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.06-22.56.47:670][672]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.06-22.56.47:670][672]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.06-22.56.47:673][672]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.06-22.56.47:673][672]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.06-22.56.47:702][672]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.06-22.56.47:703][672]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.06-22.56.47:703][672]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.06-22.56.47:737][672]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.06-22.56.47:737][672]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.06-22.56.47:737][672]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37E07414-4B9B-B80B-56A0-F18A658FEC25%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=23b803834a6e21c2335149ab046191d9%7C6a37eeab3d4f4c15b78733ca7c7e556d%7C902a0952-3a11-4de2-b10f-3626945c9d73&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.06-22.56.47:762][672]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.06-22.56.47:763][672]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.06-22.56.47:780][672]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.06-22.56.47:780][672]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.06-22.56.47:781][672]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.06-22.56.47:793][672]LogExit: Exiting.
+[2018.10.06-22.56.47:833][672]Log file closed, 10/06/18 18:56:47
