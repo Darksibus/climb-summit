@@ -1,0 +1,1563 @@
+﻿Log file open, 10/08/18 20:28:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.551745
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.137s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.09-00.28.00:393][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-00.28.00:393][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.09-00.28.00:409][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.09-00.28.00:409][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.09-00.28.00:409][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.09-00.28.00:410][  0]LogInit: Computer: ALI-PC
+[2018.10.09-00.28.00:410][  0]LogInit: User: aliha
+[2018.10.09-00.28.00:410][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.10.09-00.28.00:410][  0]LogInit: High frequency timer resolution =2.929943 MHz
+[2018.10.09-00.28.00:410][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.09-00.28.00:410][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.09-00.28.00:410][  0]LogMemory: Process Physical Memory: 106.93 MB used, 106.93 MB peak
+[2018.10.09-00.28.00:410][  0]LogMemory: Process Virtual Memory: 93.70 MB used, 93.70 MB peak
+[2018.10.09-00.28.00:410][  0]LogMemory: Physical Memory: 8664.06 MB used,  7652.63 MB free, 16316.69 MB total
+[2018.10.09-00.28.00:410][  0]LogMemory: Virtual Memory: 4689.96 MB used,  7652.63 MB free, 134217728.00 MB total
+[2018.10.09-00.28.00:430][  0]LogInit: Using OS detected language (en-US).
+[2018.10.09-00.28.00:430][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.09-00.28.00:431][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.09-00.28.00:832][  0]LogStreaming: Display: Took  0.401s to InitEngineTextLocalization.
+[2018.10.09-00.28.00:832][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.09-00.28.00:878][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.09-00.28.00:878][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.09-00.28.01:202][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.09-00.28.01:276][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.09-00.28.01:277][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.09-00.28.01:279][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.09-00.28.01:279][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.09-00.28.01:279][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.09-00.28.01:294][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.09-00.28.01:294][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.09-00.28.01:294][  0]LogWindows: EnumDisplayDevices:
+[2018.10.09-00.28.01:294][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.09-00.28.01:294][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.09-00.28.01:294][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-00.28.01:295][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-00.28.01:295][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.09-00.28.01:295][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.09-00.28.01:295][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2018.10.09-00.28.01:295][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2018.10.09-00.28.01:295][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.09-00.28.01:353][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.09-00.28.01:434][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.09-00.28.01:479][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/10576/).
+[2018.10.09-00.28.01:479][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/441D9984456A131553A37C957A9A7BF6/'.
+[2018.10.09-00.28.01:809][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.09-00.28.01:826][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.09-00.28.01:844][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.09-00.28.01:859][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.09-00.28.01:875][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.09-00.28.01:890][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.09-00.28.01:905][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.09-00.28.01:921][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.09-00.28.01:927][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-00.28.02:017][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.09-00.28.02:082][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-00.28.02:082][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-00.28.02:109][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-00.28.02:109][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-00.28.02:125][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.09-00.28.02:139][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.09-00.28.02:153][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.09-00.28.02:169][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.09-00.28.02:182][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.09-00.28.02:182][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.09-00.28.02:232][  0]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-00.28.02:233][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.09-00.28.02:233][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.09-00.28.02:233][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.09-00.28.03:162][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.09-00.28.03:220][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-00.28.03:220][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.09-00.28.03:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.09-00.28.03:220][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.09-00.28.03:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.09-00.28.03:220][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.09-00.28.03:235][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.09-00.28.03:247][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.09-00.28.03:247][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.09-00.28.03:247][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.09-00.28.03:265][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.09-00.28.03:267][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.09-00.28.03:268][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.09-00.28.03:352][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.10.09-00.28.03:698][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-00.28.03:840][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.09-00.28.03:843][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.09-00.28.03:843][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.09-00.28.03:843][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.09-00.28.03:843][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.09-00.28.03:865][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.10.09-00.28.04:489][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.130096 seconds
+[2018.10.09-00.28.04:498][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.09-00.28.04:498][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.09-00.28.04:498][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.09-00.28.05:479][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.09-00.28.05:493][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.09-00.28.05:653][  0]SourceControl: Source control is disabled
+[2018.10.09-00.28.06:164][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.09-00.28.06:221][  0]LogOcInput: OculusInput pre-init called
+[2018.10.09-00.28.06:291][  0]LogEngine: Initializing Engine...
+[2018.10.09-00.28.06:291][  0]LogHMD: Oculus plugin initialized. Version: 4.20.1-4233996+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.10.09-00.28.06:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-00.28.06:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-00.28.06:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.09-00.28.06:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-00.28.06:516][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.09-00.28.06:526][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.09-00.28.06:538][  0]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.28.06:554][  0]LogInit: FAudioDevice initialized.
+[2018.10.09-00.28.06:555][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.09-00.28.06:635][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-00.28.06:653][  0]LogInit: Texture streaming: Enabled
+[2018.10.09-00.28.06:668][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.09-00.28.06:684][  0]LogInit: Transaction tracking system initialized
+[2018.10.09-00.28.06:700][  0]BlueprintLog: New page: Editor Load
+[2018.10.09-00.28.06:763][  0]LocalizationService: Localization service is disabled
+[2018.10.09-00.28.07:058][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.09-00.28.07:058][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.09-00.28.07:058][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.09-00.28.07:058][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-00.28.07:058][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-00.28.07:058][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.09-00.28.07:058][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-00.28.07:232][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.01s
+[2018.10.09-00.28.07:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.28.07:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.28.07:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.28.07:314][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.28.07:320][  0]LogCollectionManager: Loaded 0 collections in 0.001143 seconds
+[2018.10.09-00.28.07:363][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.10.09-00.28.07:363][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.10.09-00.28.07:363][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.10.09-00.28.07:363][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.09-00.28.07:374][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2572 classes and 603 folders.
+[2018.10.09-00.28.07:379][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.09-00.28.07:454][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.09-00.28.07:461][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.09-00.28.07:533][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.09-00.28.07:535][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.09-00.28.07:542][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.09-00.28.07:632][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.09-00.28.07:737][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.09-00.28.07:737][  0]LogLoad: (Engine Initialization) Total time: 9.70 seconds
+[2018.10.09-00.28.07:737][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.09-00.28.07:753][  0]LogOcInput: OculusInput is initialized
+[2018.10.09-00.28.07:777][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.09-00.28.07:845][  1]LogAssetRegistry: Asset discovery search completed in 4.5150 seconds
+[2018.10.09-00.28.07:846][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.10.09-00.28.07:846][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.10.09-00.28.11:861][ 13]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-00.40.15:309][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.40.15:432][479]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-00.40.15:840][479]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.40.15:851][479]LogAssetEditorManager: Opening Asset editor for World /Game/AliTesting/TreeCutTestMap.TreeCutTestMap
+[2018.10.09-00.40.15:885][479]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.09-00.40.15:885][479]LightingResults: New page: Lighting Build
+[2018.10.09-00.40.15:887][479]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.10.09-00.40.15:888][479]LoadErrors: New page: Loading map: TreeCutTestMap.umap
+[2018.10.09-00.40.15:888][479]MapCheck: New page: Map Check
+[2018.10.09-00.40.15:888][479]LightingResults: New page: Lighting Build
+[2018.10.09-00.40.15:978][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.09-00.40.16:064][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.09-00.40.16:133][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.43ms to complete.
+[2018.10.09-00.40.16:133][479]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.249
+[2018.10.09-00.40.21:524][ 74]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-00.40.25:326][510]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.40.25:356][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.40.25:356][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.40.25:356][510]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.40.25:450][510]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:40:25 PM)
+[2018.10.09-00.40.25:450][510]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.40.25:454][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003712s)
+[2018.10.09-00.40.25:455][510]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.40.25:455][510]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.10.09-00.40.25:455][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.004649s)
+[2018.10.09-00.40.25:496][510]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.40.25:506][510]LogInit: FAudioDevice initialized.
+[2018.10.09-00.40.25:518][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.40.25:601][510]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.40.25:640][510]LogLoad: Game class is 'TestGameMode_C'
+[2018.10.09-00.40.25:643][510]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.40.25
+[2018.10.09-00.40.25:643][510]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (TestGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.10.09-00.40.25:643][510]LogWorld: Bringing up level for play took: 0.001713
+[2018.10.09-00.40.25:676][510]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.09-00.40.25:679][510]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.09-00.40.25:690][510]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 1.169
+[2018.10.09-00.40.25:691][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.40.25:691][510]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.40.25:697][510]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.40.25:697][510]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.40.25:697][510]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.40.25:697][510]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.40.25:697][510]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.40.25:698][510]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.40.25:708][510]LogRenderer: Reallocating scene render targets to support 2688x1584 Format 10 NumSamples 1 (Frame:1).
+[2018.10.09-00.40.25:708][510]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.40.41:265][989]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.40.41:266][989]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.40.41:266][989]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:135B
+[2018.10.09-00.40.41:266][989]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.40.41:266][989]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:137C
+[2018.10.09-00.40.41:266][989]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.40.52:605][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.40.52:669][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.40.52:720][988]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.40.52:752][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.40.52:753][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.40.52:821][989]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.10.09-00.40.52:822][989]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.40.52:908][994]Cmd: SELECT NONE
+[2018.10.09-00.40.58:335][546]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint
+[2018.10.09-00.40.58:935][546]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.09-00.40.59:812][546]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.09-00.41.00:125][547]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.09-00.41.24:150][335]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-00.41.32:718][331]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.41.32:726][331]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.41.33:429][414]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.41.33:457][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.41.33:457][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.41.33:457][414]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.41.33:543][414]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:41:33 PM)
+[2018.10.09-00.41.33:543][414]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.41.33:546][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002819s)
+[2018.10.09-00.41.33:547][414]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.41.33:547][414]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.10.09-00.41.33:547][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003768s)
+[2018.10.09-00.41.33:598][414]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.41.33:608][414]LogInit: FAudioDevice initialized.
+[2018.10.09-00.41.33:627][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.41.33:734][414]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.41.33:767][414]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.41.33:769][414]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.41.33
+[2018.10.09-00.41.33:769][414]LogWorld: Bringing up level for play took: 0.001354
+[2018.10.09-00.41.33:782][414]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.41.33:782][414]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.41.33:782][414]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.41.33:782][414]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.41.33:793][414]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 1.272
+[2018.10.09-00.41.33:794][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.41.33:795][414]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.41.33:800][414]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.41.33:800][414]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.41.41:779][180]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.41.41:779][180]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:1429
+[2018.10.09-00.41.41:779][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.41.41:779][180]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:144A
+[2018.10.09-00.41.41:779][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.41.41:779][180]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.41.48:970][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.43.12:088][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.43.12:151][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.43.12:186][ 47]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.43.12:234][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.43.12:235][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.43.12:578][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.10.09-00.43.12:578][ 48]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.44.36:077][651]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.44.36:083][651]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.44.38:078][799]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.44.38:107][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.44.38:107][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.44.38:107][799]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.44.38:192][799]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:44:38 PM)
+[2018.10.09-00.44.38:192][799]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.44.38:195][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003086s)
+[2018.10.09-00.44.38:196][799]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.44.38:196][799]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.10.09-00.44.38:196][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.004115s)
+[2018.10.09-00.44.38:236][799]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.44.38:248][799]LogInit: FAudioDevice initialized.
+[2018.10.09-00.44.38:275][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.44.38:381][799]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.44.38:415][799]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.44.38:416][799]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.44.38
+[2018.10.09-00.44.38:417][799]LogWorld: Bringing up level for play took: 0.001457
+[2018.10.09-00.44.38:430][799]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.44.38:430][799]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.44.38:430][799]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.44.38:430][799]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.44.38:444][799]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap -0.078
+[2018.10.09-00.44.38:444][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.44.38:446][799]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.44.38:455][799]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.44.38:456][799]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.44.45:589][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.45.39:652][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.45.39:718][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.45.39:748][682]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.45.39:794][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.45.39:795][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.45.40:126][683]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.09-00.45.40:126][683]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.45.45:583][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-00.45.46:701][208]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap67C3983E4AD863F488978E87C6A85BD4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-00.45.46:813][208]LogFileHelpers: Saving map 'TreeCutTestMap' took 1.341
+[2018.10.09-00.45.48:282][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-00.46.01:925][673]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheSummit
+[2018.10.09-00.46.01:925][673]LogTemp: CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.09-00.46.01:925][673]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.20
+[2018.10.09-00.46.01:925][673]LogTemp: Env CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.09-00.46.01:925][673]LogTemp: BranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries --- GameBranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries
+[2018.10.09-00.46.01:925][673]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\aliha\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.09-00.46.01:925][673]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.09-00.46.40:033][733]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-00.46.42:202][974]SourceControl: fatal: /Script: '/Script' is outside repository
+[2018.10.09-00.46.51:969][ 94]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.09-00.46.51:976][ 94]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.09-00.47.14:936][726]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TestGameMode.TestGameMode
+[2018.10.09-00.47.15:302][726]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (TestGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.10.09-00.47.32:938][264]LogSlate: Window 'Create New Blueprint' being destroyed
+[2018.10.09-00.47.58:130][191]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.10.09-00.47.58:130][191]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.10.09-00.47.58:130][191]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.10.09-00.48.02:999][482]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-00.48.03:461][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-00.48.03:621][482]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint4610B006433409E1FA93D3820039B4FC.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-00.48.06:164][687]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.48.06:210][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.48.06:210][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.48.06:210][687]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.48.06:290][687]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:48:06 PM)
+[2018.10.09-00.48.06:290][687]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.48.06:293][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003002s)
+[2018.10.09-00.48.06:293][687]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.48.06:294][687]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.10.09-00.48.06:294][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.004008s)
+[2018.10.09-00.48.06:360][687]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.48.06:370][687]LogInit: FAudioDevice initialized.
+[2018.10.09-00.48.06:381][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.48.06:466][687]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.48.06:496][687]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.48.06:497][687]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.48.06
+[2018.10.09-00.48.06:498][687]LogWorld: Bringing up level for play took: 0.001366
+[2018.10.09-00.48.06:511][687]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.48.06:511][687]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.48.06:511][687]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.48.06:511][687]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.48.06:518][687]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap -0.003
+[2018.10.09-00.48.06:518][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.48.06:520][687]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.48.06:525][687]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.48.06:525][687]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.48.19:224][896]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.19:224][896]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:1429
+[2018.10.09-00.48.19:224][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.19:224][896]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:144A
+[2018.10.09-00.48.19:224][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.19:224][896]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.20:068][972]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.20:068][972]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:1429
+[2018.10.09-00.48.20:068][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.20:068][972]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:144A
+[2018.10.09-00.48.20:069][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.20:069][972]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.20:702][ 29]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.20:702][ 29]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:1429
+[2018.10.09-00.48.20:702][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.20:702][ 29]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:144A
+[2018.10.09-00.48.20:702][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.20:702][ 29]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.21:402][ 92]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.21:402][ 92]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.21:403][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:135B
+[2018.10.09-00.48.21:403][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.21:403][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:137C
+[2018.10.09-00.48.21:403][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.21:825][130]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.21:825][130]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:1429
+[2018.10.09-00.48.21:825][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.21:825][130]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:144A
+[2018.10.09-00.48.21:825][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.21:825][130]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.21:925][139]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.21:925][139]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.21:925][139]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:135B
+[2018.10.09-00.48.21:925][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.21:925][139]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:137C
+[2018.10.09-00.48.21:925][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.22:413][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.22:413][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.22:414][183]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	Character_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Character_Blueprint_2
+	Function /Game/Blueprints/Character_Blueprint.Character_Blueprint_C:ExecuteUbergraph_Character_Blueprint:135B
+[2018.10.09-00.48.22:414][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.22:414][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.22:414][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.22:414][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.22:414][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.22:414][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.23:003][236]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.23:003][236]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.23:004][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.23:004][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.23:037][239]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.23:037][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.23:037][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.48.23:037][239]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.48.29:906][735]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.48.52:120][506]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.48.52:123][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.48.52:186][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.48.52:187][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.48.52:580][507]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.09-00.49.39:186][293]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.49.39:192][293]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.50.13:413][388]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.50.13:444][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.50.13:444][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.50.13:444][388]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.50.13:538][388]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:50:13 PM)
+[2018.10.09-00.50.13:538][388]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.50.13:543][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005605s)
+[2018.10.09-00.50.13:545][388]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.50.13:546][388]LogPlayLevel: PIE: World Init took: (0.001967s)
+[2018.10.09-00.50.13:546][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.008068s)
+[2018.10.09-00.50.13:588][388]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.50.13:599][388]LogInit: FAudioDevice initialized.
+[2018.10.09-00.50.13:612][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.50.13:666][388]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.50.13:708][388]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.50.13:710][388]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.50.13
+[2018.10.09-00.50.13:711][388]LogWorld: Bringing up level for play took: 0.001384
+[2018.10.09-00.50.13:724][388]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.50.13:724][388]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.50.13:724][388]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.50.13:724][388]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.50.13:742][388]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 1.221
+[2018.10.09-00.50.13:743][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.50.13:869][389]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.50.15:726][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.50.15:727][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.50.15:826][742]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.50.15:874][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.50.15:875][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.50.16:237][743]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.09-00.50.52:537][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.50.52:537][305]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.09-00.50.52:570][305]LogPlayLevel: [PlayLevel] Compiling Character_Blueprint before play...
+[2018.10.09-00.50.52:889][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-00.50.53:036][305]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint4FDE3A624504AFA0C9CFF1B73234F242.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-00.50.53:080][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 541 ms (1 blueprints)
+[2018.10.09-00.50.53:080][305]PIE: New page: SIE session: TreeCutTestMap (Oct 8, 2018, 4:50:53 PM)
+[2018.10.09-00.50.53:080][305]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.50.53:083][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002749s)
+[2018.10.09-00.50.53:083][305]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.50.53:083][305]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.10.09-00.50.53:083][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003630s)
+[2018.10.09-00.50.53:123][305]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.50.53:133][305]LogInit: FAudioDevice initialized.
+[2018.10.09-00.50.53:179][305]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.50.53:180][305]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.50.53
+[2018.10.09-00.50.53:181][305]LogWorld: Bringing up level for play took: 0.001327
+[2018.10.09-00.50.53:251][305]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.50.53:252][305]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.50.53:252][305]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 0.73
+[2018.10.09-00.50.53:361][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.50.56:807][560]LogGameMode: GameMode returned ReadyToStartMatch
+[2018.10.09-00.50.56:807][560]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.50.56:807][560]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.51.01:732][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.51.07:825][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.51.12:351][777]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:00A5
+[2018.10.09-00.51.12:351][777]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  Set Cast Shadow
+[2018.10.09-00.51.12:351][777]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:00D9
+[2018.10.09-00.51.12:351][777]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.12:351][777]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:010B
+[2018.10.09-00.51.12:352][777]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.12:352][777]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:01D2
+[2018.10.09-00.51.12:352][777]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.12:352][777]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:0204
+[2018.10.09-00.51.12:352][777]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.13:141][870]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:00A5
+[2018.10.09-00.51.13:141][870]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  Set Cast Shadow
+[2018.10.09-00.51.13:141][870]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:00D9
+[2018.10.09-00.51.13:141][870]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.13:141][870]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:010B
+[2018.10.09-00.51.13:141][870]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.13:142][870]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:01D2
+[2018.10.09-00.51.13:142][870]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.13:142][870]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
+	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint
+	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:0204
+[2018.10.09-00.51.13:142][870]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
+[2018.10.09-00.51.13:234][879]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:283][885]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:358][894]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:434][903]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:551][917]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:659][930]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:742][940]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:834][951]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:909][960]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.13:976][968]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.14:075][980]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.14:543][ 36]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.14:635][ 47]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.15:084][101]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.15:176][112]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.15:534][155]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.15:667][171]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.15:842][192]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.15:944][204]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:018][213]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:110][224]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:168][231]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:268][243]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:352][253]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:443][264]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:535][275]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:635][287]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:727][298]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:843][312]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.16:943][324]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:051][337]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:144][348]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:235][359]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:335][371]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:435][383]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:544][396]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:644][408]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:744][420]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:827][430]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.17:919][441]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:010][452]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:093][462]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:177][472]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:277][484]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:378][496]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:462][506]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:561][518]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:669][531]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:761][542]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:853][553]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.18:953][565]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:044][576]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:144][588]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:228][598]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:336][611]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:427][622]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:512][632]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:604][643]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.19:712][656]LogBlueprintUserMessages: [Character_Blueprint_2] what
+[2018.10.09-00.51.20:654][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.20:654][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.51.20:694][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.51.20:695][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.20:728][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.51.20:759][770]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.09-00.51.23:187][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.51.24:747][211]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.51.24:753][211]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.51.31:014][635]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-00.51.31:394][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-00.51.31:536][635]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint1D53E23A48F4D4CA61D9D2A0FC0AC0D0.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-00.51.33:708][834]LogTemp: Repeating last play command: Simulate
+[2018.10.09-00.51.33:756][834]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.33:756][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.51.33:757][834]PIE: New page: SIE session: TreeCutTestMap (Oct 8, 2018, 4:51:33 PM)
+[2018.10.09-00.51.33:757][834]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.51.33:759][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002700s)
+[2018.10.09-00.51.33:760][834]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.51.33:760][834]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.10.09-00.51.33:760][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003731s)
+[2018.10.09-00.51.33:799][834]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.51.33:808][834]LogInit: FAudioDevice initialized.
+[2018.10.09-00.51.33:842][834]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.51.33:843][834]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.51.33
+[2018.10.09-00.51.33:844][834]LogWorld: Bringing up level for play took: 0.001230
+[2018.10.09-00.51.33:856][834]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.51.33:857][834]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.51.33:857][834]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap -0.664
+[2018.10.09-00.51.33:859][834]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.35:233][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.35:233][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.51.35:274][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.51.35:275][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.35:308][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.51.35:333][998]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.09-00.51.37:777][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.37:777][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.51.37:777][285]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.51.37:858][285]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:51:37 PM)
+[2018.10.09-00.51.37:858][285]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.51.37:861][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002689s)
+[2018.10.09-00.51.37:861][285]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.51.37:862][285]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.10.09-00.51.37:862][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003490s)
+[2018.10.09-00.51.37:902][285]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.51.37:912][285]LogInit: FAudioDevice initialized.
+[2018.10.09-00.51.37:923][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.51.38:008][285]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.51.38:039][285]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.51.38:041][285]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.51.38
+[2018.10.09-00.51.38:041][285]LogWorld: Bringing up level for play took: 0.001572
+[2018.10.09-00.51.38:054][285]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.51.38:054][285]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.51.38:054][285]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.51.38:054][285]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.51.38:059][285]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap -0.462
+[2018.10.09-00.51.38:059][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.51.38:060][285]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.51.38:064][285]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.51.38:065][285]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.52.05:659][624]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.52.05:659][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.52.05:659][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.52.05:660][624]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.52.06:092][663]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.52.06:092][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.52.06:092][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.52.06:092][663]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.52.06:403][691]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.52.06:403][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.52.06:403][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.52.06:403][691]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.52.11:971][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.52.12:762][ 94]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.09-00.52.13:567][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.52.23:598][580]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.52.23:601][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.52.23:664][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.52.23:664][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.52.23:865][581]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.09-00.52.35:913][654]LogEditorViewport: Clicking on Actor (LMB): Character_Blueprint_C (Character_Blueprint)
+[2018.10.09-00.52.37:441][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.52.43:209][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.53.13:372][762]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-00.53.13:379][762]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.09-00.53.15:995][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-00.53.16:225][ 43]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap238A77D4437001EDA4F990A6B3F66619.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-00.53.16:357][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-00.53.16:448][ 43]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataFFD236F648161641CB85E4944FE6B11D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-00.53.20:588][415]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.09-00.53.20:668][416]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheSummit
+[2018.10.09-00.53.20:668][416]LogTemp: CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.09-00.53.20:668][416]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.20
+[2018.10.09-00.53.20:668][416]LogTemp: Env CWD: D:\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.09-00.53.20:668][416]LogTemp: BranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries --- GameBranchPath = ALI-PC/D/Unreal Engine/UE_4.20/Engine/Binaries
+[2018.10.09-00.53.20:668][416]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\aliha\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.09-00.53.21:919][541]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.09-00.53.21:924][541]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.09-00.53.22:746][631]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-00.53.50:721][920]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.53.50:759][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.53.50:759][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.53.50:759][920]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.53.50:860][920]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:53:50 PM)
+[2018.10.09-00.53.50:860][920]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.53.50:863][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002763s)
+[2018.10.09-00.53.50:864][920]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.53.50:864][920]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.10.09-00.53.50:864][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003723s)
+[2018.10.09-00.53.50:931][920]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.53.50:940][920]LogInit: FAudioDevice initialized.
+[2018.10.09-00.53.50:952][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.53.50:992][920]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.53.51:022][920]LogLoad: Game class is 'TestGameMode_C'
+[2018.10.09-00.53.51:024][920]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.53.51
+[2018.10.09-00.53.51:025][920]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (TestGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.10.09-00.53.51:025][920]LogWorld: Bringing up level for play took: 0.001487
+[2018.10.09-00.53.51:038][920]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.09-00.53.51:044][920]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 0.522
+[2018.10.09-00.53.51:044][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.53.51:155][921]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.53.52:440][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.53.52:440][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.53.52:489][439]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.53.52:520][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.53.52:521][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.53.52:571][440]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.09-00.53.53:696][572]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.53.53:726][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.53.53:726][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.53.53:726][572]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.53.53:831][572]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:53:53 PM)
+[2018.10.09-00.53.53:832][572]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.53.53:834][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2018.10.09-00.53.53:835][572]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.53.53:835][572]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2018.10.09-00.53.53:836][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003885s)
+[2018.10.09-00.53.53:876][572]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.53.53:885][572]LogInit: FAudioDevice initialized.
+[2018.10.09-00.53.53:897][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.53.53:978][572]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.53.54:005][572]LogLoad: Game class is 'TestGameMode_C'
+[2018.10.09-00.53.54:007][572]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.53.54
+[2018.10.09-00.53.54:007][572]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (TestGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.10.09-00.53.54:007][572]LogWorld: Bringing up level for play took: 0.001428
+[2018.10.09-00.53.54:019][572]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.09-00.53.54:025][572]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap -0.496
+[2018.10.09-00.53.54:026][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.53.54:026][572]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.53.54:030][572]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.53.54:030][572]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.54.04:757][640]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.54.04:757][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.54.04:757][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.54.04:757][640]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.54.05:767][731]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.54.05:767][731]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.54.05:768][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.54.05:768][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.54.06:357][784]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.54.06:358][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.54.06:358][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Character_Blueprint Function:  Execute Ubergraph Character Blueprint Graph:  EventGraph Node:  DetachFromComponent
+[2018.10.09-00.54.06:358][784]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.54.10:059][104]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.54.10:063][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.54.10:101][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.54.10:101][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.54.10:192][105]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.09-00.54.19:782][200]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.54.19:791][200]LogSlate: Window 'Message Log' being destroyed
+[2018.10.09-00.54.21:457][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-00.54.21:668][385]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap7CC2EDD44D9232B820917D8E750E16B4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-00.54.21:822][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-00.54.21:867][385]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData3F598BC94E3725717FF4B6AAD366B0BC.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-00.54.36:185][623]LogEditorViewport: Clicking on Actor (LMB): Character_Blueprint_C (Character_Blueprint)
+[2018.10.09-00.54.39:240][957]LogEditorViewport: Clicking on Actor (LMB): Character_Blueprint_C (Character_Blueprint)
+[2018.10.09-00.54.40:473][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.54.50:055][229]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint
+[2018.10.09-00.55.01:141][857]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.55.01:171][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.01:171][857]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.09-00.55.01:203][857]LogPlayLevel: [PlayLevel] Compiling Character_Blueprint before play...
+[2018.10.09-00.55.01:669][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-00.55.01:814][857]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintFDB057B242483A16F778348A74C02754.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-00.55.01:859][857]LogPlayLevel: PlayLevel: Blueprint regeneration took 688 ms (1 blueprints)
+[2018.10.09-00.55.01:860][857]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.55.01:940][857]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:55:01 PM)
+[2018.10.09-00.55.01:940][857]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.55.01:943][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002782s)
+[2018.10.09-00.55.01:944][857]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.55.01:944][857]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2018.10.09-00.55.01:944][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003710s)
+[2018.10.09-00.55.02:019][857]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.55.02:030][857]LogInit: FAudioDevice initialized.
+[2018.10.09-00.55.02:045][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.55.02:087][857]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.55.02:121][857]LogLoad: Game class is 'TestGameMode_C'
+[2018.10.09-00.55.02:123][857]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.55.02
+[2018.10.09-00.55.02:123][857]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (TestGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.10.09-00.55.02:123][857]LogWorld: Bringing up level for play took: 0.001398
+[2018.10.09-00.55.02:136][857]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.09-00.55.02:143][857]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 1.621
+[2018.10.09-00.55.02:143][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.02:248][858]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.55.02:875][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.02:876][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.55.03:121][ 58]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.55.03:152][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.55.03:153][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.03:215][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.09-00.55.03:889][108]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.55.03:940][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.03:940][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.55.03:940][108]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.55.04:017][108]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:55:04 PM)
+[2018.10.09-00.55.04:017][108]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.55.04:020][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002694s)
+[2018.10.09-00.55.04:020][108]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.55.04:021][108]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2018.10.09-00.55.04:021][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003620s)
+[2018.10.09-00.55.04:062][108]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.55.04:072][108]LogInit: FAudioDevice initialized.
+[2018.10.09-00.55.04:084][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.55.04:169][108]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.55.04:199][108]LogLoad: Game class is 'TestGameMode_C'
+[2018.10.09-00.55.04:201][108]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.55.04
+[2018.10.09-00.55.04:201][108]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (TestGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.10.09-00.55.04:202][108]LogWorld: Bringing up level for play took: 0.001330
+[2018.10.09-00.55.04:214][108]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.09-00.55.04:221][108]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap -0.3
+[2018.10.09-00.55.04:222][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.04:223][108]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.55.04:378][108]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.55.04:378][108]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.55.12:560][752]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.13:192][809]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.13:216][811]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.15:718][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.55.15:741][968]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.55.15:744][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.15:809][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.55.15:810][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.16:041][969]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.09-00.55.21:765][510]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-00.55.25:407][929]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.55.25:440][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.25:440][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.55.25:440][929]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.55.25:561][929]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:55:25 PM)
+[2018.10.09-00.55.25:561][929]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.55.25:565][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003813s)
+[2018.10.09-00.55.25:566][929]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.55.25:566][929]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2018.10.09-00.55.25:566][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.004913s)
+[2018.10.09-00.55.25:611][929]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.55.25:621][929]LogInit: FAudioDevice initialized.
+[2018.10.09-00.55.25:633][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.55.25:689][929]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.55.25:732][929]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.55.25:734][929]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.55.25
+[2018.10.09-00.55.25:735][929]LogWorld: Bringing up level for play took: 0.001532
+[2018.10.09-00.55.25:748][929]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.55.25:748][929]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.55.25:748][929]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.55.25:748][929]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.55.25:763][929]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 1.241
+[2018.10.09-00.55.25:763][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.25:883][930]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.55.30:171][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.55.30:186][ 33]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.55.30:190][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.30:245][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.55.30:246][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.30:300][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.10.09-00.55.31:345][157]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.55.31:375][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.31:376][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.55.31:376][157]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.55.31:453][157]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:55:31 PM)
+[2018.10.09-00.55.31:453][157]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.55.31:456][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003024s)
+[2018.10.09-00.55.31:458][157]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.55.31:458][157]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2018.10.09-00.55.31:458][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.005134s)
+[2018.10.09-00.55.31:499][157]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.55.31:509][157]LogInit: FAudioDevice initialized.
+[2018.10.09-00.55.31:521][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.55.31:608][157]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.55.31:639][157]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.55.31:641][157]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.55.31
+[2018.10.09-00.55.31:641][157]LogWorld: Bringing up level for play took: 0.001319
+[2018.10.09-00.55.31:654][157]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.55.31:654][157]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.55.31:654][157]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.55.31:654][157]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.55.31:663][157]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 1.141
+[2018.10.09-00.55.31:663][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.31:665][157]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.55.31:670][157]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.55.31:670][157]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.55.33:869][354]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.34:403][402]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.34:693][428]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.36:858][617]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.36:858][617]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.40:814][973]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.40:815][973]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.55.50:446][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.55.50:466][838]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.55.50:471][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.50:514][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.55.50:514][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.55.50:582][839]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.09-00.55.57:139][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-00.55.57:352][603]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapD5A7D2A6480E5A3D7BCAA984391EFBE3.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-00.55.57:486][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-00.55.57:525][603]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData574427EA4294DA7024B2E3902BCD9F88.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-00.56.01:034][  5]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.10.09-00.56.04:065][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.56.05:173][484]LogEditorActor: Deleted Actor: PlayerStart
+[2018.10.09-00.56.05:205][484]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.10.09-00.56.07:176][715]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.56.07:207][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.56.07:207][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.56.07:207][715]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.56.07:285][715]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:56:07 PM)
+[2018.10.09-00.56.07:285][715]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.56.07:288][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003231s)
+[2018.10.09-00.56.07:289][715]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.56.07:289][715]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2018.10.09-00.56.07:289][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.004356s)
+[2018.10.09-00.56.07:335][715]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.56.07:345][715]LogInit: FAudioDevice initialized.
+[2018.10.09-00.56.07:359][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.56.07:403][715]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.56.07:437][715]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.56.07:439][715]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.56.07
+[2018.10.09-00.56.07:439][715]LogWorld: Bringing up level for play took: 0.001650
+[2018.10.09-00.56.07:452][715]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.56.07:452][715]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.56.07:452][715]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.56.07:452][715]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.56.07:460][715]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 0.939
+[2018.10.09-00.56.07:461][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.56.07:566][716]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.56.08:386][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.56.08:386][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.56.08:435][949]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.56.08:469][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.56.08:470][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.56.08:523][950]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.10.09-00.56.09:256][ 33]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.56.09:287][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.56.09:287][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.56.09:287][ 33]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.56.09:365][ 33]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:56:09 PM)
+[2018.10.09-00.56.09:365][ 33]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.56.09:368][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002702s)
+[2018.10.09-00.56.09:368][ 33]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.56.09:368][ 33]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2018.10.09-00.56.09:369][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003588s)
+[2018.10.09-00.56.09:411][ 33]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.56.09:420][ 33]LogInit: FAudioDevice initialized.
+[2018.10.09-00.56.09:433][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.56.09:518][ 33]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.56.09:548][ 33]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.56.09:550][ 33]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.56.09
+[2018.10.09-00.56.09:551][ 33]LogWorld: Bringing up level for play took: 0.001598
+[2018.10.09-00.56.09:563][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.56.09:563][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.56.09:563][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.56.09:563][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.56.09:570][ 33]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 1.049
+[2018.10.09-00.56.09:571][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.56.09:572][ 33]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.56.09:577][ 33]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.56.09:577][ 33]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-00.56.19:537][974]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.56.20:149][ 29]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.56.21:472][148]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.56.21:616][161]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.56.25:516][512]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.56.25:583][518]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpL' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-00.56.30:065][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-00.57.17:147][593]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.57.17:150][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.57.17:206][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.57.17:207][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.57.17:425][594]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.10.09-00.58.06:990][188]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-00.58.09:625][332]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-00.58.09:634][332]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-00.58.10:921][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-00.58.11:127][463]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap02B8FA614614A5F7E01121A7597D538C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-00.58.11:260][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-00.58.11:297][463]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData47997E2D4DD9B69962B7768B617F8F0F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-00.58.14:152][788]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint
+[2018.10.09-00.58.22:387][361]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-00.58.40:783][541]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-00.59.24:647][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-00.59.50:813][675]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.59.50:871][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.59.50:872][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.59.50:872][675]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.59.50:964][675]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:59:50 PM)
+[2018.10.09-00.59.50:964][675]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.59.50:967][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002654s)
+[2018.10.09-00.59.50:967][675]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.59.50:967][675]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.10.09-00.59.50:967][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003527s)
+[2018.10.09-00.59.51:012][675]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.59.51:025][675]LogInit: FAudioDevice initialized.
+[2018.10.09-00.59.51:040][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.59.51:087][675]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.59.51:120][675]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.59.51:122][675]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.59.51
+[2018.10.09-00.59.51:122][675]LogWorld: Bringing up level for play took: 0.001405
+[2018.10.09-00.59.51:135][675]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.59.51:135][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.59.51:135][675]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.59.51:135][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.59.51:142][675]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 0.62
+[2018.10.09-00.59.51:142][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.59.51:250][676]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.59.52:817][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.59.52:817][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.59.52:871][168]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-00.59.52:906][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-00.59.52:907][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.59.52:959][169]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.09-00.59.54:312][329]LogTemp: Repeating last play command: VR Preview
+[2018.10.09-00.59.54:343][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.59.54:344][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.09-00.59.54:344][329]LogHMD: Initializing OVRPlugin session
+[2018.10.09-00.59.54:429][329]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 4:59:54 PM)
+[2018.10.09-00.59.54:429][329]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
+[2018.10.09-00.59.54:432][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002685s)
+[2018.10.09-00.59.54:433][329]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-00.59.54:433][329]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2018.10.09-00.59.54:433][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.003567s)
+[2018.10.09-00.59.54:475][329]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-00.59.54:484][329]LogInit: FAudioDevice initialized.
+[2018.10.09-00.59.54:497][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-00.59.54:588][329]LogHMD: Allocating Oculus 2688 x 1584 rendertarget swapchain
+[2018.10.09-00.59.54:638][329]LogLoad: Game class is 'GameMode'
+[2018.10.09-00.59.54:640][329]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-20.59.54
+[2018.10.09-00.59.54:641][329]LogWorld: Bringing up level for play took: 0.001743
+[2018.10.09-00.59.54:654][329]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.59.54:654][329]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.09-00.59.54:654][329]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.59.54:654][329]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.09-00.59.54:660][329]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 0.139
+[2018.10.09-00.59.54:661][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-00.59.54:662][329]LogEngine: Changing dynamic resolution state.
+[2018.10.09-00.59.54:668][329]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.10.09-00.59.54:668][329]LogHMD: Allocating Oculus 2688 x 1584 depth rendertarget swapchain
+[2018.10.09-01.00.03:829][213]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-01.00.04:318][257]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-01.00.04:607][283]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'PickTheseUpR' of length 0 in '/Game/Blueprints/Character_Blueprint.Character_Blueprint_C'!
+[2018.10.09-01.00.09:576][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-01.00.31:737][576]LogSlate: Window 'TheSummit Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.09-01.00.31:741][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-01.00.31:802][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.09-01.00.31:803][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
+[2018.10.09-01.00.32:025][577]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.10.09-01.00.53:212][641]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{bf301f36-e823-4ff9-896b-1831e3e92604} was removed. Shutting down audio device.
+[2018.10.09-01.00.53:226][641]LogInit: No audio devices found!
+[2018.10.09-01.00.53:318][645]LogInit: No audio devices found!
+[2018.10.09-01.00.55:027][731]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-01.00.55:033][731]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-01.00.56:491][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-01.00.56:734][881]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap8917675341F32ECD03DBDF9DDA6B1F4C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-01.00.56:865][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-01.00.56:919][881]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataBD4ABFFC41F6454C9E080DBD1D1E270C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-01.00.59:986][943]LogSlate: Window 'Save Content' being destroyed
+[2018.10.09-01.01.00:075][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TestGameMode" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/TestGameMode.uasset" SILENT=true
+[2018.10.09-01.01.00:113][943]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TestGameMode10DB8CB840FE3BD8BC50418A7AAC95ED.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/TestGameMode.uasset'
+[2018.10.09-01.01.00:270][943]LogSlate: Window 'TheSummit - Unreal Editor' being destroyed
+[2018.10.09-01.01.00:271][943]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.09-01.01.00:470][944]Cmd: QUIT_EDITOR
+[2018.10.09-01.01.00:585][944]LogExit: Preparing to exit.
+[2018.10.09-01.01.01:138][944]LogExit: Editor shut down
+[2018.10.09-01.01.01:138][944]LogExit: Transaction tracking system shut down
+[2018.10.09-01.01.01:701][944]LogExit: Object subsystem successfully closed.
+[2018.10.09-01.01.01:724][944]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.09-01.01.01:727][944]LogD3D11RHI: Shutdown
+[2018.10.09-01.01.01:727][944]LogD3D11RHI: CleanupD3DDevice
+[2018.10.09-01.01.01:729][944]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (618)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.09-01.01.01:739][944]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.09-01.01.01:740][944]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.09-01.01.01:741][944]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.09-01.01.01:741][944]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.09-01.01.01:741][944]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.09-01.01.02:326][944]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.09-01.01.02:327][944]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.09-01.01.02:327][944]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.09-01.01.02:327][944]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.09-01.01.02:327][944]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.09-01.01.02:327][944]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.09-01.01.02:327][944]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.09-01.01.02:327][944]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.09-01.01.02:394][944]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.09-01.01.02:398][944]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.09-01.01.02:398][944]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.09-01.01.02:399][944]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.09-01.01.02:399][944]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.09-01.01.02:399][944]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.09-01.01.02:400][944]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.09-01.01.02:646][944]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.09-01.01.02:647][944]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.09-01.01.02:647][944]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.09-01.01.02:647][944]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.09-01.01.02:649][944]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.09-01.01.02:649][944]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.09-01.01.02:649][944]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.09-01.01.02:649][944]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.09-01.01.02:649][944]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.09-01.01.02:650][944]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.09-01.01.02:651][944]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.09-01.01.02:752][944]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.09-01.01.02:853][944]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.09-01.01.02:854][944]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.09-01.01.02:854][944]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.09-01.01.02:855][944]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.09-01.01.02:855][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.09-01.01.02:855][944]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.09-01.01.02:855][944]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.09-01.01.02:855][944]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.09-01.01.02:855][944]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.09-01.01.02:856][944]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.09-01.01.02:863][944]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.09-01.01.02:864][944]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.09-01.01.02:864][944]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.09-01.01.02:864][944]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.09-01.01.02:864][944]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.09-01.01.02:865][944]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.09-01.01.02:939][944]LogDerivedDataCache: Shutdown
+[2018.10.09-01.01.02:939][944]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.09-01.01.02:939][944]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-01.01.02:939][944]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.09-01.01.02:939][944]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.09-01.01.02:939][944]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.09-01.01.02:939][944]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.09-01.01.02:939][944]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.09-01.01.02:940][944]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.09-01.01.02:941][944]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.09-01.01.02:941][944]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.09-01.01.02:941][944]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.09-01.01.02:942][944]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.09-01.01.02:947][944]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.09-01.01.02:948][944]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.09-01.01.02:948][944]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.09-01.01.02:957][944]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.09-01.01.02:957][944]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.09-01.01.02:957][944]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEBF427AF-4371-38C8-DEA7-47AF63B95997%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=23b803834a6e21c2335149ab046191d9%7C6a37eeab3d4f4c15b78733ca7c7e556d%7C902a0952-3a11-4de2-b10f-3626945c9d73&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.09-01.01.02:987][944]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.09-01.01.02:988][944]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.09-01.01.02:988][944]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.09-01.01.02:989][944]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.09-01.01.03:001][944]LogExit: Exiting.
+[2018.10.09-01.01.03:005][944]Log file closed, 10/08/18 21:01:03

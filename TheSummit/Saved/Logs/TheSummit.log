@@ -1,4 +1,4 @@
-﻿Log file open, 10/08/18 15:52:13
+﻿Log file open, 10/09/18 15:52:29
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: TheSummit
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.542281
+LogStats: Stats thread started at 3.478231
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.138s to configure plugins.
+LogStreaming: Display: Took  0.398s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -148,415 +148,314 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.066s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.10.08-19.52.13:964][  0]LogInit: Selected Device Profile: [Windows]
-[2018.10.08-19.52.13:964][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.10.08-19.52.13:985][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.10.08-19.52.13:985][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.10.08-19.52.13:985][  0]LogInit: Going up to parent DeviceProfile []
-[2018.10.08-19.52.13:986][  0]LogInit: Computer: ALI-PC
-[2018.10.08-19.52.13:986][  0]LogInit: User: aliha
-[2018.10.08-19.52.13:986][  0]LogInit: CPU Page size=4096, Cores=8
-[2018.10.08-19.52.13:986][  0]LogInit: High frequency timer resolution =2.929943 MHz
-[2018.10.08-19.52.13:986][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.10.08-19.52.13:986][  0]LogMemory: Platform Memory Stats for Windows
-[2018.10.08-19.52.13:986][  0]LogMemory: Process Physical Memory: 104.78 MB used, 104.78 MB peak
-[2018.10.08-19.52.13:986][  0]LogMemory: Process Virtual Memory: 91.11 MB used, 91.11 MB peak
-[2018.10.08-19.52.13:986][  0]LogMemory: Physical Memory: 7539.37 MB used,  8777.32 MB free, 16316.69 MB total
-[2018.10.08-19.52.13:986][  0]LogMemory: Virtual Memory: 4684.80 MB used,  8777.32 MB free, 134217728.00 MB total
-[2018.10.08-19.52.14:005][  0]LogInit: Using OS detected language (en-US).
-[2018.10.08-19.52.14:005][  0]LogInit: Using OS detected locale (en-US).
-[2018.10.08-19.52.14:006][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.10.08-19.52.14:366][  0]LogStreaming: Display: Took  0.361s to InitEngineTextLocalization.
-[2018.10.08-19.52.14:366][  0]LogInit: Setting process to per monitor DPI aware
-[2018.10.08-19.52.14:395][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.10.08-19.52.14:395][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.10.08-19.52.20:387][  0]LogHMD: Failed to initialize OpenVR with code 108
-[2018.10.08-19.52.20:387][  0]LogD3D11RHI: D3D11 adapters:
-[2018.10.08-19.52.20:459][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2018.10.08-19.52.20:459][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.10.08-19.52.20:461][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.10.08-19.52.20:461][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.10.08-19.52.20:461][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.10.08-19.52.20:476][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.10.08-19.52.20:476][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2018.10.08-19.52.20:476][  0]LogWindows: EnumDisplayDevices:
-[2018.10.08-19.52.20:476][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2018.10.08-19.52.20:476][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.10.08-19.52.20:477][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.10.08-19.52.20:477][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2018.10.08-19.52.20:477][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2018.10.08-19.52.20:477][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2018.10.08-19.52.20:477][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
-[2018.10.08-19.52.20:477][  0]LogD3D11RHI:      Driver Date: 9-25-2018
-[2018.10.08-19.52.20:477][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
-[2018.10.08-19.52.20:530][  0]LogD3D11RHI: Async texture creation enabled
-[2018.10.08-19.52.20:578][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.10.08-19.52.20:625][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/27836/).
-[2018.10.08-19.52.20:625][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/6D8EC47349409AD59856209938902BE3/'.
-[2018.10.08-19.52.20:922][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.10.08-19.52.20:936][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.10.08-19.52.20:951][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.10.08-19.52.20:966][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.10.08-19.52.20:981][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.10.08-19.52.20:996][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.10.08-19.52.21:011][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.10.08-19.52.21:026][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.10.08-19.52.21:033][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:125][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.08-19.52.21:127][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.10.08-19.52.21:191][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.10.08-19.52.21:191][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.10.08-19.52.21:218][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.10.08-19.52.21:218][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.10.08-19.52.21:233][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.10.08-19.52.21:247][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.10.08-19.52.21:261][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.10.08-19.52.21:276][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.10.08-19.52.21:286][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.10.08-19.52.21:286][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.10.08-19.52.21:334][  0]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.10.08-19.52.21:334][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.10.08-19.52.21:334][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.10.08-19.52.21:334][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.10.08-19.52.22:237][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.10.08-19.52.22:289][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.10.08-19.52.22:289][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.10.08-19.52.22:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.10.08-19.52.22:289][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.10.08-19.52.22:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.10.08-19.52.22:289][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.10.08-19.52.22:302][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.10.08-19.52.22:315][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.10.08-19.52.22:315][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.10.08-19.52.22:315][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.10.08-19.52.22:333][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.10.08-19.52.22:334][  0]LogSlate: Using FreeType 2.6.0
-[2018.10.08-19.52.22:335][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.10.08-19.52.22:423][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
-[2018.10.08-19.52.22:776][  0]LogInit: Selected Device Profile: [Windows]
-[2018.10.08-19.52.22:912][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.10.08-19.52.22:915][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.10.08-19.52.22:915][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.10.08-19.52.22:915][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.10.08-19.52.22:915][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.10.08-19.52.22:939][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
-[2018.10.08-19.52.23:623][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.126505 seconds
-[2018.10.08-19.52.23:631][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.10.08-19.52.23:631][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
-[2018.10.08-19.52.23:631][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.10.08-19.52.24:579][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.10.08-19.52.24:592][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.10.08-19.52.24:753][  0]SourceControl: Source control is disabled
-[2018.10.08-19.52.25:235][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.10.08-19.52.25:293][  0]LogOcInput: OculusInput pre-init called
-[2018.10.08-19.52.25:362][  0]LogEngine: Initializing Engine...
-[2018.10.08-19.52.25:411][  0]LogHMD: Failed to initialize OpenVR with code 108
-[2018.10.08-19.52.25:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.10.08-19.52.25:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.10.08-19.52.25:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.10.08-19.52.25:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.10.08-19.52.25:672][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.10.08-19.52.25:682][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.10.08-19.52.25:763][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.10.08-19.52.25:781][  0]LogInit: FAudioDevice initialized.
-[2018.10.08-19.52.25:781][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.10.08-19.52.25:859][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.10.08-19.52.25:869][  0]LogInit: Texture streaming: Enabled
-[2018.10.08-19.52.25:884][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.10.08-19.52.25:901][  0]LogInit: Transaction tracking system initialized
-[2018.10.08-19.52.25:918][  0]BlueprintLog: New page: Editor Load
-[2018.10.08-19.52.25:981][  0]LocalizationService: Localization service is disabled
-[2018.10.08-19.52.26:264][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.10.08-19.52.26:264][  0]LogCook: Display: Mobile HDR setting 1
-[2018.10.08-19.52.26:264][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.10.08-19.52.26:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.10.08-19.52.26:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.10.08-19.52.26:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.10.08-19.52.26:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.10.08-19.52.26:301][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.01s
-[2018.10.08-19.52.26:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.08-19.52.26:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.08-19.52.26:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.08-19.52.26:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.08-19.52.26:520][  0]LogCollectionManager: Loaded 0 collections in 0.001172 seconds
-[2018.10.08-19.52.26:563][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
-[2018.10.08-19.52.26:563][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
-[2018.10.08-19.52.26:563][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
-[2018.10.08-19.52.26:563][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
-[2018.10.08-19.52.26:574][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2572 classes and 603 folders.
-[2018.10.08-19.52.26:579][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.10.08-19.52.26:647][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.10.08-19.52.26:656][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.10.08-19.52.26:728][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.10.08-19.52.26:730][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.10.08-19.52.26:736][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.10.08-19.52.26:815][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.10.08-19.52.26:961][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.10.08-19.52.26:962][  0]LogLoad: (Engine Initialization) Total time: 15.74 seconds
-[2018.10.08-19.52.26:962][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.10.08-19.52.27:000][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2018.10.08-19.52.27:043][  1]LogAssetRegistry: Asset discovery search completed in 4.6422 seconds
-[2018.10.08-19.52.27:045][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
-[2018.10.08-19.52.27:045][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
-[2018.10.08-19.52.48:500][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.08-19.52.48:575][274]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.10.08-19.52.51:221][570]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.10.08-19.52.51:229][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint
-[2018.10.08-19.52.51:817][570]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
-[2018.10.08-19.52.52:693][570]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.10.08-19.52.52:909][571]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.10.08-19.53.10:764][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-19.53.10:878][586]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint064958A14E0960CF7C88249BFD83ED1E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-19.53.14:565][969]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Tree_Blueprint.Tree_Blueprint
-[2018.10.08-19.54.24:115][721]BlueprintLog: New page: Compile Tree_Blueprint
-[2018.10.08-19.54.24:125][721]LogBlueprint: Error: [Compiler Tree_Blueprint] Spawn node  SpawnActor NONE  must have a  Class  specified.
-[2018.10.08-19.54.24:294][721]LogBlueprint: Warning: [Compiler Tree_Blueprint] [0133.07] Compile of Tree_Blueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 178 ms] (/Game/Blueprints/Tree_Blueprint.Tree_Blueprint)
-[2018.10.08-19.55.41:938][673]BlueprintLog: New page: Compile Tree_Blueprint
-[2018.10.08-19.55.41:949][673]LogBlueprint: Error: [Compiler Tree_Blueprint] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
-[2018.10.08-19.55.41:949][673]LogBlueprint: Error: [Compiler Tree_Blueprint] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
-[2018.10.08-19.55.42:101][673]LogBlueprint: Warning: [Compiler Tree_Blueprint] [0210.88] Compile of Tree_Blueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 162 ms] (/Game/Blueprints/Tree_Blueprint.Tree_Blueprint)
-[2018.10.08-19.56.14:267][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset" SILENT=true
-[2018.10.08-19.56.14:341][124]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_Blueprint756352D34BEEFF78B1CA2FB8D77D773F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset'
-[2018.10.08-19.56.25:812][326]LogAIModule: Creating AISystem for world TreeCutTestMap
-[2018.10.08-19.56.25:858][326]LogAssetEditorManager: Opening Asset editor for World /Game/AliTesting/TreeCutTestMap.TreeCutTestMap
-[2018.10.08-19.56.25:904][326]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.08-19.56.25:904][326]LightingResults: New page: Lighting Build
-[2018.10.08-19.56.25:923][326]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
-[2018.10.08-19.56.25:924][326]LoadErrors: New page: Loading map: TreeCutTestMap.umap
-[2018.10.08-19.56.25:925][326]MapCheck: New page: Map Check
-[2018.10.08-19.56.25:925][326]LightingResults: New page: Lighting Build
-[2018.10.08-19.56.26:055][326]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.08-19.56.26:174][326]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.08-19.56.26:245][326]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.759ms to complete.
-[2018.10.08-19.56.26:245][326]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.342
-[2018.10.08-19.56.28:893][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2018.10.08-19.56.34:663][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.08-19.56.58:997][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.08-19.57.02:460][570]LogSlate: Window 'Select Path' being destroyed
-[2018.10.08-19.57.02:614][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Actor_Blueprint.uasset" SILENT=true
-[2018.10.08-19.57.02:626][570]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Actor_Blueprint520080114A493F3C105E88B3D8570AC3.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Actor_Blueprint.uasset'
-[2018.10.08-19.57.02:805][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actor_Blueprint.Actor_Blueprint
-[2018.10.08-19.57.03:245][571]LogRenderer: Reallocating scene render targets to support 1208x812 Format 10 NumSamples 1 (Frame:1).
-[2018.10.08-19.58.02:676][423]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.10.08-19.58.21:858][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset" SILENT=true
-[2018.10.08-19.58.21:923][525]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_Blueprint6FA95B29489E8E6982FC43886F0F8436.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset'
-[2018.10.08-19.58.42:050][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WoodItem_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset" SILENT=true
-[2018.10.08-19.58.42:063][688]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/WoodItem_Blueprint88D4F81A4C658A07F80494B5634281A7.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset'
-[2018.10.08-19.58.42:225][688]LogMetaData: Removing '/Game/Blueprints/WoodItem_Blueprint.WoodItem_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
-[2018.10.08-19.58.42:225][688]LogMetaData: Removing '/Game/Blueprints/WoodItem_Blueprint.SKEL_WoodItem_Blueprint_C' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
-[2018.10.08-19.58.42:225][688]LogMetaData: Removing '/Game/Blueprints/WoodItem_Blueprint.WoodItem_Blueprint_C' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
-[2018.10.08-19.58.42:225][688]LogMetaData: Removing '/Game/Blueprints/WoodItem_Blueprint.WoodItem_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
-[2018.10.08-19.58.42:225][688]LogMetaData: Removing '/Game/Blueprints/WoodItem_Blueprint.WoodItem_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
-[2018.10.08-19.58.42:225][688]LogMetaData: Removing '/Game/Blueprints/WoodItem_Blueprint.WoodItem_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
-[2018.10.08-19.58.42:243][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WoodItem_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset" SILENT=true
-[2018.10.08-19.58.42:277][688]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/WoodItem_BlueprintC3A32AE648A3FCAE2B57CDB7B79D954E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset'
-[2018.10.08-19.58.42:816][688]SourceControl: rm 'TheSummit/Content/Blueprints/Actor_Blueprint.uasset'
-[2018.10.08-19.58.45:694][917]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2018.10.08-19.58.50:292][388]BlueprintLog: New page: Compile Tree_Blueprint
-[2018.10.08-19.58.50:302][388]LogBlueprint: Error: [Compiler Tree_Blueprint] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
-[2018.10.08-19.58.50:302][388]LogBlueprint: Error: [Compiler Tree_Blueprint] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
-[2018.10.08-19.58.50:458][388]LogBlueprint: Warning: [Compiler Tree_Blueprint] [0399.24] Compile of Tree_Blueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 166 ms] (/Game/Blueprints/Tree_Blueprint.Tree_Blueprint)
-[2018.10.08-19.59.28:147][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset" SILENT=true
-[2018.10.08-19.59.28:194][213]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_Blueprint22CCACF8497323DC1DE015A7D88663EC.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset'
-[2018.10.08-20.01.06:663][928]BlueprintLog: New page: Compile Tree_Blueprint
-[2018.10.08-20.01.06:928][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset" SILENT=true
-[2018.10.08-20.01.06:978][928]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_Blueprint4D12DA4B4E2C0A5E3C6943965E87A3AA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset'
-[2018.10.08-20.01.17:565][942]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WoodItem_Blueprint.WoodItem_Blueprint
-[2018.10.08-20.01.21:734][342]BlueprintLog: New page: Compile WoodItem_Blueprint
-[2018.10.08-20.01.22:001][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WoodItem_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset" SILENT=true
-[2018.10.08-20.01.22:032][342]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/WoodItem_Blueprint11450FF945514C7CC031F1A93D0F426F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset'
-[2018.10.08-20.01.43:655][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WoodItem_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset" SILENT=true
-[2018.10.08-20.01.43:696][394]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/WoodItem_Blueprint767E31B04B14BE6C2387C49AE6B0A5AB.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset'
-[2018.10.08-20.01.44:213][438]BlueprintLog: New page: Compile WoodItem_Blueprint
-[2018.10.08-20.01.50:703][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.08-20.02.27:104][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
-[2018.10.08-20.02.28:155][521]Cmd: DELETE
-[2018.10.08-20.02.28:155][521]Cmd: ACTOR DELETE
-[2018.10.08-20.02.28:194][521]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.08-20.02.28:230][521]LogEditorActor: Deleted 1 Actors (0.046 secs)
-[2018.10.08-20.02.29:808][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.08-20.02.29:886][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.10.08-20.02.30:118][707]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap73185FCC4C5D7888129362A501E4442B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
-[2018.10.08-20.02.30:249][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
-[2018.10.08-20.02.30:321][707]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataE6596267491A91F4E7ABBFB4FF2305E7.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
-[2018.10.08-20.02.39:903][640]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
-[2018.10.08-20.02.39:903][640]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
-[2018.10.08-20.02.39:903][640]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
-[2018.10.08-20.02.39:905][640]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
-[2018.10.08-20.02.39:905][640]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
-[2018.10.08-20.02.39:905][640]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
-[2018.10.08-20.02.49:175][512]BlueprintLog: New page: Compile WoodItem_Blueprint
-[2018.10.08-20.02.49:440][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WoodItem_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset" SILENT=true
-[2018.10.08-20.02.49:476][512]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/WoodItem_Blueprint7D61EA0C4BB1C75BD0354BA1AE5D1D22.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/WoodItem_Blueprint.uasset'
-[2018.10.08-20.03.41:738][541]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.03.42:088][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.03.42:220][541]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint65AD208D4F056902F5580BA1471E361F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.03.47:581][907]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.03.47:925][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.03.48:033][907]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintAB8FCF5346417CFF5EFCA4AEFD8B0236.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.04.37:790][888]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.04.38:149][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.04.38:265][888]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint94620B2844987F2817574CA81409BDE6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.04.46:404][555]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.05.37:811][941]LogEditorTransaction: Undo Create Pin Link
-[2018.10.08-20.05.38:616][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.05.38:728][982]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintA0FC6757494F310E9B56528D353743AA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.06.04:600][602]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.06.04:960][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.06.05:072][602]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintC33929BB4A1276B384D083855C588616.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.08.40:191][517]LogEditorTransaction: Undo Create Pin Link
-[2018.10.08-20.10.37:516][939]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
-[2018.10.08-20.10.43:812][452]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
-[2018.10.08-20.11.34:778][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.11.34:893][338]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint8AD50D08499083A76B1B0B953521063C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.11.50:954][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.11.51:066][807]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint827B9B4F413B1CA2E7CB3FB33E5CFAD6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.12.30:350][346]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto18C5A0587466E6A47ECEB7DBCB7EB6F79.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AliTesting/TreeCutTestMap_Auto1.umap'
-[2018.10.08-20.12.30:354][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.365
-[2018.10.08-20.12.30:354][346]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.365
-[2018.10.08-20.13.06:559][591]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
-[2018.10.08-20.22.08:074][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.22.08:205][483]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintCCA9648949B04E4D4EE6B891B7687E26.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.22.50:126][260]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto2BD07DA6F43834DFB24B612BACA3685C5.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AliTesting/TreeCutTestMap_Auto2.umap'
-[2018.10.08-20.22.50:130][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.234
-[2018.10.08-20.22.50:130][260]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
-[2018.10.08-20.23.35:343][  5]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.32.50:688][495]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto353FE39F943FB03966A67AFAB1987FA52.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AliTesting/TreeCutTestMap_Auto3.umap'
-[2018.10.08-20.32.50:692][495]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.249
-[2018.10.08-20.32.50:692][495]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
-[2018.10.08-20.32.50:694][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character_Blueprint] ([1] browsable assets)...
-[2018.10.08-20.32.50:709][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint]
-[2018.10.08-20.32.50:709][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character_Blueprint]
-[2018.10.08-20.32.50:844][495]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint_Auto3FBC312224D6D08FA8E2C88B19A36D0DF.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Blueprints/Character_Blueprint_Auto3.uasset'
-[2018.10.08-20.32.50:846][495]LogFileHelpers: Auto-saving content packages took 0.153
-[2018.10.08-20.42.30:331][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.42.30:466][363]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintEE1732F54716FC4C680BD0973D382680.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.42.31:127][408]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.42.57:425][613]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto4920CFBB2429DB7F6523E70AE9346616E.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AliTesting/TreeCutTestMap_Auto4.umap'
-[2018.10.08-20.42.57:429][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.278
-[2018.10.08-20.42.57:429][613]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.278
-[2018.10.08-20.45.01:238][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset" SILENT=true
-[2018.10.08-20.45.01:297][812]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_Blueprint67D4AEB5482FAABE2114C09B3EADBD4B.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset'
-[2018.10.08-20.45.16:434][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
-[2018.10.08-20.45.16:439][303]BlueprintLog: New page: Pre-Play auto-recompile
-[2018.10.08-20.45.16:444][303]LogPlayLevel: [PlayLevel] Compiling Tree_Blueprint before play...
-[2018.10.08-20.45.16:622][303]LogPlayLevel: PlayLevel: Blueprint regeneration took 183 ms (1 blueprints)
-[2018.10.08-20.45.16:706][303]PIE: New page: PIE session: TreeCutTestMap (Oct 8, 2018, 12:45:16 PM)
-[2018.10.08-20.45.16:719][303]LogPlayLevel: Creating play world package: /Game/AliTesting/UEDPIE_0_TreeCutTestMap
-[2018.10.08-20.45.16:777][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058143s)
-[2018.10.08-20.45.16:779][303]LogAIModule: Creating AISystem for world TreeCutTestMap
-[2018.10.08-20.45.16:786][303]LogPlayLevel: PIE: World Init took: (0.007651s)
-[2018.10.08-20.45.16:786][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AliTesting/TreeCutTestMap.TreeCutTestMap to /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap (0.066497s)
-[2018.10.08-20.45.16:855][303]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.10.08-20.45.16:867][303]LogInit: FAudioDevice initialized.
-[2018.10.08-20.45.16:920][303]LogLoad: Game class is 'GameMode'
-[2018.10.08-20.45.17:119][303]LogWorld: Bringing World /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap up for play (max tick rate 0) at 2018.10.08-16.45.17
-[2018.10.08-20.45.17:160][303]LogWorld: Bringing up level for play took: 0.078406
-[2018.10.08-20.45.17:332][303]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 10 classes and 0 folders.
-[2018.10.08-20.45.17:346][303]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
-[2018.10.08-20.45.17:346][303]LogGameState: Match State Changed from EnteringMap to WaitingToStart
-[2018.10.08-20.45.17:346][303]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
-[2018.10.08-20.45.17:378][303]LogGameState: Match State Changed from WaitingToStart to InProgress
-[2018.10.08-20.45.17:389][303]PIE: Play in editor start time for /Game/AliTesting/UEDPIE_0_TreeCutTestMap 0.868
-[2018.10.08-20.45.17:390][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
-[2018.10.08-20.45.23:188][936]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
-	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
-	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:00A5
-[2018.10.08-20.45.23:188][936]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  Set Cast Shadow
-[2018.10.08-20.45.23:188][936]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
-	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
-	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:00D9
-[2018.10.08-20.45.23:188][936]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
-[2018.10.08-20.45.23:188][936]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
-	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
-	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:010B
-[2018.10.08-20.45.23:188][936]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
-[2018.10.08-20.45.23:188][936]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
-	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
-	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:01D2
-[2018.10.08-20.45.23:188][936]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
-[2018.10.08-20.45.23:189][936]LogScript: Warning: Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill
-	Tree_Blueprint_C /Game/AliTesting/UEDPIE_0_TreeCutTestMap.TreeCutTestMap:PersistentLevel.Tree_Blueprint2_7
-	Function /Game/Blueprints/Tree_Blueprint.Tree_Blueprint_C:ExecuteUbergraph_Tree_Blueprint:0204
-[2018.10.08-20.45.23:189][936]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshComponent0 via property StaticMeshComponent, but StaticMeshComponent0 is pending kill". Blueprint:  Tree_Blueprint Function:  Execute Ubergraph Tree Blueprint Graph:  EventGraph Node:  SpawnActor Wood Item Blueprint
-[2018.10.08-20.45.25:781][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.08-20.45.27:225][386]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.10.08-20.45.39:074][764]LogEditorViewport: Clicking on Actor (LMB): WoodItem_Blueprint_C (WoodItem_Blueprint)
-[2018.10.08-20.45.41:980][ 70]LogEditorViewport: Clicking on Actor (LMB): WoodItem_Blueprint_C (WoodItem)
-[2018.10.08-20.45.44:876][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.08-20.45.44:936][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
-[2018.10.08-20.45.44:954][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.08-20.45.45:020][370]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2018.10.08-20.45.45:020][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap' with GeneratedClass '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap_C' with ClassGeneratedBy '/Game/AliTesting/TreeCutTestMap.TreeCutTestMap:PersistentLevel.TreeCutTestMap'
-[2018.10.08-20.45.45:062][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.08-20.45.45:117][371]LogPlayLevel: Display: Destroying online subsystem :Context_14
-[2018.10.08-20.45.47:101][581]LogEditorViewport: Clicking on Actor (LMB): WoodItem_Blueprint_C (WoodItem)
-[2018.10.08-20.45.48:122][691]Cmd: DELETE
-[2018.10.08-20.45.48:123][691]Cmd: ACTOR DELETE
-[2018.10.08-20.45.48:125][691]LogEditorActor: Deleted Actor: WoodItem_Blueprint_C
-[2018.10.08-20.45.48:162][691]LogEditorActor: Deleted 1 Actors (0.040 secs)
-[2018.10.08-20.45.50:753][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.08-20.45.50:825][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.10.08-20.45.51:039][  0]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap4C4165EF4CBF79068BF3B8B7F1573F6E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
-[2018.10.08-20.45.51:159][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
-[2018.10.08-20.45.51:224][  0]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData32ED07394502055C3668D186BE61E457.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
-[2018.10.08-20.46.26:236][871]BlueprintLog: New page: Compile Tree_Blueprint
-[2018.10.08-20.46.26:524][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tree_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset" SILENT=true
-[2018.10.08-20.46.26:576][871]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Tree_Blueprint89CB4B9744629677158B0C9FBB56D469.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Tree_Blueprint.uasset'
-[2018.10.08-20.50.10:462][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.50.10:606][899]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint943C983241F81A40ADBBEDA4AC356CB4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-20.52.26:765][721]LogEditorTransaction: Undo Delete current selection
-[2018.10.08-20.59.00:936][902]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-20.59.01:321][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-20.59.01:448][902]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint96209A9A4082542FE09AB198A9DDCDE7.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.00.29:862][475]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-21.00.30:243][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.00.30:362][475]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintE2D16417453DC89104541AAF565812F9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.01.47:143][229]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-21.01.47:518][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.01.47:639][229]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint34A3AF504512E840A43FB8B15F5E6103.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.02.27:809][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.02.27:923][983]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint5331EA244BC0BB5F7EBF398B418259E7.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.03.06:641][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.03.06:764][658]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint5F01C8E24CDB84D016C700BF2FC7D9C0.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.03.38:548][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.03.38:675][628]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintD9E89F384EEDCCE125E0A4B11AEAEC95.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.08.41:583][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.08.41:725][329]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint33B14B3F4A2DAE36A9F45586474F08CE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.08.53:704][235]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-21.09.19:873][407]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto5AB23510B42E811F6CA187193FC1A2C4F.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AliTesting/TreeCutTestMap_Auto5.umap'
-[2018.10.08-21.09.19:877][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.242
-[2018.10.08-21.09.19:877][407]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
-[2018.10.08-21.12.27:517][514]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-21.12.27:904][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.12.28:031][514]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint2D5C6B354D5AB82D84CA678A2D5CD775.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.16.28:399][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
-[2018.10.08-21.16.28:523][523]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint5F584F2748AD9A255381A89C641396CD.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
-[2018.10.08-21.16.29:674][615]BlueprintLog: New page: Compile Character_Blueprint
-[2018.10.08-21.16.31:001][708]BlueprintLog: New page: Compile Tree_Blueprint
-[2018.10.08-21.16.32:748][875]BlueprintLog: New page: Compile WoodItem_Blueprint
-[2018.10.08-21.16.42:003][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.08-21.16.42:129][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.10.08-21.16.42:368][909]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap95062A394B1675C55A2558B9824592A4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
-[2018.10.08-21.16.42:484][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
-[2018.10.08-21.16.42:524][909]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData0E2321A04B96156B378F9A82E3D7665C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-19.52.32:810][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-19.52.32:811][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.09-19.52.32:856][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.09-19.52.32:870][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.09-19.52.32:870][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.09-19.52.32:925][  0]LogInit: Computer: ALI-PC
+[2018.10.09-19.52.32:925][  0]LogInit: User: aliha
+[2018.10.09-19.52.32:925][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.10.09-19.52.32:925][  0]LogInit: High frequency timer resolution =2.929943 MHz
+[2018.10.09-19.52.32:925][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.09-19.52.32:925][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.09-19.52.32:925][  0]LogMemory: Process Physical Memory: 105.29 MB used, 105.29 MB peak
+[2018.10.09-19.52.32:925][  0]LogMemory: Process Virtual Memory: 98.45 MB used, 98.45 MB peak
+[2018.10.09-19.52.32:925][  0]LogMemory: Physical Memory: 7025.74 MB used,  9290.95 MB free, 16316.69 MB total
+[2018.10.09-19.52.32:925][  0]LogMemory: Virtual Memory: 4692.18 MB used,  9290.95 MB free, 134217728.00 MB total
+[2018.10.09-19.52.33:600][  0]LogInit: Using OS detected language (en-US).
+[2018.10.09-19.52.33:600][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.09-19.52.33:651][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.09-19.52.34:436][  0]LogStreaming: Display: Took  0.820s to InitEngineTextLocalization.
+[2018.10.09-19.52.34:446][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.09-19.52.35:236][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.09-19.52.35:236][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.09-19.52.44:310][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.09-19.52.44:310][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.09-19.52.44:414][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.09-19.52.44:414][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.09-19.52.44:417][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.09-19.52.44:417][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.09-19.52.44:417][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.09-19.52.44:429][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.09-19.52.44:429][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.09-19.52.44:448][  0]LogWindows: EnumDisplayDevices:
+[2018.10.09-19.52.44:448][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.09-19.52.44:448][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-19.52.44:449][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-19.52.44:449][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.09-19.52.44:449][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.09-19.52.44:449][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.09-19.52.44:449][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2018.10.09-19.52.44:449][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2018.10.09-19.52.44:449][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.09-19.52.44:506][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.09-19.52.44:759][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.09-19.52.44:822][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/17592/).
+[2018.10.09-19.52.44:823][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/4C56FC094A35CA70C9C166AA4778D839/'.
+[2018.10.09-19.52.45:557][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.09-19.52.45:595][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.09-19.52.45:633][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.09-19.52.45:675][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.09-19.52.45:750][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.09-19.52.45:803][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.09-19.52.45:845][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.09-19.52.45:898][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.09-19.52.45:924][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:058][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.09-19.52.46:082][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.09-19.52.46:250][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-19.52.46:250][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.09-19.52.46:307][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-19.52.46:307][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.09-19.52.46:354][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.09-19.52.46:390][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.09-19.52.46:435][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.09-19.52.46:489][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.09-19.52.46:518][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.09-19.52.46:518][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.09-19.52.47:303][  0]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.09-19.52.47:304][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.09-19.52.47:304][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.09-19.52.47:304][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.09-19.52.53:524][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.09-19.52.53:801][  0]LogDerivedDataCache: Loaded boot cache 0.28s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-19.52.53:801][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.09-19.52.53:801][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.09-19.52.53:801][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.09-19.52.53:801][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.09-19.52.53:801][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.09-19.52.53:872][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.09-19.52.53:884][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.09-19.52.53:884][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.09-19.52.53:884][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.09-19.52.53:939][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.09-19.52.53:984][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.09-19.52.54:069][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.09-19.52.54:757][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2018.10.09-19.52.58:797][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.09-19.53.00:895][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.09-19.53.01:130][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.09-19.53.01:130][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.09-19.53.01:131][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.09-19.53.01:131][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.09-19.53.01:463][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.10.09-19.53.05:903][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.268879 seconds
+[2018.10.09-19.53.05:961][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.09-19.53.05:961][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.09-19.53.05:961][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.09-19.53.25:690][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.09-19.53.25:732][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.09-19.53.27:096][  0]SourceControl: Source control is disabled
+[2018.10.09-19.53.29:592][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.09-19.53.29:824][  0]LogOcInput: OculusInput pre-init called
+[2018.10.09-19.53.30:646][  0]LogEngine: Initializing Engine...
+[2018.10.09-19.53.36:398][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.09-19.53.36:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-19.53.36:501][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-19.53.36:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.10.09-19.53.36:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-19.53.37:403][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.09-19.53.38:027][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.09-19.53.38:276][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.09-19.53.38:311][  0]LogInit: FAudioDevice initialized.
+[2018.10.09-19.53.38:320][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.09-19.53.38:400][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.09-19.53.38:441][  0]LogInit: Texture streaming: Enabled
+[2018.10.09-19.53.38:673][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.09-19.53.38:922][  0]LogInit: Transaction tracking system initialized
+[2018.10.09-19.53.39:278][  0]BlueprintLog: New page: Editor Load
+[2018.10.09-19.53.40:710][  0]LocalizationService: Localization service is disabled
+[2018.10.09-19.53.44:592][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.07s
+[2018.10.09-19.53.44:592][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.09-19.53.44:593][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.09-19.53.44:600][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.09-19.53.44:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.09-19.53.44:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.09-19.53.44:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.09-19.53.44:601][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.09-19.53.49:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-19.53.49:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-19.53.49:283][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-19.53.49:292][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.09-19.53.49:542][  0]LogCollectionManager: Loaded 0 collections in 0.001172 seconds
+[2018.10.09-19.53.49:997][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.10.09-19.53.49:997][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.10.09-19.53.49:997][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.10.09-19.53.49:997][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.10.09-19.53.50:049][  0]LogContentBrowser: Native class hierarchy populated in 0.0499 seconds. Added 2572 classes and 603 folders.
+[2018.10.09-19.53.50:185][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.09-19.53.52:509][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.09-19.53.52:593][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.09-19.53.53:726][  0]LogSlate: Took 0.014297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.09-19.53.53:777][  0]LogSlate: Took 0.031006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.09-19.53.53:831][  0]LogSlate: Took 0.008650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.09-19.53.54:497][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.09-19.53.55:283][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.09-19.53.55:283][  0]LogLoad: (Engine Initialization) Total time: 99.42 seconds
+[2018.10.09-19.53.55:283][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.09-19.53.55:788][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.09-19.53.56:486][  3]LogSlate: Took 0.026334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-19.53.56:737][  4]LogAssetRegistry: Asset discovery search completed in 62.0023 seconds
+[2018.10.09-19.53.56:756][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2018.10.09-19.53.56:756][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.010764 seconds (updated 0 objects)
+[2018.10.09-19.54.26:827][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-19.54.27:624][508]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.09-19.54.29:642][508]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.09-19.54.30:102][508]LogAssetEditorManager: Opening Asset editor for World /Game/AliTesting/TreeCutTestMap.TreeCutTestMap
+[2018.10.09-19.54.30:517][508]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.09-19.54.30:529][508]LightingResults: New page: Lighting Build
+[2018.10.09-19.54.30:545][508]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.10.09-19.54.30:546][508]LoadErrors: New page: Loading map: TreeCutTestMap.umap
+[2018.10.09-19.54.30:604][508]MapCheck: New page: Map Check
+[2018.10.09-19.54.30:604][508]LightingResults: New page: Lighting Build
+[2018.10.09-19.54.31:292][508]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.09-19.54.31:505][508]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.09-19.54.31:584][508]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.703ms to complete.
+[2018.10.09-19.54.31:601][508]LogFileHelpers: Loading map 'TreeCutTestMap' took 1.116
+[2018.10.09-19.55.19:019][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.09-19.55.20:062][186]LogEditorViewport: Clicking on Actor (LMB): Character_Blueprint_C (Character_Blueprint)
+[2018.10.09-19.55.22:913][455]Cmd: DELETE
+[2018.10.09-19.55.22:913][455]Cmd: ACTOR DELETE
+[2018.10.09-19.55.23:239][455]LogEditorActor: Deleted Actor: Character_Blueprint_C
+[2018.10.09-19.55.23:501][455]LogEditorActor: Deleted 1 Actors (0.334 secs)
+[2018.10.09-19.55.28:770][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-19.55.32:186][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-19.56.08:362][526]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.09-19.56.27:853][872]LogSlate: Took 0.026269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.09-19.56.28:982][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-19.56.34:015][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-19.56.37:395][969]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-19.56.38:234][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-19.56.38:239][ 61]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-19.56.39:336][181]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.10.09-19.56.39:344][181]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.10.09-19.56.53:968][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-19.56.55:259][603]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapDD55DD3D40183D184B635CA0B9C934D2.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-19.56.55:402][603]LogFileHelpers: Saving map 'TreeCutTestMap' took 1.528
+[2018.10.09-19.57.06:370][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-19.57.19:199][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-19.57.45:856][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-19.57.47:240][911]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint
+[2018.10.09-19.57.48:744][911]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.09-19.57.50:789][911]LogSlate: Took 0.011340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.09-19.58.01:992][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-19.58.02:212][604]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintC946A3C040319E0ADDA25BA8A7A9582C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-19.58.45:351][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-19.58.45:490][624]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint721FBCCD46C13B965DF8A8B26B2CF2C9.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-19.59.15:999][856]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-19.59.16:439][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-19.59.16:575][856]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint5C208F0C43F05A38B22F8E8A85F986B1.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-19.59.37:072][877]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.10.09-19.59.37:072][877]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.10.09-19.59.42:758][312]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-19.59.43:148][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-19.59.43:289][312]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintF355602449B48B8DAFEFE1AF11FABB86.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.00.48:776][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.00.48:912][742]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintFEA5F89148BF36F5AD674B841A285409.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.00.49:853][821]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-20.01.05:030][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.01.05:167][995]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint8720FCDE487510F89A64B38720001085.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.01.06:788][119]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-20.01.07:961][165]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-20.01.10:067][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.09-20.01.10:530][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TestGameMode" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/TestGameMode.uasset" SILENT=true
+[2018.10.09-20.01.10:566][416]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TestGameMode723A2808448C8BD453A53987394C6799.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/TestGameMode.uasset'
+[2018.10.09-20.01.15:693][ 24]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.09-20.01.24:229][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-20.01.24:452][ 25]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap8B32AEA94CF873AF10EDAF8C6B65187E.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-20.01.24:579][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-20.01.24:678][ 25]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltDataA179ABC94904FA88E471EC94DBD01243.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-20.01.26:097][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TestGameMode" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/TestGameMode.uasset" SILENT=true
+[2018.10.09-20.01.26:127][172]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TestGameModeEA5D9E714CFB74F8DD8090BF34D8ED82.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/TestGameMode.uasset'
+[2018.10.09-20.02.45:959][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-20.02.47:221][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-20.02.47:454][ 62]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap8654D06B457E5DC4447AE5A0623BE9A5.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-20.02.47:579][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-20.02.47:616][ 62]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData0656CD434574EB1F92F01199D2C2B74F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-20.04.58:516][913]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint
+[2018.10.09-20.12.54:603][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.034
+[2018.10.09-20.12.54:650][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character_Blueprint] ([1] browsable assets)...
+[2018.10.09-20.12.54:660][917]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint]
+[2018.10.09-20.12.54:660][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character_Blueprint]
+[2018.10.09-20.12.54:818][917]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint_Auto1EC971A9E43B7A11BFDEB399E13213ED4.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Blueprints/Character_Blueprint_Auto1.uasset'
+[2018.10.09-20.12.54:825][917]LogFileHelpers: Auto-saving content packages took 0.221
+[2018.10.09-20.13.36:698][432]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-20.13.37:099][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.13.37:235][432]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint18A12A5E4DE1E4B1C38D39B305C4BFA5.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.14.20:089][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.14.20:228][661]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint2F5F865A455EB01D3BFB51A5C0EEA3A6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.15.07:084][289]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_DetachFromComponent' [The specified module could not be found.]
+[2018.10.09-20.15.10:080][521]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UPrimitiveComponent::IsOverlappingComponent' [Element not found.]
+[2018.10.09-20.15.11:667][630]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_AttachToComponent' [Element not found.]
+[2018.10.09-20.15.14:214][801]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UPrimitiveComponent::IsOverlappingComponent' [Element not found.]
+[2018.10.09-20.15.15:730][899]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_GetComponentLocation' [Element not found.]
+[2018.10.09-20.16.40:065][781]LogEditorTransaction: Undo Create Pin Link
+[2018.10.09-20.16.40:481][793]LogEditorTransaction: Undo Create Pin Link
+[2018.10.09-20.16.40:837][805]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.10.09-20.16.41:086][809]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.10.09-20.16.41:456][824]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.10.09-20.16.41:679][827]LogEditorTransaction: Undo Move Node
+[2018.10.09-20.16.42:017][839]LogEditorTransaction: Undo Paste clipboard contents
+[2018.10.09-20.16.42:327][849]LogEditorTransaction: Undo Delete current selection
+[2018.10.09-20.16.42:658][860]LogEditorTransaction: Undo Move Node
+[2018.10.09-20.16.42:990][871]LogEditorTransaction: Undo Delete current selection
+[2018.10.09-20.16.43:641][907]LogEditorTransaction: Undo Create Pin Link
+[2018.10.09-20.16.44:149][930]LogEditorTransaction: Undo Break Pin Links
+[2018.10.09-20.16.44:673][956]LogEditorTransaction: Undo Create Pin Link
+[2018.10.09-20.16.45:158][979]LogEditorTransaction: Undo Break Pin Links
+[2018.10.09-20.16.45:616][  0]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.10.09-20.16.46:098][ 23]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.10.09-20.16.46:632][ 50]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.10.09-20.16.47:210][ 80]LogEditorTransaction: Undo Move Node
+[2018.10.09-20.16.48:041][131]LogEditorTransaction: Undo Delete current selection
+[2018.10.09-20.16.48:773][174]LogEditorTransaction: Undo Move Nodes
+[2018.10.09-20.16.49:405][210]LogEditorTransaction: Undo Add Node
+[2018.10.09-20.16.50:479][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.16.50:618][275]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintBF5925A046911F049006B88CDEE65039.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.17.44:464][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.17.44:606][264]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint93796EFD4BFBAF0D692CD493DB7AD7CA.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.17.48:285][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.17.48:415][524]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint3FC9CF834C7917FE38BEC9873683E9C4.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.17.51:364][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.17.51:496][733]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint6E6F3C794C00BF6D9ACBC58689C49877.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.17.53:435][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.09-20.17.53:567][842]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_BlueprintD2515FDA408A54118D920D9E14B0FB7C.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.09-20.18.37:466][280]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.09-20.19.17:455][821]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Unreal Engine/UE_4.20/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h'
+[2018.10.09-20.21.56:975][622]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.09-20.21.57:014][622]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.09-20.22.07:817][887]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-20.22.07:824][887]LogSlate: Window 'Character_Blueprint' being destroyed
+[2018.10.09-20.25.00:221][857]LogUObjectGlobals: Warning: Failed to find object 'Object None.EditorViewports'
+[2018.10.09-20.25.15:387][629]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.09-20.25.15:635][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-20.25.15:698][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.09-20.25.15:706][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.09-20.25.15:937][656]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap92C738444150809CDD3EA88946A42F9D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.09-20.25.16:069][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.09-20.25.16:112][656]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData3EA2AC074E5B23B2C54EFB807A1849E7.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.09-21.33.08:713][839]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Hand_Blueprint.Hand_Blueprint
+[2018.10.09-21.34.27:112][270]LogSlate: Window 'Hand_Blueprint' being destroyed
+[2018.10.09-21.34.32:303][603]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.09-21.34.34:524][603]SourceControl: rm 'TheSummit/Content/Blueprints/Hand_Blueprint.uasset'
