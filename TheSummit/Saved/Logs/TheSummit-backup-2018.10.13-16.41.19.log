@@ -1,0 +1,412 @@
+﻿Log file open, 10/12/18 18:31:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheSummit
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.321743
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.252s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.061s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.12-22.31.46:351][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.12-22.31.46:351][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.12-22.31.46:397][  0]LogHAL: Display: Platform has ~ 16 GB [17109286912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.12-22.31.46:397][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.12-22.31.46:397][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.12-22.31.46:406][  0]LogInit: Computer: ALI-PC
+[2018.10.12-22.31.46:406][  0]LogInit: User: aliha
+[2018.10.12-22.31.46:406][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.10.12-22.31.46:406][  0]LogInit: High frequency timer resolution =2.929934 MHz
+[2018.10.12-22.31.46:406][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.12-22.31.46:406][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.12-22.31.46:406][  0]LogMemory: Process Physical Memory: 104.09 MB used, 104.09 MB peak
+[2018.10.12-22.31.46:406][  0]LogMemory: Process Virtual Memory: 101.66 MB used, 101.66 MB peak
+[2018.10.12-22.31.46:406][  0]LogMemory: Physical Memory: 4864.66 MB used,  11452.03 MB free, 16316.69 MB total
+[2018.10.12-22.31.46:406][  0]LogMemory: Virtual Memory: 4695.24 MB used,  11452.03 MB free, 134217728.00 MB total
+[2018.10.12-22.31.46:685][  0]LogInit: Using OS detected language (en-US).
+[2018.10.12-22.31.46:685][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.12-22.31.46:730][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.12-22.31.47:456][  0]LogStreaming: Display: Took  0.771s to InitEngineTextLocalization.
+[2018.10.12-22.31.47:456][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.12-22.31.47:769][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.12-22.31.47:769][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.12-22.31.57:009][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.12-22.31.57:009][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.12-22.31.57:085][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.12-22.31.57:085][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.12-22.31.57:087][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.12-22.31.57:087][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.12-22.31.57:087][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.12-22.31.57:098][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.12-22.31.57:098][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.12-22.31.57:098][  0]LogWindows: EnumDisplayDevices:
+[2018.10.12-22.31.57:098][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.12-22.31.57:098][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.12-22.31.57:099][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.12-22.31.57:099][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.12-22.31.57:099][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.12-22.31.57:099][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.12-22.31.57:099][  0]LogD3D11RHI:   Driver Version: 411.70 (internal:24.21.14.1170, unified:411.70)
+[2018.10.12-22.31.57:099][  0]LogD3D11RHI:      Driver Date: 9-25-2018
+[2018.10.12-22.31.57:099][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.12-22.31.57:165][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.12-22.31.57:287][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.12-22.31.57:336][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Github/climb-summit/TheSummit/Intermediate/Shaders/WorkingDirectory/12928/).
+[2018.10.12-22.31.57:337][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aliha/AppData/Local/Temp/UnrealShaderWorkingDir/9E0572FD42F8645D9879C386420A3FE4/'.
+[2018.10.12-22.31.58:005][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.12-22.31.58:024][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.12-22.31.58:052][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.12-22.31.58:078][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.12-22.31.58:137][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.12-22.31.58:168][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.12-22.31.58:192][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.12-22.31.58:209][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.12-22.31.58:217][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:333][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.12-22.31.58:369][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.12-22.31.58:505][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.12-22.31.58:505][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.12-22.31.58:544][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.12-22.31.58:544][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.12-22.31.58:566][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.12-22.31.58:593][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.12-22.31.58:623][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.12-22.31.58:654][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.12-22.31.58:680][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.12-22.31.58:680][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.12-22.31.59:001][  0]LogXGEController: Cleaning working directory: C:/Users/aliha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.12-22.31.59:001][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.12-22.31.59:001][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.12-22.31.59:001][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.12-22.32.04:262][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.12-22.32.04:613][  0]LogDerivedDataCache: Loaded boot cache 0.35s 93MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.12-22.32.04:613][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.12-22.32.04:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.12-22.32.04:613][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.12-22.32.04:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/climb-summit/TheSummit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.12-22.32.04:613][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.12-22.32.04:650][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.12-22.32.04:662][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aliha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.12-22.32.04:662][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.12-22.32.04:662][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.12-22.32.04:691][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.12-22.32.04:699][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.12-22.32.04:756][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.12-22.32.05:369][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.10.12-22.32.06:195][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.12-22.32.07:200][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.12-22.32.07:290][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.12-22.32.07:290][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.12-22.32.07:290][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.12-22.32.07:290][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.12-22.32.07:406][  0]LogNetVersion: TheSummit 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 40220121)
+[2018.10.12-22.32.09:106][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.224190 seconds
+[2018.10.12-22.32.09:113][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.12-22.32.09:113][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.12-22.32.09:113][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.12-22.32.24:804][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2018.10.12-22.32.24:811][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:811][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:915][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2018.10.12-22.32.24:916][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:916][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:924][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2018.10.12-22.32.24:924][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:924][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:929][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2018.10.12-22.32.24:929][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:929][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:933][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2018.10.12-22.32.24:933][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:933][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:938][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2018.10.12-22.32.24:938][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:938][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:973][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2018.10.12-22.32.24:974][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:974][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:980][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.10.12-22.32.24:980][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:980][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.24:984][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2018.10.12-22.32.24:984][  0]LogMaterial: Warning: D:\Unreal Engine\UE_4.20\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.12-22.32.24:984][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2018.10.12-22.32.25:209][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.12-22.32.25:229][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.12-22.32.25:885][  0]SourceControl: Source control is disabled
+[2018.10.12-22.32.27:034][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.12-22.32.27:166][  0]LogOcInput: OculusInput pre-init called
+[2018.10.12-22.32.27:421][  0]LogEngine: Initializing Engine...
+[2018.10.12-22.32.33:135][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2018.10.12-22.32.33:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.12-22.32.33:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.12-22.32.33:151][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.12-22.32.33:151][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.12-22.32.33:475][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.12-22.32.33:549][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.12-22.32.33:566][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.12-22.32.33:581][  0]LogInit: FAudioDevice initialized.
+[2018.10.12-22.32.33:582][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.12-22.32.33:664][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/aliha/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.12-22.32.33:668][  0]LogInit: Texture streaming: Enabled
+[2018.10.12-22.32.33:719][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.12-22.32.33:759][  0]LogInit: Transaction tracking system initialized
+[2018.10.12-22.32.33:928][  0]BlueprintLog: New page: Editor Load
+[2018.10.12-22.32.34:393][  0]LocalizationService: Localization service is disabled
+[2018.10.12-22.32.35:688][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.12-22.32.35:688][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.12-22.32.35:688][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.12-22.32.35:688][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.12-22.32.35:688][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.12-22.32.35:688][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.12-22.32.35:688][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.12-22.32.36:342][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/' took 0.02s
+[2018.10.12-22.32.37:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.12-22.32.37:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.12-22.32.37:302][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.12-22.32.37:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.12-22.32.37:384][  0]LogCollectionManager: Loaded 0 collections in 0.001105 seconds
+[2018.10.12-22.32.37:509][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Saved/Collections/' took 0.01s
+[2018.10.12-22.32.37:509][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Developers/aliha/Collections/' took 0.01s
+[2018.10.12-22.32.37:509][  0]LogFileCache: Scanning file cache for directory 'D:/Github/climb-summit/TheSummit/Content/Collections/' took 0.01s
+[2018.10.12-22.32.37:509][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.10.12-22.32.37:523][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2572 classes and 603 folders.
+[2018.10.12-22.32.37:578][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.12-22.32.38:527][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.12-22.32.38:556][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.12-22.32.38:701][  0]LogSlate: Took 0.014477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.12-22.32.38:803][  0]LogSlate: Took 0.100079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.12-22.32.38:823][  0]LogSlate: Took 0.014399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.12-22.32.38:979][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.12-22.32.39:104][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.12-22.32.39:104][  0]LogLoad: (Engine Initialization) Total time: 63.49 seconds
+[2018.10.12-22.32.39:104][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.12-22.32.39:115][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.12-22.32.39:151][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.12-22.32.39:232][  1]LogAssetRegistry: Asset discovery search completed in 33.8857 seconds
+[2018.10.12-22.32.39:234][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2018.10.12-22.32.39:234][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.10.12-22.32.40:227][ 99]LogSlate: Took 0.029072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.12-22.32.43:259][456]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.12-22.32.45:058][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.12-22.32.45:966][733]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Pack_Blueprint.Pack_Blueprint
+[2018.10.12-22.32.46:656][733]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.12-22.32.47:748][733]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character_Blueprint.Character_Blueprint
+[2018.10.12-22.32.48:152][733]LogSlate: Took 0.010610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.12-22.34.13:434][904]LogSlate: Took 0.023632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.12-22.34.15:045][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.13-00.38.53:542][ 55]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.10.13-00.42.56:623][972]LogAIModule: Creating AISystem for world TreeCutTestMap
+[2018.10.13-00.42.56:636][972]LogAssetEditorManager: Opening Asset editor for World /Game/AliTesting/TreeCutTestMap.TreeCutTestMap
+[2018.10.13-00.42.56:685][972]Cmd: MAP LOAD FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.13-00.42.56:685][972]LightingResults: New page: Lighting Build
+[2018.10.13-00.42.56:699][972]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2018.10.13-00.42.56:701][972]LoadErrors: New page: Loading map: TreeCutTestMap.umap
+[2018.10.13-00.42.56:701][972]MapCheck: New page: Map Check
+[2018.10.13-00.42.56:701][972]LightingResults: New page: Lighting Build
+[2018.10.13-00.42.56:869][972]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.13-00.42.56:971][972]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.13-00.42.57:074][972]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.632ms to complete.
+[2018.10.13-00.42.57:076][972]LogFileHelpers: Loading map 'TreeCutTestMap' took 0.393
+[2018.10.13-00.43.26:192][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset" SILENT=true
+[2018.10.13-00.43.26:857][457]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Character_Blueprint31029F84445CA87B61488CA7396B0A7F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Character_Blueprint.uasset'
+[2018.10.13-00.43.46:448][807]BlueprintLog: New page: Compile Character_Blueprint
+[2018.10.13-00.44.42:021][326]BlueprintLog: New page: Compile Pack_Blueprint
+[2018.10.13-00.44.42:400][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-00.44.42:505][326]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_Blueprint6BAF1FDA4903468B677872B588070A54.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-00.53.20:590][702]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto1EB4783A44823FA9EDE371B9491E077F6.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AliTesting/TreeCutTestMap_Auto1.umap'
+[2018.10.13-00.53.20:595][702]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.288
+[2018.10.13-00.53.20:595][702]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.288
+[2018.10.13-00.53.20:597][702]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pack_Blueprint] ([1] browsable assets)...
+[2018.10.13-00.53.20:622][702]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pack_Blueprint.Pack_Blueprint]
+[2018.10.13-00.53.20:622][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pack_Blueprint]
+[2018.10.13-00.53.20:622][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Blueprints/Pack_Blueprint_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.13-00.53.20:769][702]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_Blueprint_Auto1811112A14D2C842D113B4F92756547D3.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/Blueprints/Pack_Blueprint_Auto1.uasset'
+[2018.10.13-00.53.20:771][702]LogFileHelpers: Auto-saving content packages took 0.175
+[2018.10.13-02.32.23:877][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.13-02.32.27:766][969]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMapC957D78044DA5C940F5481975C0FB261.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.13-02.32.28:203][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap_BuiltData" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset" SILENT=true
+[2018.10.13-02.32.28:506][969]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_BuiltData156FCD3545D490C1731158A58088D36D.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap_BuiltData.uasset'
+[2018.10.13-02.32.43:086][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-02.32.43:375][222]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_Blueprint5450FEA643C7BC6F4CC576A5207D7B37.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-02.33.54:008][825]LogEditorTransaction: Undo Move Nodes
+[2018.10.13-02.34.41:527][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-02.34.41:684][ 10]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_Blueprint2965DF7E42386C21A5105EAC6517D9DB.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-02.37.56:515][986]BlueprintLog: New page: Compile Pack_Blueprint
+[2018.10.13-02.37.57:104][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-02.37.57:225][986]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_Blueprint2490CD8C4F1C5E4E28E5D4A2E729BD5F.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-02.40.34:986][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-02.40.35:087][928]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_Blueprint0B224281478477B8ECE947AE8B20A282.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-02.42.23:113][540]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap_Auto24F64EE8748B1E0C7EB9148BFCD4B5017.tmp' to '../../../../../Github/climb-summit/TheSummit/Saved/Autosaves/Game/AliTesting/TreeCutTestMap_Auto2.umap'
+[2018.10.13-02.42.23:148][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AliTesting/TreeCutTestMap' took 0.309
+[2018.10.13-02.42.23:148][540]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.309
+[2018.10.13-02.43.11:961][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-02.43.12:102][496]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_BlueprintAEBD51564241D0D5AF1D018F98C7E0EE.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-02.43.19:103][926]BlueprintLog: New page: Compile Pack_Blueprint
+[2018.10.13-02.43.19:530][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-02.43.19:646][926]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_BlueprintFCB1E1C74AB02B3FB2107EAA67D9BA12.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-02.43.22:685][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pack_Blueprint" FILE="../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset" SILENT=true
+[2018.10.13-02.43.22:786][ 35]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/Pack_Blueprint6B25190D44ACE35F4BA1BB8D6F8099B6.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/Blueprints/Pack_Blueprint.uasset'
+[2018.10.13-02.43.32:328][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliTesting/TreeCutTestMap" FILE="../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.13-02.43.32:603][240]LogSavePackage: Moving '../../../../../Github/climb-summit/TheSummit/Saved/TreeCutTestMap52923AA64B7A12E5C6FA6EB6F4B04EB5.tmp' to '../../../../../Github/climb-summit/TheSummit/Content/AliTesting/TreeCutTestMap.umap'
+[2018.10.13-02.43.32:674][240]LogFileHelpers: Saving map 'TreeCutTestMap' took 0.434
