@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheSummit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\TheSummitEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\UE4Editor\Development\TheSummit\TheSummit.cpp.obj"
+"D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\UE4Editor\Development\TheSummit\PCLaunch.rc.res"
+/OUT:"D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\UE4Editor\Development\TheSummit\UE4Editor-TheSummit.lib"

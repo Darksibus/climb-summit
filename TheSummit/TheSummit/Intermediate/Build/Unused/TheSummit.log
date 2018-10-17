@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Building 3 actions with 16 processes...
+    coolBall.cpp
+    UE4Editor-TheSummit-6736.lib
+       Creating library D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\UE4Editor\Development\TheSummit\UE4Editor-TheSummit-6736.lib and object D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\UE4Editor\Development\TheSummit\UE4Editor-TheSummit-6736.exp
+    UE4Editor-TheSummit-6736.dll
+       Creating library D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\UE4Editor\Development\TheSummit\UE4Editor-TheSummit-6736.suppressed.lib and object D:\Github\climb-summit\TheSummit\Intermediate\Build\Win64\UE4Editor\Development\TheSummit\UE4Editor-TheSummit-6736.suppressed.exp
+coolBall.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AcoolBall::Tick(float)" (?Tick@AcoolBall@@UEAAXM@Z)
+coolBall.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AcoolBall::Tick(float)" (?Tick@AcoolBall@@UEAAXM@Z)
+D:\Github\climb-summit\TheSummit\Binaries\Win64\UE4Editor-TheSummit-6736.dll : fatal error LNK1120: 1 unresolved externals
+UnrealBuildTool : error : UBT ERROR: Failed to produce item: D:\Github\climb-summit\TheSummit\Binaries\Win64\UE4Editor-TheSummit-6736.dll
+                          (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+  Total build time: 4.04 seconds (Parallel executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""D:\Unreal Engine\UE_4.20\Engine\Build\BatchFiles\Build.bat" TheSummitEditor Win64 Development "D:\Github\climb-summit\TheSummit\TheSummit.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.

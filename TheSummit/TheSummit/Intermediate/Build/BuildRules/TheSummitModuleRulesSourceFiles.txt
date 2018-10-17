@@ -1,0 +1,3 @@
+D:\Github\climb-summit\TheSummit\Source\TheSummit\TheSummit.Build.cs
+D:\Github\climb-summit\TheSummit\Source\TheSummit.Target.cs
+D:\Github\climb-summit\TheSummit\Source\TheSummitEditor.Target.cs

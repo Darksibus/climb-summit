@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TheSummit.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4C358761-1F7D-4036-B884-4673133935D8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TheSummit.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TheSummitEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{BF2D836E-788F-4899-8F94-2A55D85AB47D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGameplayTags.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TheSummit">
+			<UniqueIdentifier>{B6A665FD-A504-42B5-87B2-7FB4DE49CC74}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TheSummit\TheSummit.Build.cs">
+			<Filter>Source\TheSummit</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TheSummit\TheSummit.cpp">
+			<Filter>Source\TheSummit</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TheSummit\TheSummit.h">
+			<Filter>Source\TheSummit</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
